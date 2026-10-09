@@ -1,0 +1,2001 @@
+ticket_id,created_at,category,priority,status,response_time_hrs,resolution_time_hrs,agent_id,customer_rating,issue_summary
+TKT-1322,2025-10-01 11:17,Billing,Critical,Resolved,0.8,6.7,AGT-08,4,Double payment on subscription
+TKT-1145,2025-10-01 13:14,General,Medium,Resolved,2.0,10.2,AGT-04,4,Request for product docs
+TKT-1312,2025-10-01 14:33,Billing,Medium,Resolved,1.3,3.1,AGT-06,3,Invoice missing GST details
+TKT-0377,2025-10-01 14:37,Technical,High,Resolved,0.9,5.2,AGT-07,3,Two-factor code not arriving
+TKT-0796,2025-10-01 16:55,General,Medium,Resolved,2.7,2.9,AGT-08,3,How to change account owner
+TKT-1093,2025-10-02 08:04,Technical,Low,Resolved,1.8,6.0,AGT-12,5,Two-factor code not arriving
+TKT-1032,2025-10-02 08:34,Technical,Low,Resolved,2.5,5.6,AGT-04,5,Two-factor code not arriving
+TKT-0786,2025-10-02 09:19,Billing,Medium,Resolved,3.6,9.1,AGT-10,4,Invoice missing GST details
+TKT-0487,2025-10-02 13:08,General,High,Resolved,1.1,4.0,AGT-02,5,Question about data retention
+TKT-0667,2025-10-02 13:11,General,Low,Resolved,2.5,37.4,AGT-08,4,How to change account owner
+TKT-0137,2025-10-02 13:16,Billing,High,Resolved,0.7,1.6,AGT-06,4,Double payment on subscription
+TKT-1398,2025-10-02 14:45,Technical,High,Resolved,2.1,11.7,AGT-08,4,Dashboard not loading
+TKT-1535,2025-10-02 15:49,General,Low,Resolved,2.8,6.5,AGT-01,4,Update company address
+TKT-0332,2025-10-03 08:52,Billing,Low,Resolved,9.2,18.2,AGT-10,4,Invoice missing GST details
+TKT-1602,2025-10-03 09:31,General,High,Resolved,0.8,3.2,AGT-09,5,How to change account owner
+TKT-1974,2025-10-03 11:58,General,Medium,Resolved,0.8,8.1,AGT-11,5,Feature request: dark mode
+TKT-0121,2025-10-03 17:20,Technical,Medium,Resolved,2.0,4.7,AGT-06,3,Export to CSV fails
+TKT-0323,2025-10-04 05:42,Billing,Critical,Resolved,0.5,2.8,AGT-07,3,Double payment on subscription
+TKT-1058,2025-10-04 11:22,Technical,Critical,Resolved,0.3,13.2,AGT-01,4,Dashboard not loading
+TKT-1596,2025-10-04 12:44,Billing,High,Resolved,1.3,21.1,AGT-07,4,Double payment on subscription
+TKT-0241,2025-10-04 17:38,Technical,Medium,Resolved,1.5,8.4,AGT-06,4,Two-factor code not arriving
+TKT-1064,2025-10-04 19:42,General,Low,Resolved,2.5,4.4,AGT-04,5,Feature request: dark mode
+TKT-1723,2025-10-05 09:06,Technical,Medium,Resolved,3.8,4.0,AGT-12,4,Two-factor code not arriving
+TKT-0748,2025-10-05 09:42,Technical,Medium,Resolved,1.3,7.4,AGT-04,5,API timeout in production
+TKT-1938,2025-10-05 18:30,Technical,Medium,Resolved,0.7,5.6,AGT-09,5,Two-factor code not arriving
+TKT-1204,2025-10-06 06:28,Billing,Medium,Resolved,2.0,2.8,AGT-10,5,Coupon code not applied
+TKT-1179,2025-10-06 10:10,Billing,Medium,Resolved,4.0,43.1,AGT-07,4,Refund not processed
+TKT-1369,2025-10-06 10:34,Billing,Low,Resolved,2.5,3.7,AGT-08,4,Card declined at renewal
+TKT-1222,2025-10-06 11:06,General,Medium,Resolved,1.0,37.6,AGT-07,4,Need onboarding session
+TKT-1804,2025-10-06 14:45,General,High,Resolved,1.2,9.2,AGT-08,3,How to change account owner
+TKT-1433,2025-10-06 18:30,Technical,Medium,Resolved,1.0,9.3,AGT-04,4,Login failure after update
+TKT-1546,2025-10-06 19:37,Billing,Critical,Resolved,0.4,1.9,AGT-07,3,Invoice missing GST details
+TKT-1174,2025-10-07 10:02,Technical,Medium,Resolved,2.5,18.2,AGT-01,4,Dashboard not loading
+TKT-1683,2025-10-07 10:32,General,Medium,Resolved,2.9,3.2,AGT-01,4,Update company address
+TKT-1652,2025-10-07 13:18,General,Low,Resolved,2.5,32.3,AGT-07,3,Feature request: dark mode
+TKT-1806,2025-10-07 14:20,Billing,Low,Resolved,4.2,7.1,AGT-08,3,Refund not processed
+TKT-0117,2025-10-07 17:17,Technical,High,Resolved,1.0,7.5,AGT-12,5,API timeout in production
+TKT-0827,2025-10-08 06:16,Technical,Medium,Resolved,3.0,28.2,AGT-09,4,Dashboard not loading
+TKT-0870,2025-10-08 11:39,Technical,High,Resolved,1.9,3.1,AGT-10,3,Export to CSV fails
+TKT-0890,2025-10-08 11:42,Technical,High,Resolved,0.7,4.4,AGT-02,4,Webhook events delayed
+TKT-1357,2025-10-08 13:17,Technical,High,Resolved,0.8,9.5,AGT-05,5,API timeout in production
+TKT-0570,2025-10-08 14:55,Technical,Medium,Resolved,2.8,5.2,AGT-08,2,Export to CSV fails
+TKT-1722,2025-10-08 16:00,Technical,Medium,Resolved,3.4,12.6,AGT-05,5,Login failure after update
+TKT-1773,2025-10-09 11:37,Billing,Critical,Resolved,0.7,3.3,AGT-01,4,Coupon code not applied
+TKT-1625,2025-10-09 13:42,Billing,Medium,Resolved,3.0,44.5,AGT-11,4,Double payment on subscription
+TKT-1226,2025-10-09 16:46,Billing,Low,Resolved,1.5,8.7,AGT-12,5,Card declined at renewal
+TKT-1451,2025-10-09 19:22,General,Medium,Resolved,1.9,8.8,AGT-04,4,Feature request: dark mode
+TKT-0301,2025-10-10 12:14,Technical,Low,Resolved,1.7,20.2,AGT-10,3,API timeout in production
+TKT-0923,2025-10-10 16:44,Billing,Low,Resolved,1.6,3.9,AGT-02,5,Card declined at renewal
+TKT-0417,2025-10-10 19:31,General,High,Resolved,1.5,4.5,AGT-05,4,Need onboarding session
+TKT-0935,2025-10-11 02:47,Billing,Medium,Resolved,1.6,7.2,AGT-01,5,Coupon code not applied
+TKT-1209,2025-10-11 11:21,Technical,Low,Resolved,4.3,7.8,AGT-12,5,Login failure after update
+TKT-0380,2025-10-11 11:33,General,Critical,Resolved,0.6,5.5,AGT-06,4,Feature request: dark mode
+TKT-0022,2025-10-11 12:47,Billing,Medium,Resolved,1.8,4.1,AGT-05,3,Incorrect charge on invoice
+TKT-1931,2025-10-11 14:54,General,High,Resolved,1.0,5.8,AGT-03,4,Feature request: dark mode
+TKT-0773,2025-10-12 10:50,Technical,High,Resolved,0.5,5.1,AGT-06,5,API timeout in production
+TKT-0837,2025-10-12 11:22,Billing,Low,Resolved,2.5,5.7,AGT-01,4,Coupon code not applied
+TKT-0331,2025-10-12 11:47,General,High,Resolved,0.5,3.5,AGT-07,5,Request for product docs
+TKT-0040,2025-10-12 11:49,Technical,Critical,Resolved,1.8,7.0,AGT-06,3,Webhook events delayed
+TKT-0184,2025-10-12 12:06,Technical,Medium,Resolved,2.6,4.0,AGT-06,4,API timeout in production
+TKT-0393,2025-10-12 15:54,Billing,High,Resolved,0.5,4.7,AGT-09,5,Invoice missing GST details
+TKT-1543,2025-10-12 19:14,Technical,High,Resolved,0.6,3.6,AGT-09,5,Two-factor code not arriving
+TKT-1202,2025-10-12 20:25,Technical,High,Resolved,3.3,5.5,AGT-09,5,Webhook events delayed
+TKT-0585,2025-10-13 08:59,Technical,Low,Resolved,3.1,7.4,AGT-06,3,Dashboard not loading
+TKT-0442,2025-10-13 12:14,Technical,Medium,Resolved,2.2,6.5,AGT-05,4,API timeout in production
+TKT-1353,2025-10-14 07:33,Technical,Low,Resolved,4.6,10.7,AGT-12,4,Login failure after update
+TKT-0975,2025-10-14 10:42,General,High,Resolved,2.2,5.4,AGT-08,3,Need onboarding session
+TKT-0313,2025-10-14 11:27,Technical,Low,Resolved,1.2,5.4,AGT-12,5,Export to CSV fails
+TKT-0829,2025-10-14 12:59,General,Low,Resolved,4.2,24.1,AGT-08,4,Request for product docs
+TKT-1219,2025-10-14 13:02,General,High,Resolved,1.8,13.7,AGT-03,5,Update company address
+TKT-1345,2025-10-14 13:02,Technical,Low,Resolved,1.6,9.5,AGT-07,4,Webhook events delayed
+TKT-0479,2025-10-14 13:19,Billing,Low,Resolved,7.4,14.7,AGT-04,4,Double payment on subscription
+TKT-1186,2025-10-14 15:07,Billing,Medium,Resolved,2.6,3.1,AGT-11,5,Coupon code not applied
+TKT-0176,2025-10-14 15:26,Billing,Medium,Resolved,3.0,9.7,AGT-02,4,Coupon code not applied
+TKT-0491,2025-10-15 06:48,Technical,Low,Resolved,5.2,5.4,AGT-07,5,Login failure after update
+TKT-0625,2025-10-15 08:01,Technical,Medium,Resolved,2.0,13.8,AGT-09,4,Login failure after update
+TKT-1352,2025-10-15 09:50,General,Low,Resolved,1.6,3.0,AGT-11,4,Request for product docs
+TKT-1915,2025-10-15 10:40,Billing,Medium,Resolved,0.7,8.0,AGT-05,3,Refund not processed
+TKT-1786,2025-10-15 11:06,Technical,Medium,Resolved,2.3,11.5,AGT-05,4,Login failure after update
+TKT-1676,2025-10-15 12:55,Billing,Medium,Resolved,2.1,8.3,AGT-04,4,Invoice missing GST details
+TKT-1424,2025-10-15 13:59,Technical,Critical,Resolved,0.3,6.1,AGT-05,4,Dashboard not loading
+TKT-1199,2025-10-15 14:46,Billing,Critical,Resolved,0.6,6.1,AGT-12,4,Incorrect charge on invoice
+TKT-0427,2025-10-15 15:25,Technical,Low,Resolved,2.0,3.4,AGT-12,5,Login failure after update
+TKT-0659,2025-10-15 16:24,Technical,High,Resolved,0.8,3.2,AGT-06,4,Export to CSV fails
+TKT-0171,2025-10-15 16:36,Technical,Low,Resolved,4.2,6.0,AGT-01,4,Webhook events delayed
+TKT-0727,2025-10-15 19:39,Technical,Low,Resolved,3.6,15.5,AGT-09,5,Dashboard not loading
+TKT-0660,2025-10-16 13:01,Technical,Low,Resolved,5.8,6.0,AGT-06,4,Export to CSV fails
+TKT-0250,2025-10-16 14:57,Technical,Low,Resolved,4.2,17.9,AGT-08,3,API timeout in production
+TKT-1059,2025-10-16 16:29,Technical,Low,Resolved,4.1,13.4,AGT-09,3,Webhook events delayed
+TKT-1030,2025-10-16 17:09,Billing,Low,Resolved,4.4,8.5,AGT-06,3,Card declined at renewal
+TKT-0269,2025-10-17 06:40,Billing,Critical,Resolved,0.4,8.5,AGT-05,4,Refund not processed
+TKT-1416,2025-10-17 09:53,Billing,Medium,Resolved,2.1,12.4,AGT-02,3,Refund not processed
+TKT-0424,2025-10-17 12:17,Technical,Critical,Resolved,0.9,1.1,AGT-11,5,Webhook events delayed
+TKT-1760,2025-10-17 21:36,Technical,Medium,Resolved,4.2,118.4,AGT-01,4,Dashboard not loading
+TKT-1245,2025-10-18 10:13,Technical,Critical,Resolved,0.5,10.5,AGT-04,5,Login failure after update
+TKT-1910,2025-10-18 11:36,Technical,Medium,Resolved,3.4,135.9,AGT-01,5,API timeout in production
+TKT-0752,2025-10-18 12:40,Billing,Medium,Resolved,5.9,13.9,AGT-09,5,Refund not processed
+TKT-1906,2025-10-18 12:59,Billing,High,Resolved,1.7,9.0,AGT-11,3,Coupon code not applied
+TKT-1808,2025-10-18 13:02,Technical,Low,Resolved,2.4,6.3,AGT-11,1,API timeout in production
+TKT-0316,2025-10-18 13:54,Technical,Critical,Resolved,0.4,3.8,AGT-07,5,Webhook events delayed
+TKT-0647,2025-10-18 16:57,Technical,Medium,Resolved,2.1,5.4,AGT-11,5,API timeout in production
+TKT-1271,2025-10-18 17:04,Technical,Medium,Resolved,2.7,10.0,AGT-10,3,Webhook events delayed
+TKT-1397,2025-10-19 04:27,Technical,Low,Resolved,2.0,18.5,AGT-11,4,API timeout in production
+TKT-0941,2025-10-19 07:52,General,Medium,Resolved,6.6,6.8,AGT-08,4,Update company address
+TKT-0739,2025-10-19 11:09,Billing,High,Resolved,0.9,7.5,AGT-09,5,Invoice missing GST details
+TKT-1703,2025-10-19 12:13,Technical,Low,Resolved,3.2,8.0,AGT-05,4,Two-factor code not arriving
+TKT-0616,2025-10-19 14:19,Billing,Low,Resolved,3.8,11.1,AGT-09,5,Double payment on subscription
+TKT-0547,2025-10-19 16:46,General,High,Resolved,2.2,2.7,AGT-06,4,Question about data retention
+TKT-0670,2025-10-20 12:22,General,Low,Resolved,7.4,12.0,AGT-01,4,Request for product docs
+TKT-0925,2025-10-20 12:32,Billing,Critical,Resolved,0.7,3.5,AGT-09,5,Card declined at renewal
+TKT-0359,2025-10-20 15:18,Billing,Low,Resolved,1.5,10.6,AGT-11,5,Card declined at renewal
+TKT-0902,2025-10-20 15:32,Technical,Medium,Resolved,2.0,10.9,AGT-01,3,Webhook events delayed
+TKT-1850,2025-10-22 07:10,General,Medium,Resolved,2.7,9.8,AGT-01,5,How to change account owner
+TKT-1886,2025-10-22 09:11,Technical,High,Resolved,2.3,10.5,AGT-12,5,Webhook events delayed
+TKT-1813,2025-10-22 12:37,General,Critical,Resolved,1.1,3.5,AGT-10,5,Need onboarding session
+TKT-0057,2025-10-22 12:59,Technical,Medium,Resolved,1.9,56.2,AGT-06,4,Login failure after update
+TKT-1085,2025-10-22 14:19,Technical,Low,Resolved,2.1,58.3,AGT-08,3,Login failure after update
+TKT-0912,2025-10-22 16:35,Technical,Low,Resolved,3.9,11.3,AGT-07,4,Webhook events delayed
+TKT-1665,2025-10-23 09:39,General,High,Resolved,0.9,14.0,AGT-06,5,Update company address
+TKT-0295,2025-10-23 14:18,Billing,Medium,Resolved,4.2,15.5,AGT-08,3,Refund not processed
+TKT-1423,2025-10-23 16:25,Billing,Medium,Resolved,1.0,11.2,AGT-11,3,Incorrect charge on invoice
+TKT-0262,2025-10-23 17:28,General,Medium,Resolved,2.6,11.3,AGT-04,5,Request for product docs
+TKT-0157,2025-10-23 17:30,Technical,Low,Resolved,1.2,8.6,AGT-10,4,API timeout in production
+TKT-1419,2025-10-24 12:21,Technical,High,Resolved,1.2,3.1,AGT-04,5,Login failure after update
+TKT-1742,2025-10-24 13:36,Technical,Medium,Resolved,5.7,5.9,AGT-06,5,API timeout in production
+TKT-0656,2025-10-24 13:59,Billing,Medium,Resolved,1.0,4.6,AGT-01,4,Invoice missing GST details
+TKT-0358,2025-10-24 14:38,Technical,Medium,Resolved,2.7,5.7,AGT-04,4,Dashboard not loading
+TKT-0740,2025-10-24 15:07,Technical,High,Resolved,1.0,3.5,AGT-06,5,Login failure after update
+TKT-0324,2025-10-24 15:08,General,Low,Resolved,2.6,11.9,AGT-07,5,Update company address
+TKT-0385,2025-10-24 16:01,Billing,Medium,Resolved,2.4,13.1,AGT-02,5,Coupon code not applied
+TKT-0730,2025-10-24 16:35,General,High,Resolved,1.3,20.3,AGT-08,3,How to change account owner
+TKT-0446,2025-10-25 13:38,Billing,High,Resolved,1.5,5.5,AGT-12,5,Card declined at renewal
+TKT-0467,2025-10-25 14:00,General,Critical,Resolved,0.6,3.1,AGT-09,4,Question about data retention
+TKT-1249,2025-10-25 15:01,Technical,High,Resolved,1.6,8.2,AGT-08,4,Two-factor code not arriving
+TKT-1509,2025-10-25 15:58,Technical,Low,Resolved,2.0,9.6,AGT-09,4,Dashboard not loading
+TKT-1953,2025-10-25 16:02,Technical,Critical,Resolved,1.1,1.5,AGT-10,4,Webhook events delayed
+TKT-1119,2025-10-26 10:11,Technical,Medium,Resolved,1.1,24.3,AGT-05,4,Two-factor code not arriving
+TKT-1492,2025-10-26 11:23,Billing,Critical,Resolved,0.5,3.4,AGT-08,4,Refund not processed
+TKT-1727,2025-10-26 12:22,Billing,Medium,Resolved,1.0,9.5,AGT-09,4,Double payment on subscription
+TKT-0698,2025-10-26 16:27,Billing,Low,Resolved,2.3,9.9,AGT-04,4,Invoice missing GST details
+TKT-0669,2025-10-26 17:05,General,Critical,Resolved,0.4,1.8,AGT-03,4,Question about data retention
+TKT-0414,2025-10-27 11:06,Billing,Low,Resolved,2.4,5.7,AGT-01,4,Coupon code not applied
+TKT-0475,2025-10-27 11:36,Technical,High,Resolved,1.9,5.4,AGT-05,3,Export to CSV fails
+TKT-1158,2025-10-27 13:52,Billing,Medium,Resolved,1.5,3.5,AGT-11,5,Refund not processed
+TKT-0397,2025-10-27 14:16,Technical,Low,Resolved,2.7,6.8,AGT-01,4,API timeout in production
+TKT-0838,2025-10-27 15:19,General,Low,Resolved,2.6,13.8,AGT-03,5,Need onboarding session
+TKT-0240,2025-10-28 08:48,Billing,Medium,Resolved,0.9,11.9,AGT-07,4,Coupon code not applied
+TKT-1599,2025-10-28 09:37,Billing,Low,Resolved,7.0,7.2,AGT-06,3,Coupon code not applied
+TKT-1043,2025-10-28 10:14,General,Low,Resolved,7.1,8.3,AGT-02,2,Feature request: dark mode
+TKT-0562,2025-10-28 12:05,Technical,Low,Resolved,5.8,6.0,AGT-06,5,Two-factor code not arriving
+TKT-1966,2025-10-28 12:32,Billing,Low,Resolved,2.7,7.9,AGT-05,4,Coupon code not applied
+TKT-1655,2025-10-28 13:01,Technical,Low,Resolved,5.7,14.5,AGT-01,4,API timeout in production
+TKT-1238,2025-10-28 13:02,General,Medium,Resolved,4.4,8.1,AGT-05,4,Request for product docs
+TKT-0428,2025-10-28 13:53,General,Low,Resolved,2.4,5.9,AGT-07,4,Question about data retention
+TKT-0553,2025-10-28 14:04,Billing,Low,Resolved,1.1,9.8,AGT-07,4,Invoice missing GST details
+TKT-0503,2025-10-28 14:58,Technical,Low,Resolved,8.3,8.5,AGT-03,1,Dashboard not loading
+TKT-0037,2025-10-29 09:25,Technical,Medium,Resolved,1.5,8.4,AGT-07,5,Dashboard not loading
+TKT-0982,2025-10-29 13:34,Technical,Medium,Resolved,2.0,4.5,AGT-04,3,Two-factor code not arriving
+TKT-0709,2025-10-29 13:52,Billing,Medium,Resolved,2.3,12.4,AGT-09,5,Double payment on subscription
+TKT-0506,2025-10-29 15:43,Billing,High,Resolved,0.9,2.1,AGT-08,4,Double payment on subscription
+TKT-1948,2025-10-29 15:48,Billing,High,Resolved,1.0,2.2,AGT-12,5,Invoice missing GST details
+TKT-1990,2025-10-29 20:06,General,Critical,Resolved,0.4,8.8,AGT-06,3,Update company address
+TKT-1079,2025-10-30 06:39,Technical,Low,Resolved,2.5,3.2,AGT-09,4,Dashboard not loading
+TKT-0780,2025-10-30 09:23,General,Medium,Resolved,1.3,6.6,AGT-03,5,Need onboarding session
+TKT-0691,2025-10-30 10:33,Technical,Medium,Resolved,1.2,3.2,AGT-11,4,API timeout in production
+TKT-1506,2025-10-30 12:38,Billing,Low,Resolved,2.6,6.4,AGT-10,3,Double payment on subscription
+TKT-1681,2025-10-30 14:34,Technical,Medium,Resolved,5.8,77.9,AGT-06,4,Export to CSV fails
+TKT-1540,2025-10-30 14:56,Technical,High,Resolved,0.5,4.1,AGT-12,5,Dashboard not loading
+TKT-1057,2025-10-30 15:34,Billing,Critical,Resolved,0.3,8.4,AGT-08,4,Refund not processed
+TKT-0945,2025-10-30 16:57,Technical,Critical,Resolved,0.5,8.7,AGT-07,5,Two-factor code not arriving
+TKT-0645,2025-10-30 17:06,Technical,High,Resolved,1.6,1.8,AGT-01,4,Two-factor code not arriving
+TKT-0129,2025-10-31 10:13,Technical,Low,Resolved,1.8,8.7,AGT-01,4,Dashboard not loading
+TKT-1146,2025-10-31 12:54,Billing,Low,Resolved,3.2,9.6,AGT-09,4,Double payment on subscription
+TKT-0618,2025-10-31 14:07,Billing,Low,Resolved,3.9,22.4,AGT-02,4,Incorrect charge on invoice
+TKT-0505,2025-10-31 14:09,Technical,Low,Resolved,3.4,30.5,AGT-10,4,Export to CSV fails
+TKT-0300,2025-10-31 14:16,General,High,Resolved,1.2,5.8,AGT-09,5,Question about data retention
+TKT-1924,2025-10-31 16:34,Technical,Low,Resolved,0.9,6.5,AGT-12,5,API timeout in production
+TKT-1330,2025-10-31 17:31,General,Medium,Resolved,1.2,5.4,AGT-03,5,Feature request: dark mode
+TKT-1483,2025-11-01 08:24,Technical,Critical,Resolved,0.4,11.3,AGT-05,4,Dashboard not loading
+TKT-1684,2025-11-01 11:47,Technical,High,Resolved,4.1,4.3,AGT-07,4,API timeout in production
+TKT-0919,2025-11-01 14:35,Billing,Medium,Resolved,0.8,6.8,AGT-09,5,Card declined at renewal
+TKT-1545,2025-11-03 06:41,Billing,High,Resolved,1.4,9.2,AGT-08,4,Card declined at renewal
+TKT-1263,2025-11-03 10:10,General,High,Resolved,0.2,2.3,AGT-05,4,Request for product docs
+TKT-1130,2025-11-03 10:12,Technical,Medium,Resolved,2.9,4.2,AGT-05,4,API timeout in production
+TKT-0819,2025-11-03 12:28,Billing,High,Resolved,1.8,7.5,AGT-11,4,Card declined at renewal
+TKT-0178,2025-11-03 13:00,Technical,Low,Resolved,3.9,12.3,AGT-03,3,Webhook events delayed
+TKT-1084,2025-11-03 13:57,Technical,High,Resolved,2.6,8.6,AGT-05,4,API timeout in production
+TKT-1366,2025-11-03 15:50,Billing,Medium,Resolved,1.7,6.4,AGT-06,4,Coupon code not applied
+TKT-0321,2025-11-04 09:37,Technical,Medium,Resolved,1.1,2.0,AGT-05,4,Two-factor code not arriving
+TKT-0043,2025-11-04 14:06,General,High,Resolved,1.7,5.4,AGT-02,4,Update company address
+TKT-0568,2025-11-05 06:46,Technical,Medium,Resolved,2.7,3.9,AGT-05,4,Export to CSV fails
+TKT-1708,2025-11-05 06:51,Technical,High,Resolved,1.6,2.9,AGT-12,4,Two-factor code not arriving
+TKT-1404,2025-11-05 07:38,Technical,Medium,Resolved,0.7,5.5,AGT-11,3,Dashboard not loading
+TKT-1182,2025-11-05 11:10,General,Critical,Resolved,0.3,4.9,AGT-05,4,Update company address
+TKT-1291,2025-11-05 11:24,General,High,Resolved,1.7,3.6,AGT-05,5,Update company address
+TKT-0196,2025-11-05 12:42,Billing,Medium,Resolved,2.9,7.9,AGT-05,3,Coupon code not applied
+TKT-1013,2025-11-05 14:54,Technical,Medium,Resolved,3.2,3.4,AGT-11,5,API timeout in production
+TKT-1802,2025-11-05 18:15,Billing,Critical,Resolved,0.4,3.8,AGT-11,5,Coupon code not applied
+TKT-0155,2025-11-06 17:50,Technical,Medium,Resolved,0.7,11.0,AGT-11,3,Export to CSV fails
+TKT-0804,2025-11-07 04:28,Technical,Low,Resolved,4.2,11.9,AGT-03,5,Export to CSV fails
+TKT-0716,2025-11-07 08:37,Billing,Medium,Resolved,0.8,10.2,AGT-12,4,Invoice missing GST details
+TKT-1608,2025-11-07 13:17,General,Medium,Resolved,2.1,7.0,AGT-07,5,Feature request: dark mode
+TKT-0071,2025-11-07 14:31,Billing,Medium,Resolved,0.6,8.3,AGT-12,5,Coupon code not applied
+TKT-1854,2025-11-07 16:23,Billing,High,Resolved,0.6,6.8,AGT-11,5,Coupon code not applied
+TKT-1360,2025-11-07 16:40,General,High,Resolved,0.6,3.9,AGT-08,4,Update company address
+TKT-1447,2025-11-07 16:58,Technical,Low,Resolved,1.8,25.3,AGT-10,3,Export to CSV fails
+TKT-1533,2025-11-07 18:58,General,Medium,Resolved,1.3,3.9,AGT-07,5,How to change account owner
+TKT-0280,2025-11-07 19:05,Technical,Medium,Resolved,3.2,3.4,AGT-02,5,API timeout in production
+TKT-0340,2025-11-08 07:48,Technical,Medium,Resolved,3.6,3.8,AGT-04,5,API timeout in production
+TKT-0555,2025-11-08 08:55,Billing,Critical,Resolved,0.6,5.5,AGT-02,4,Incorrect charge on invoice
+TKT-1280,2025-11-08 16:47,General,Medium,Resolved,1.3,6.7,AGT-05,4,Update company address
+TKT-0334,2025-11-09 10:38,General,High,Resolved,1.5,4.6,AGT-01,5,Question about data retention
+TKT-0365,2025-11-09 11:09,Billing,Low,Resolved,4.4,11.2,AGT-02,3,Card declined at renewal
+TKT-0024,2025-11-09 11:32,General,Medium,Resolved,1.2,3.5,AGT-03,4,Need onboarding session
+TKT-0338,2025-11-09 12:17,Technical,Low,Resolved,4.2,6.8,AGT-09,5,Two-factor code not arriving
+TKT-1365,2025-11-09 12:20,Billing,Critical,Resolved,0.4,2.2,AGT-11,4,Double payment on subscription
+TKT-0541,2025-11-10 06:13,Billing,Medium,Resolved,1.6,4.9,AGT-09,5,Card declined at renewal
+TKT-0011,2025-11-10 11:18,Billing,Low,Resolved,2.8,9.5,AGT-01,5,Invoice missing GST details
+TKT-1582,2025-11-10 14:15,Billing,High,Resolved,0.5,6.5,AGT-04,4,Incorrect charge on invoice
+TKT-1888,2025-11-10 14:47,Technical,Critical,Resolved,0.3,4.9,AGT-02,4,Export to CSV fails
+TKT-1668,2025-11-10 18:44,Technical,High,Resolved,1.2,7.9,AGT-04,4,Login failure after update
+TKT-1300,2025-11-11 11:05,Technical,Medium,Resolved,2.9,133.3,AGT-02,4,Export to CSV fails
+TKT-0980,2025-11-11 11:59,Technical,Critical,Resolved,0.3,0.8,AGT-02,4,API timeout in production
+TKT-1728,2025-11-11 14:24,Technical,Medium,Resolved,3.6,3.8,AGT-05,4,API timeout in production
+TKT-0351,2025-11-11 15:35,Technical,Low,Resolved,2.4,5.1,AGT-07,3,API timeout in production
+TKT-1351,2025-11-11 16:29,General,High,Resolved,0.9,6.7,AGT-10,4,Feature request: dark mode
+TKT-0880,2025-11-12 14:22,Billing,High,Resolved,0.9,19.5,AGT-02,4,Incorrect charge on invoice
+TKT-1791,2025-11-12 15:41,Billing,Critical,Resolved,0.3,5.5,AGT-07,3,Invoice missing GST details
+TKT-1689,2025-11-13 12:03,Billing,Medium,Resolved,1.4,16.4,AGT-09,4,Incorrect charge on invoice
+TKT-1610,2025-11-13 14:04,Technical,High,Resolved,0.5,1.6,AGT-06,5,Webhook events delayed
+TKT-1347,2025-11-13 14:48,Technical,High,Resolved,0.5,3.4,AGT-04,4,Webhook events delayed
+TKT-1117,2025-11-13 15:44,Billing,High,Resolved,0.5,1.1,AGT-02,4,Card declined at renewal
+TKT-1768,2025-11-13 16:39,Billing,High,Resolved,1.0,1.9,AGT-01,4,Double payment on subscription
+TKT-0493,2025-11-13 16:56,Technical,Medium,Resolved,3.4,8.0,AGT-08,2,Dashboard not loading
+TKT-0788,2025-11-14 08:44,Technical,High,Resolved,0.7,2.8,AGT-09,4,Export to CSV fails
+TKT-1977,2025-11-14 09:26,Technical,Medium,Resolved,3.2,3.4,AGT-01,4,API timeout in production
+TKT-1869,2025-11-14 10:49,Technical,High,Resolved,1.9,3.0,AGT-05,4,Webhook events delayed
+TKT-1177,2025-11-14 15:06,General,Low,Resolved,13.6,14.7,AGT-10,4,Update company address
+TKT-1692,2025-11-14 15:25,Billing,Medium,Resolved,4.3,12.4,AGT-05,3,Card declined at renewal
+TKT-0757,2025-11-14 16:12,Billing,High,Resolved,0.7,1.5,AGT-07,5,Incorrect charge on invoice
+TKT-1221,2025-11-15 10:09,General,Low,Resolved,2.6,2.8,AGT-06,3,Request for product docs
+TKT-1384,2025-11-15 11:46,General,Low,Resolved,2.7,2.9,AGT-07,5,Question about data retention
+TKT-0372,2025-11-15 12:06,General,Medium,Resolved,4.1,11.5,AGT-08,3,Request for product docs
+TKT-1919,2025-11-15 13:16,Technical,Low,Resolved,4.7,7.3,AGT-05,5,Two-factor code not arriving
+TKT-1800,2025-11-15 14:37,Billing,Low,Resolved,10.8,11.0,AGT-04,4,Refund not processed
+TKT-0534,2025-11-15 16:08,Technical,Medium,Resolved,2.5,7.3,AGT-03,3,Export to CSV fails
+TKT-1874,2025-11-15 17:47,Billing,Medium,Resolved,0.9,2.5,AGT-03,4,Card declined at renewal
+TKT-1634,2025-11-16 10:53,General,Medium,Resolved,2.8,16.0,AGT-06,4,Update company address
+TKT-0999,2025-11-17 13:45,Billing,Low,Resolved,2.0,6.8,AGT-04,5,Invoice missing GST details
+TKT-1301,2025-11-18 06:03,General,High,Resolved,1.1,5.1,AGT-03,5,Request for product docs
+TKT-1190,2025-11-18 10:24,Technical,High,Resolved,1.1,3.4,AGT-09,5,Two-factor code not arriving
+TKT-0480,2025-11-18 19:14,General,Critical,Resolved,1.3,4.4,AGT-07,4,How to change account owner
+TKT-0468,2025-11-18 21:08,Technical,Low,Resolved,1.1,17.9,AGT-02,5,Two-factor code not arriving
+TKT-0403,2025-11-19 02:57,Technical,Medium,Resolved,1.8,45.9,AGT-08,1,Login failure after update
+TKT-1485,2025-11-19 08:50,Technical,Low,Resolved,3.5,10.6,AGT-01,5,Webhook events delayed
+TKT-0805,2025-11-19 09:33,Technical,Low,Resolved,6.5,18.0,AGT-08,3,API timeout in production
+TKT-1256,2025-11-19 09:46,Billing,High,Resolved,1.3,8.4,AGT-04,4,Double payment on subscription
+TKT-1497,2025-11-19 13:07,Billing,High,Resolved,1.2,17.4,AGT-11,5,Card declined at renewal
+TKT-1710,2025-11-19 17:30,Billing,Medium,Resolved,1.4,8.9,AGT-08,3,Card declined at renewal
+TKT-1711,2025-11-20 06:18,General,Low,Resolved,2.5,13.2,AGT-07,5,Need onboarding session
+TKT-1462,2025-11-20 13:14,Technical,High,Resolved,0.7,0.9,AGT-09,5,Webhook events delayed
+TKT-0644,2025-11-20 15:39,Billing,Medium,Resolved,4.6,27.9,AGT-04,5,Refund not processed
+TKT-1565,2025-11-20 15:45,Technical,Low,Resolved,4.4,30.9,AGT-06,4,Login failure after update
+TKT-1395,2025-11-20 18:34,General,High,Resolved,6.8,7.0,AGT-01,3,How to change account owner
+TKT-1268,2025-11-21 07:27,General,Medium,Resolved,1.5,6.4,AGT-06,5,Feature request: dark mode
+TKT-1682,2025-11-21 09:28,Technical,High,Resolved,1.3,8.7,AGT-08,3,Dashboard not loading
+TKT-0586,2025-11-21 09:42,Technical,Low,Resolved,1.5,12.6,AGT-04,4,Webhook events delayed
+TKT-1223,2025-11-21 12:22,Technical,Low,Resolved,2.3,11.1,AGT-10,5,Two-factor code not arriving
+TKT-0013,2025-11-21 18:10,Technical,Low,Resolved,1.8,21.3,AGT-01,5,Login failure after update
+TKT-1323,2025-11-22 09:53,Billing,Low,Resolved,6.0,13.6,AGT-01,4,Coupon code not applied
+TKT-0208,2025-11-22 11:53,Billing,Medium,Resolved,3.3,3.5,AGT-12,5,Invoice missing GST details
+TKT-1536,2025-11-22 13:25,Technical,Medium,Resolved,1.6,7.6,AGT-07,5,Dashboard not loading
+TKT-1018,2025-11-22 14:03,Billing,Medium,Resolved,0.6,5.5,AGT-04,3,Coupon code not applied
+TKT-0127,2025-11-22 15:27,Billing,Low,Resolved,3.4,21.2,AGT-09,3,Double payment on subscription
+TKT-0101,2025-11-22 18:01,Billing,Low,Resolved,1.2,33.0,AGT-10,5,Double payment on subscription
+TKT-1377,2025-11-23 05:20,Technical,Low,Resolved,3.2,9.4,AGT-01,5,Export to CSV fails
+TKT-1290,2025-11-23 06:32,Technical,Low,Resolved,5.4,5.8,AGT-03,4,Two-factor code not arriving
+TKT-0619,2025-11-23 13:50,Billing,Critical,Resolved,1.4,4.8,AGT-01,5,Refund not processed
+TKT-1103,2025-11-23 14:21,Technical,High,Resolved,1.8,5.0,AGT-01,5,Login failure after update
+TKT-1286,2025-11-23 14:40,General,High,Resolved,1.5,4.4,AGT-06,4,Need onboarding session
+TKT-0811,2025-11-23 16:33,Billing,Low,Resolved,0.6,9.2,AGT-09,5,Coupon code not applied
+TKT-0122,2025-11-23 16:57,General,High,Resolved,3.1,5.1,AGT-02,4,How to change account owner
+TKT-1528,2025-11-23 18:19,General,Medium,Resolved,2.4,14.5,AGT-09,4,Question about data retention
+TKT-1441,2025-11-24 04:51,Technical,Critical,Resolved,0.6,3.3,AGT-12,5,Login failure after update
+TKT-0832,2025-11-24 06:09,Technical,Medium,Resolved,0.7,1.8,AGT-12,5,Login failure after update
+TKT-0536,2025-11-24 07:06,General,High,Resolved,0.8,8.7,AGT-11,3,Feature request: dark mode
+TKT-0983,2025-11-24 10:45,Technical,Medium,Resolved,1.7,13.9,AGT-06,4,Export to CSV fails
+TKT-1832,2025-11-24 10:46,Billing,Low,Resolved,3.9,6.7,AGT-02,5,Invoice missing GST details
+TKT-0756,2025-11-24 11:11,Billing,Medium,Resolved,5.7,5.9,AGT-12,5,Incorrect charge on invoice
+TKT-1126,2025-11-24 12:01,General,Medium,Resolved,2.6,10.8,AGT-09,5,Question about data retention
+TKT-1872,2025-11-24 12:27,Technical,High,Resolved,1.0,4.4,AGT-10,4,Webhook events delayed
+TKT-0858,2025-11-24 13:46,General,High,Resolved,1.9,9.3,AGT-04,3,Feature request: dark mode
+TKT-1134,2025-11-24 16:11,Technical,High,Resolved,0.6,98.9,AGT-10,5,API timeout in production
+TKT-1524,2025-11-24 16:31,Billing,High,Resolved,3.5,3.7,AGT-02,5,Coupon code not applied
+TKT-0273,2025-11-24 18:18,Technical,High,Resolved,2.2,7.8,AGT-01,5,Two-factor code not arriving
+TKT-0453,2025-11-25 09:44,Technical,Medium,Resolved,2.8,4.8,AGT-03,4,Webhook events delayed
+TKT-0626,2025-11-25 11:54,General,Medium,Resolved,1.9,9.3,AGT-10,3,Update company address
+TKT-1139,2025-11-25 13:22,Billing,Low,Resolved,6.7,11.6,AGT-03,4,Invoice missing GST details
+TKT-1839,2025-11-25 15:43,Technical,Low,Resolved,13.6,36.0,AGT-10,3,Dashboard not loading
+TKT-1633,2025-11-25 15:52,Billing,Critical,Resolved,0.3,5.1,AGT-09,5,Incorrect charge on invoice
+TKT-1575,2025-11-26 05:42,General,Medium,Resolved,0.9,10.4,AGT-04,5,Question about data retention
+TKT-1120,2025-11-26 06:40,Technical,Medium,Resolved,1.0,20.4,AGT-04,5,API timeout in production
+TKT-0841,2025-11-26 12:05,Billing,Low,Resolved,4.1,16.4,AGT-04,5,Incorrect charge on invoice
+TKT-0751,2025-11-26 13:07,Billing,Medium,Resolved,1.1,14.2,AGT-02,5,Coupon code not applied
+TKT-0699,2025-11-26 14:16,General,Critical,Resolved,1.5,11.2,AGT-08,4,Update company address
+TKT-1820,2025-11-26 15:00,Technical,High,Resolved,2.3,5.0,AGT-02,4,API timeout in production
+TKT-1860,2025-11-26 17:11,Technical,Critical,Resolved,0.8,5.2,AGT-11,5,Two-factor code not arriving
+TKT-0337,2025-11-26 19:25,Technical,High,Resolved,2.6,30.2,AGT-11,5,Webhook events delayed
+TKT-1476,2025-11-27 11:33,Technical,Medium,Resolved,1.4,11.6,AGT-09,5,Export to CSV fails
+TKT-1102,2025-11-27 14:25,Billing,High,Resolved,0.4,8.3,AGT-08,2,Coupon code not applied
+TKT-1069,2025-11-27 14:44,General,Low,Resolved,3.4,4.1,AGT-11,5,Feature request: dark mode
+TKT-0069,2025-11-27 14:53,Technical,High,Resolved,0.3,67.9,AGT-11,5,Login failure after update
+TKT-0566,2025-11-27 17:46,Technical,High,Resolved,1.1,7.0,AGT-11,5,Dashboard not loading
+TKT-1000,2025-11-27 18:30,Technical,Low,Resolved,10.3,10.5,AGT-02,4,Login failure after update
+TKT-0489,2025-11-28 08:14,Technical,Medium,Resolved,1.5,2.9,AGT-10,4,Dashboard not loading
+TKT-1101,2025-11-28 09:47,Technical,High,Resolved,0.4,18.6,AGT-05,4,Export to CSV fails
+TKT-1945,2025-11-28 10:44,Technical,Medium,Resolved,0.9,9.4,AGT-07,4,Login failure after update
+TKT-1635,2025-11-28 11:37,Technical,High,Resolved,0.5,6.5,AGT-04,4,Two-factor code not arriving
+TKT-1062,2025-11-28 16:13,Technical,Low,Resolved,4.9,10.0,AGT-05,4,Login failure after update
+TKT-0939,2025-11-28 16:35,Technical,Medium,Resolved,2.3,6.7,AGT-11,5,Login failure after update
+TKT-0435,2025-11-28 17:24,Technical,Medium,Resolved,2.0,3.7,AGT-12,5,Two-factor code not arriving
+TKT-1937,2025-11-28 19:48,Technical,High,Resolved,1.5,1.7,AGT-03,5,Dashboard not loading
+TKT-0792,2025-11-29 11:25,Technical,Medium,Resolved,1.8,8.5,AGT-01,5,Two-factor code not arriving
+TKT-0992,2025-11-29 12:10,Technical,Medium,Resolved,1.8,2.4,AGT-07,4,Webhook events delayed
+TKT-0565,2025-11-29 12:37,General,High,Resolved,1.3,17.0,AGT-01,5,How to change account owner
+TKT-1056,2025-11-29 13:23,General,Medium,Resolved,3.0,4.9,AGT-11,4,Update company address
+TKT-1626,2025-11-29 17:07,Technical,High,Resolved,0.8,9.2,AGT-01,4,Webhook events delayed
+TKT-0844,2025-11-29 17:16,Technical,Medium,Resolved,3.9,11.0,AGT-03,5,Two-factor code not arriving
+TKT-1073,2025-11-30 08:42,General,Medium,Resolved,1.1,3.7,AGT-12,5,Update company address
+TKT-0587,2025-11-30 10:46,Billing,High,Resolved,3.2,26.8,AGT-08,2,Double payment on subscription
+TKT-1909,2025-11-30 13:29,Billing,Medium,Resolved,4.5,4.7,AGT-05,4,Card declined at renewal
+TKT-0558,2025-11-30 15:37,Billing,Low,Resolved,2.1,17.1,AGT-06,3,Incorrect charge on invoice
+TKT-1841,2025-11-30 15:57,General,High,Resolved,1.5,3.5,AGT-05,5,Question about data retention
+TKT-0521,2025-12-01 08:51,Technical,High,Resolved,1.6,7.2,AGT-03,4,Export to CSV fails
+TKT-0066,2025-12-01 10:19,Technical,Low,Resolved,2.8,30.8,AGT-11,5,API timeout in production
+TKT-0364,2025-12-01 14:32,Technical,Medium,Resolved,3.1,8.8,AGT-04,3,Dashboard not loading
+TKT-0060,2025-12-01 15:49,Billing,Medium,Resolved,1.1,10.5,AGT-02,4,Invoice missing GST details
+TKT-0077,2025-12-01 18:09,Billing,Low,Resolved,1.1,13.1,AGT-03,3,Invoice missing GST details
+TKT-0458,2025-12-02 11:27,Technical,Low,Resolved,7.5,12.1,AGT-08,3,Dashboard not loading
+TKT-0529,2025-12-02 12:50,Billing,High,Resolved,0.6,18.9,AGT-09,3,Invoice missing GST details
+TKT-1947,2025-12-02 16:08,Billing,High,Resolved,0.4,2.1,AGT-04,5,Card declined at renewal
+TKT-0014,2025-12-02 19:16,Billing,Medium,Resolved,3.9,11.3,AGT-05,4,Double payment on subscription
+TKT-0310,2025-12-02 20:00,Technical,Medium,Resolved,5.7,8.7,AGT-12,1,Two-factor code not arriving
+TKT-0409,2025-12-03 09:11,General,High,Resolved,1.3,2.2,AGT-05,5,How to change account owner
+TKT-1899,2025-12-03 11:07,General,High,Resolved,1.4,2.5,AGT-03,5,Request for product docs
+TKT-0770,2025-12-03 11:16,Technical,Medium,Resolved,1.1,2.8,AGT-02,3,API timeout in production
+TKT-0500,2025-12-03 11:37,Billing,High,Resolved,0.6,2.9,AGT-11,3,Incorrect charge on invoice
+TKT-0581,2025-12-03 12:29,Billing,Medium,Resolved,3.3,4.4,AGT-09,4,Coupon code not applied
+TKT-1016,2025-12-03 13:18,Billing,Medium,Resolved,4.4,4.6,AGT-04,5,Coupon code not applied
+TKT-0278,2025-12-03 15:42,Technical,Medium,Resolved,0.9,11.1,AGT-04,4,Login failure after update
+TKT-1579,2025-12-03 15:56,Technical,Medium,Resolved,1.3,19.0,AGT-05,2,Two-factor code not arriving
+TKT-1963,2025-12-03 17:25,Technical,Critical,Resolved,0.6,11.3,AGT-01,5,Two-factor code not arriving
+TKT-1240,2025-12-04 10:43,General,Medium,Resolved,2.1,7.8,AGT-08,4,Question about data retention
+TKT-0004,2025-12-04 13:48,Technical,Medium,Resolved,1.3,2.9,AGT-12,5,API timeout in production
+TKT-1563,2025-12-04 14:25,Technical,Low,Resolved,2.9,5.6,AGT-02,4,Dashboard not loading
+TKT-0825,2025-12-05 11:33,Billing,Low,Resolved,3.2,7.9,AGT-03,5,Card declined at renewal
+TKT-1207,2025-12-05 13:03,Billing,Critical,Resolved,1.4,4.4,AGT-06,4,Double payment on subscription
+TKT-1001,2025-12-05 14:42,Technical,Medium,Resolved,0.9,11.4,AGT-09,3,API timeout in production
+TKT-0125,2025-12-05 14:49,General,Low,Resolved,4.0,4.3,AGT-07,5,Update company address
+TKT-0843,2025-12-05 15:41,Technical,Medium,Resolved,1.9,9.2,AGT-05,2,Export to CSV fails
+TKT-0490,2025-12-06 08:00,Billing,Medium,Resolved,0.7,6.8,AGT-02,4,Refund not processed
+TKT-1940,2025-12-06 09:25,General,Low,Resolved,2.7,3.2,AGT-04,4,Need onboarding session
+TKT-1819,2025-12-06 12:05,Billing,Low,Resolved,18.8,27.5,AGT-06,5,Card declined at renewal
+TKT-1511,2025-12-06 12:59,Technical,Low,Resolved,1.2,8.5,AGT-02,3,API timeout in production
+TKT-0717,2025-12-06 14:26,General,Medium,Resolved,2.6,4.2,AGT-09,4,How to change account owner
+TKT-1941,2025-12-06 16:11,Billing,Low,Resolved,2.6,15.3,AGT-07,4,Coupon code not applied
+TKT-1402,2025-12-07 12:02,General,Medium,Resolved,2.1,2.3,AGT-10,4,Request for product docs
+TKT-0142,2025-12-07 14:34,Billing,Medium,Resolved,9.8,10.8,AGT-08,4,Incorrect charge on invoice
+TKT-0861,2025-12-08 09:50,General,Low,Resolved,7.3,12.2,AGT-05,4,Feature request: dark mode
+TKT-1550,2025-12-08 16:47,Technical,Low,Resolved,1.3,11.3,AGT-04,4,Webhook events delayed
+TKT-1195,2025-12-09 08:44,Technical,High,Resolved,0.7,6.9,AGT-06,4,Webhook events delayed
+TKT-0977,2025-12-09 09:24,General,High,Resolved,1.1,2.8,AGT-05,5,Request for product docs
+TKT-0813,2025-12-09 12:58,Billing,Low,Resolved,3.8,6.0,AGT-04,1,Coupon code not applied
+TKT-0312,2025-12-09 13:35,Technical,High,Resolved,1.4,5.8,AGT-08,3,Dashboard not loading
+TKT-0203,2025-12-09 15:59,Technical,Low,Resolved,6.1,6.3,AGT-03,4,Two-factor code not arriving
+TKT-0267,2025-12-10 13:14,Billing,Medium,Resolved,4.0,6.6,AGT-05,4,Double payment on subscription
+TKT-1310,2025-12-10 16:23,Technical,Medium,Resolved,7.8,8.0,AGT-08,4,Export to CSV fails
+TKT-1175,2025-12-11 09:14,Billing,Low,Resolved,4.5,25.4,AGT-09,5,Incorrect charge on invoice
+TKT-0068,2025-12-11 11:07,Billing,Medium,Resolved,1.3,3.9,AGT-10,4,Refund not processed
+TKT-0404,2025-12-11 11:53,Billing,High,Resolved,1.1,8.7,AGT-07,4,Incorrect charge on invoice
+TKT-0630,2025-12-11 12:14,Billing,High,Resolved,1.1,2.8,AGT-10,5,Incorrect charge on invoice
+TKT-0079,2025-12-11 14:26,Billing,Low,Resolved,2.1,13.8,AGT-02,2,Refund not processed
+TKT-0527,2025-12-11 14:44,Technical,Low,Resolved,3.1,6.8,AGT-02,4,API timeout in production
+TKT-0448,2025-12-11 15:53,Technical,Critical,Resolved,0.8,1.5,AGT-01,4,API timeout in production
+TKT-1725,2025-12-11 17:09,Technical,Critical,Resolved,1.4,4.4,AGT-02,4,Export to CSV fails
+TKT-0572,2025-12-12 07:30,Technical,Medium,Resolved,2.4,5.0,AGT-05,5,Login failure after update
+TKT-0662,2025-12-12 07:51,General,High,Resolved,0.4,6.4,AGT-05,3,How to change account owner
+TKT-1260,2025-12-12 09:50,General,Medium,Resolved,3.3,4.0,AGT-11,5,Update company address
+TKT-1236,2025-12-12 09:58,General,High,Resolved,0.5,4.1,AGT-10,4,Need onboarding session
+TKT-0567,2025-12-12 12:10,Technical,Low,Resolved,2.6,6.6,AGT-06,3,Login failure after update
+TKT-0836,2025-12-12 13:35,General,Medium,Resolved,1.1,15.6,AGT-03,4,Need onboarding session
+TKT-0828,2025-12-12 14:40,Billing,Medium,Resolved,4.5,6.8,AGT-01,5,Coupon code not applied
+TKT-1063,2025-12-12 15:18,General,Medium,Resolved,3.0,18.3,AGT-02,5,How to change account owner
+TKT-1712,2025-12-13 08:31,Technical,Low,Resolved,0.7,7.2,AGT-12,4,Two-factor code not arriving
+TKT-0692,2025-12-13 12:41,Billing,High,Resolved,0.7,9.4,AGT-11,5,Incorrect charge on invoice
+TKT-0988,2025-12-13 13:50,Technical,Critical,Resolved,0.6,18.3,AGT-08,3,Dashboard not loading
+TKT-1554,2025-12-13 13:51,General,Low,Resolved,7.1,17.5,AGT-03,4,Feature request: dark mode
+TKT-1981,2025-12-13 19:49,Billing,Critical,Resolved,0.2,3.4,AGT-03,4,Coupon code not applied
+TKT-0460,2025-12-14 08:38,Technical,High,Resolved,1.0,4.0,AGT-08,3,Login failure after update
+TKT-0047,2025-12-14 11:43,Billing,Medium,Resolved,4.8,13.5,AGT-08,2,Card declined at renewal
+TKT-0111,2025-12-14 12:01,Technical,Medium,Resolved,1.2,6.4,AGT-10,3,Dashboard not loading
+TKT-0668,2025-12-14 12:34,Technical,High,Resolved,0.8,4.5,AGT-12,5,Dashboard not loading
+TKT-0721,2025-12-14 13:42,Technical,High,Resolved,1.3,3.6,AGT-07,4,Webhook events delayed
+TKT-0081,2025-12-14 14:33,General,Critical,Resolved,0.3,3.2,AGT-12,5,Update company address
+TKT-1660,2025-12-14 15:19,Billing,Medium,Resolved,1.2,4.6,AGT-12,5,Refund not processed
+TKT-0535,2025-12-15 06:00,Technical,High,Resolved,2.1,8.0,AGT-11,4,Login failure after update
+TKT-0237,2025-12-15 08:10,Technical,Low,Resolved,48.1,48.3,AGT-08,2,API timeout in production
+TKT-1390,2025-12-15 09:54,Billing,High,Resolved,0.9,3.3,AGT-11,4,Card declined at renewal
+TKT-1956,2025-12-15 10:21,Billing,Critical,Resolved,0.5,29.0,AGT-05,4,Double payment on subscription
+TKT-0615,2025-12-15 10:26,Technical,Low,Resolved,4.5,8.2,AGT-10,4,Login failure after update
+TKT-1109,2025-12-15 11:21,Billing,Low,Resolved,1.3,32.0,AGT-06,4,Refund not processed
+TKT-1230,2025-12-15 15:08,Billing,High,Resolved,0.6,4.2,AGT-12,5,Coupon code not applied
+TKT-1593,2025-12-15 15:14,Billing,High,Resolved,0.7,2.9,AGT-01,5,Invoice missing GST details
+TKT-1962,2025-12-15 18:44,Billing,Low,Resolved,6.2,7.3,AGT-08,2,Coupon code not applied
+TKT-1437,2025-12-16 17:44,Billing,Critical,Resolved,0.7,1.5,AGT-02,1,Card declined at renewal
+TKT-1985,2025-12-17 10:25,Technical,Low,Resolved,4.1,7.1,AGT-01,5,Export to CSV fails
+TKT-0966,2025-12-17 11:40,Technical,Low,Resolved,5.1,11.8,AGT-02,3,Webhook events delayed
+TKT-0082,2025-12-17 12:27,Technical,Medium,Resolved,1.3,6.2,AGT-04,5,API timeout in production
+TKT-0225,2025-12-17 12:38,Technical,High,Resolved,5.1,6.7,AGT-05,5,Login failure after update
+TKT-1406,2025-12-17 15:23,Technical,High,Resolved,1.3,3.2,AGT-04,4,Two-factor code not arriving
+TKT-0189,2025-12-17 19:18,Billing,Low,Resolved,1.0,49.0,AGT-05,4,Refund not processed
+TKT-1392,2025-12-18 09:08,Billing,Medium,Resolved,1.9,12.3,AGT-10,4,Coupon code not applied
+TKT-0894,2025-12-18 10:50,Billing,Low,Resolved,3.0,3.2,AGT-09,4,Double payment on subscription
+TKT-0701,2025-12-18 12:01,Billing,Critical,Resolved,0.3,1.9,AGT-03,5,Refund not processed
+TKT-0452,2025-12-18 12:03,Technical,Low,Resolved,1.3,6.2,AGT-09,3,Webhook events delayed
+TKT-0136,2025-12-18 13:21,Billing,Low,Resolved,3.8,14.7,AGT-05,4,Double payment on subscription
+TKT-0589,2025-12-18 13:34,Billing,High,Resolved,1.1,1.9,AGT-03,5,Incorrect charge on invoice
+TKT-0931,2025-12-18 14:31,Technical,High,Resolved,1.4,1.6,AGT-06,4,Login failure after update
+TKT-0666,2025-12-19 07:46,General,Low,Resolved,2.5,12.2,AGT-05,3,Need onboarding session
+TKT-0254,2025-12-19 08:51,Billing,High,Resolved,0.2,3.7,AGT-01,3,Coupon code not applied
+TKT-0782,2025-12-19 08:52,Technical,High,Resolved,1.1,2.3,AGT-11,5,Two-factor code not arriving
+TKT-0001,2025-12-19 14:33,Billing,Critical,Resolved,0.4,3.6,AGT-06,4,Double payment on subscription
+TKT-1702,2025-12-19 17:18,Billing,Low,Resolved,1.9,18.3,AGT-04,3,Card declined at renewal
+TKT-1188,2025-12-19 22:50,Technical,Medium,Resolved,0.9,12.5,AGT-04,5,Export to CSV fails
+TKT-1417,2025-12-20 08:56,Billing,High,Resolved,0.9,127.7,AGT-07,5,Coupon code not applied
+TKT-0088,2025-12-20 09:14,General,Low,Resolved,4.4,4.6,AGT-11,5,Need onboarding session
+TKT-0186,2025-12-20 09:33,Billing,High,Resolved,0.8,12.0,AGT-09,4,Refund not processed
+TKT-0578,2025-12-20 10:26,General,High,Resolved,0.7,11.6,AGT-06,3,Need onboarding session
+TKT-0574,2025-12-20 10:57,Technical,High,Resolved,2.6,7.1,AGT-11,4,Webhook events delayed
+TKT-1289,2025-12-20 12:15,Billing,Medium,Resolved,1.9,16.0,AGT-12,3,Refund not processed
+TKT-0026,2025-12-20 13:00,General,Critical,Resolved,0.4,16.4,AGT-01,4,Request for product docs
+TKT-1707,2025-12-20 13:29,Technical,Low,Resolved,2.9,17.8,AGT-10,2,Export to CSV fails
+TKT-1474,2025-12-20 14:53,General,Low,Resolved,0.7,6.7,AGT-12,5,Need onboarding session
+TKT-0742,2025-12-20 16:39,Billing,High,Resolved,1.1,6.8,AGT-02,4,Incorrect charge on invoice
+TKT-0083,2025-12-20 18:05,General,Low,Resolved,4.3,19.0,AGT-05,3,How to change account owner
+TKT-0812,2025-12-21 07:11,Technical,Medium,Resolved,1.3,74.5,AGT-12,5,Webhook events delayed
+TKT-1587,2025-12-21 09:42,Billing,Low,Resolved,1.3,1.8,AGT-09,5,Incorrect charge on invoice
+TKT-1445,2025-12-21 11:28,Billing,Low,Resolved,4.0,18.4,AGT-03,5,Refund not processed
+TKT-0378,2025-12-21 11:40,Billing,Critical,Resolved,1.0,11.4,AGT-08,2,Double payment on subscription
+TKT-1218,2025-12-21 12:22,Technical,Low,Resolved,4.3,57.0,AGT-10,3,Webhook events delayed
+TKT-1890,2025-12-21 13:13,Technical,Low,Resolved,0.9,105.7,AGT-11,5,API timeout in production
+TKT-0791,2025-12-21 22:50,Billing,Low,Resolved,2.5,23.7,AGT-09,4,Coupon code not applied
+TKT-1801,2025-12-22 09:27,General,Critical,Resolved,0.2,5.5,AGT-06,4,How to change account owner
+TKT-1315,2025-12-22 11:30,General,Low,Resolved,4.9,142.2,AGT-03,5,How to change account owner
+TKT-0710,2025-12-22 12:30,General,Low,Resolved,1.4,1.7,AGT-07,5,Feature request: dark mode
+TKT-1534,2025-12-22 13:45,General,High,Resolved,1.2,9.0,AGT-04,4,Need onboarding session
+TKT-0621,2025-12-23 09:15,Technical,High,Resolved,0.3,3.6,AGT-04,5,Login failure after update
+TKT-1667,2025-12-23 12:27,Billing,High,Resolved,0.9,4.2,AGT-02,4,Coupon code not applied
+TKT-0149,2025-12-23 12:39,Billing,Medium,Resolved,1.5,5.7,AGT-07,5,Refund not processed
+TKT-1846,2025-12-23 13:01,Technical,Low,Resolved,2.4,6.6,AGT-02,4,Export to CSV fails
+TKT-0887,2025-12-23 13:33,Billing,Medium,Resolved,1.9,5.6,AGT-04,4,Coupon code not applied
+TKT-0346,2025-12-23 13:48,Technical,Medium,Resolved,2.4,2.9,AGT-03,3,Login failure after update
+TKT-0840,2025-12-23 14:41,General,High,Resolved,1.7,5.3,AGT-10,5,Need onboarding session
+TKT-1034,2025-12-23 15:18,Technical,Medium,Resolved,5.4,5.6,AGT-11,5,Two-factor code not arriving
+TKT-1751,2025-12-24 08:34,General,Low,Resolved,4.5,4.7,AGT-01,4,Feature request: dark mode
+TKT-1124,2025-12-24 10:30,General,Medium,Resolved,0.6,1.8,AGT-10,4,How to change account owner
+TKT-0296,2025-12-24 10:49,Technical,Medium,Resolved,2.7,4.7,AGT-02,4,Dashboard not loading
+TKT-0065,2025-12-24 13:21,Technical,Critical,Resolved,2.2,13.2,AGT-04,4,Export to CSV fails
+TKT-0633,2025-12-25 12:07,Billing,Medium,Resolved,1.8,17.1,AGT-02,3,Incorrect charge on invoice
+TKT-0399,2025-12-25 13:37,General,Medium,Resolved,4.1,13.0,AGT-11,5,Feature request: dark mode
+TKT-0104,2025-12-25 14:30,Technical,Medium,Resolved,3.5,4.9,AGT-05,4,Export to CSV fails
+TKT-1798,2025-12-25 14:56,Billing,Low,Resolved,5.4,8.2,AGT-05,5,Coupon code not applied
+TKT-0465,2025-12-25 18:02,General,Medium,Resolved,2.7,9.0,AGT-01,4,How to change account owner
+TKT-1110,2025-12-26 10:47,Technical,Low,Resolved,9.2,27.0,AGT-07,5,API timeout in production
+TKT-0718,2025-12-26 11:22,Technical,Medium,Resolved,0.6,5.3,AGT-07,4,Webhook events delayed
+TKT-0183,2025-12-26 11:43,Billing,Critical,Resolved,0.4,4.0,AGT-08,4,Coupon code not applied
+TKT-1647,2025-12-26 12:27,Technical,Low,Resolved,1.5,8.8,AGT-12,5,Dashboard not loading
+TKT-1251,2025-12-26 13:58,Technical,Critical,Resolved,0.9,8.6,AGT-05,4,Login failure after update
+TKT-0690,2025-12-26 13:59,General,Critical,Resolved,1.5,3.4,AGT-09,4,How to change account owner
+TKT-0027,2025-12-27 14:11,General,Low,Resolved,4.9,10.3,AGT-01,5,Request for product docs
+TKT-1844,2025-12-27 15:21,Technical,Low,Resolved,4.1,17.0,AGT-08,4,Export to CSV fails
+TKT-1180,2025-12-27 15:22,Technical,Medium,Resolved,3.1,4.1,AGT-07,4,Login failure after update
+TKT-1049,2025-12-28 03:53,Technical,Medium,Resolved,2.7,6.5,AGT-03,5,Export to CSV fails
+TKT-1650,2025-12-28 10:08,Technical,High,Resolved,1.1,7.2,AGT-02,3,Export to CSV fails
+TKT-0223,2025-12-28 11:17,Technical,High,Resolved,1.8,10.2,AGT-12,5,Login failure after update
+TKT-0210,2025-12-28 15:08,Technical,Medium,Resolved,2.4,3.7,AGT-07,4,Export to CSV fails
+TKT-0018,2025-12-28 15:41,Technical,High,Resolved,1.1,8.9,AGT-02,5,Login failure after update
+TKT-1766,2025-12-29 16:34,Technical,Medium,Resolved,1.4,7.3,AGT-07,5,Login failure after update
+TKT-1074,2025-12-29 17:03,General,High,Resolved,1.0,6.2,AGT-05,3,Request for product docs
+TKT-1971,2025-12-29 17:05,Technical,Medium,Resolved,13.9,14.1,AGT-06,5,API timeout in production
+TKT-1643,2025-12-30 10:36,Billing,Low,Resolved,8.5,8.7,AGT-11,5,Double payment on subscription
+TKT-1960,2025-12-30 11:35,Technical,Low,Resolved,3.2,7.2,AGT-12,5,Webhook events delayed
+TKT-1041,2025-12-30 14:40,Billing,High,Resolved,2.5,13.1,AGT-05,4,Refund not processed
+TKT-0469,2025-12-30 18:18,Billing,Low,Resolved,4.8,22.1,AGT-10,4,Double payment on subscription
+TKT-0336,2025-12-31 14:58,Billing,Low,Resolved,4.3,6.9,AGT-09,4,Refund not processed
+TKT-0871,2025-12-31 15:18,Technical,Medium,Resolved,3.5,6.3,AGT-05,3,API timeout in production
+TKT-0439,2025-12-31 16:29,Technical,Low,Resolved,3.9,9.1,AGT-05,2,Two-factor code not arriving
+TKT-1210,2025-12-31 20:02,General,Medium,Resolved,1.3,3.7,AGT-01,5,Update company address
+TKT-0488,2026-01-01 08:29,Billing,Medium,Resolved,1.0,23.2,AGT-10,1,Double payment on subscription
+TKT-1875,2026-01-01 13:51,General,Medium,Resolved,8.7,22.0,AGT-10,4,Update company address
+TKT-0354,2026-01-01 16:04,Technical,Medium,Resolved,1.2,7.0,AGT-02,4,Dashboard not loading
+TKT-0367,2026-01-01 21:05,Billing,Medium,Resolved,1.5,7.7,AGT-10,4,Double payment on subscription
+TKT-0035,2026-01-02 07:12,General,Low,Resolved,4.1,4.9,AGT-11,5,Question about data retention
+TKT-0854,2026-01-02 09:05,Technical,Low,Resolved,2.2,13.0,AGT-07,5,Webhook events delayed
+TKT-1821,2026-01-02 10:44,Technical,Medium,Resolved,1.3,6.2,AGT-04,5,Webhook events delayed
+TKT-0038,2026-01-02 13:10,Billing,High,Resolved,0.6,2.3,AGT-12,5,Invoice missing GST details
+TKT-1012,2026-01-02 14:22,General,High,Resolved,2.3,8.3,AGT-09,4,Update company address
+TKT-1718,2026-01-02 14:44,Technical,High,Resolved,0.9,2.7,AGT-10,4,Dashboard not loading
+TKT-1115,2026-01-02 15:51,Technical,Medium,Resolved,1.0,27.3,AGT-09,4,API timeout in production
+TKT-1489,2026-01-02 17:37,General,Medium,Resolved,1.4,8.2,AGT-10,4,Request for product docs
+TKT-1257,2026-01-03 09:20,Billing,Low,Resolved,4.9,8.7,AGT-07,4,Double payment on subscription
+TKT-1942,2026-01-03 10:28,Billing,Low,Resolved,6.1,35.6,AGT-08,4,Invoice missing GST details
+TKT-1837,2026-01-03 11:07,General,Critical,Resolved,1.1,6.2,AGT-07,3,Feature request: dark mode
+TKT-1370,2026-01-03 18:15,Billing,High,Resolved,0.8,21.2,AGT-03,5,Refund not processed
+TKT-1698,2026-01-03 18:28,Technical,Medium,Resolved,9.9,10.1,AGT-01,5,Webhook events delayed
+TKT-0733,2026-01-04 05:02,General,Critical,Resolved,0.5,2.4,AGT-05,5,How to change account owner
+TKT-1578,2026-01-04 05:39,General,High,Resolved,0.8,3.8,AGT-09,4,Update company address
+TKT-0447,2026-01-04 09:48,General,Low,Resolved,2.4,26.4,AGT-05,3,Request for product docs
+TKT-1425,2026-01-04 10:33,Billing,Medium,Resolved,1.8,17.9,AGT-09,5,Refund not processed
+TKT-0715,2026-01-04 11:08,Billing,Critical,Resolved,0.4,6.2,AGT-01,4,Invoice missing GST details
+TKT-1258,2026-01-04 12:51,Technical,High,Resolved,1.0,1.9,AGT-12,4,Two-factor code not arriving
+TKT-0781,2026-01-04 13:14,Technical,High,Resolved,1.3,3.4,AGT-06,4,Login failure after update
+TKT-0579,2026-01-04 15:42,Technical,High,Resolved,0.9,3.0,AGT-01,5,API timeout in production
+TKT-0408,2026-01-04 17:22,General,Low,Resolved,2.7,7.9,AGT-11,5,Request for product docs
+TKT-0607,2026-01-05 07:19,Billing,Low,Resolved,3.2,6.2,AGT-07,4,Coupon code not applied
+TKT-0353,2026-01-05 09:14,General,Low,Resolved,3.1,28.4,AGT-09,5,Need onboarding session
+TKT-0862,2026-01-05 10:56,Technical,Critical,Resolved,0.4,5.3,AGT-11,5,Login failure after update
+TKT-1567,2026-01-05 11:17,Billing,Low,Resolved,2.9,6.1,AGT-05,4,Invoice missing GST details
+TKT-1325,2026-01-05 11:28,Billing,High,Resolved,2.1,5.2,AGT-05,4,Incorrect charge on invoice
+TKT-0191,2026-01-05 11:43,Technical,Medium,Resolved,2.7,2.9,AGT-10,4,Login failure after update
+TKT-1836,2026-01-05 13:01,General,Critical,Resolved,0.8,10.9,AGT-07,4,Need onboarding session
+TKT-0533,2026-01-05 14:55,General,Medium,Resolved,7.3,11.9,AGT-08,4,Update company address
+TKT-0978,2026-01-05 16:10,Technical,Low,Resolved,1.6,5.1,AGT-10,4,Webhook events delayed
+TKT-0638,2026-01-05 23:11,Technical,Low,Resolved,4.2,4.4,AGT-10,4,API timeout in production
+TKT-1549,2026-01-06 11:42,Billing,Low,Resolved,4.9,8.2,AGT-06,3,Refund not processed
+TKT-1194,2026-01-06 11:57,Technical,Low,Resolved,3.6,17.8,AGT-04,5,Webhook events delayed
+TKT-0985,2026-01-06 12:10,Technical,Low,Resolved,5.9,8.9,AGT-08,3,Dashboard not loading
+TKT-1208,2026-01-06 12:34,Billing,High,Resolved,1.3,41.2,AGT-07,4,Invoice missing GST details
+TKT-1690,2026-01-06 12:55,Billing,High,Resolved,0.8,8.2,AGT-02,4,Double payment on subscription
+TKT-1700,2026-01-07 06:47,General,Medium,Resolved,1.2,3.1,AGT-12,5,Need onboarding session
+TKT-0713,2026-01-07 07:29,Technical,Critical,Resolved,0.7,14.8,AGT-10,4,Login failure after update
+TKT-0736,2026-01-07 09:27,Technical,Low,Resolved,1.8,2.4,AGT-03,5,API timeout in production
+TKT-1009,2026-01-07 10:18,General,Medium,Resolved,1.4,26.0,AGT-08,4,Feature request: dark mode
+TKT-0707,2026-01-07 15:14,Technical,Medium,Resolved,3.7,13.2,AGT-03,5,API timeout in production
+TKT-0293,2026-01-07 18:04,General,Low,Resolved,2.4,51.2,AGT-04,5,Question about data retention
+TKT-1855,2026-01-08 09:30,General,Medium,Resolved,1.7,5.9,AGT-10,5,Feature request: dark mode
+TKT-0294,2026-01-08 11:41,Billing,High,Resolved,1.0,4.0,AGT-12,5,Incorrect charge on invoice
+TKT-1994,2026-01-08 12:53,Technical,Low,Resolved,1.5,10.1,AGT-03,5,Webhook events delayed
+TKT-0689,2026-01-08 13:00,Technical,High,Resolved,1.7,6.7,AGT-03,5,Two-factor code not arriving
+TKT-1761,2026-01-08 17:52,Technical,High,Resolved,3.0,5.0,AGT-03,4,Two-factor code not arriving
+TKT-0652,2026-01-09 08:43,General,High,Resolved,0.8,5.6,AGT-07,4,Question about data retention
+TKT-0437,2026-01-09 10:01,Technical,Critical,Resolved,1.4,6.5,AGT-04,5,API timeout in production
+TKT-1646,2026-01-09 11:04,Technical,Medium,Resolved,0.6,7.2,AGT-01,5,Webhook events delayed
+TKT-1574,2026-01-09 11:28,Technical,Low,Resolved,1.7,7.6,AGT-05,3,Webhook events delayed
+TKT-1113,2026-01-09 15:12,Billing,Medium,Resolved,1.6,3.4,AGT-01,5,Invoice missing GST details
+TKT-0657,2026-01-09 16:47,Billing,Medium,Resolved,1.2,6.9,AGT-12,1,Coupon code not applied
+TKT-0703,2026-01-10 09:24,Technical,Medium,Resolved,2.6,3.3,AGT-12,4,Webhook events delayed
+TKT-1617,2026-01-10 10:07,Technical,High,Resolved,0.5,14.9,AGT-04,4,Two-factor code not arriving
+TKT-1095,2026-01-10 12:05,Technical,High,Resolved,2.9,8.5,AGT-08,3,Login failure after update
+TKT-0150,2026-01-10 12:08,Billing,High,Resolved,1.1,8.2,AGT-11,5,Card declined at renewal
+TKT-0769,2026-01-10 14:05,Billing,Low,Resolved,7.0,28.0,AGT-08,2,Refund not processed
+TKT-0201,2026-01-10 14:27,Technical,High,Resolved,1.0,4.6,AGT-04,5,Export to CSV fails
+TKT-0673,2026-01-10 17:27,Technical,Low,Resolved,12.5,12.7,AGT-03,4,Login failure after update
+TKT-1184,2026-01-10 17:33,Technical,High,Resolved,0.5,4.5,AGT-01,5,Webhook events delayed
+TKT-1995,2026-01-11 10:57,Technical,Low,Resolved,3.0,5.4,AGT-09,4,Login failure after update
+TKT-0371,2026-01-11 12:37,General,Medium,Resolved,1.7,10.3,AGT-10,5,Update company address
+TKT-1879,2026-01-11 13:26,Technical,Critical,Resolved,0.6,3.5,AGT-11,5,Webhook events delayed
+TKT-1726,2026-01-11 13:44,Billing,Medium,Resolved,1.2,4.1,AGT-02,4,Invoice missing GST details
+TKT-0212,2026-01-11 18:21,Billing,High,Resolved,1.4,3.2,AGT-10,4,Double payment on subscription
+TKT-0406,2026-01-12 06:52,General,Critical,Resolved,0.2,1.5,AGT-07,5,Update company address
+TKT-0153,2026-01-12 12:04,General,Low,Resolved,1.4,2.1,AGT-12,4,Feature request: dark mode
+TKT-1651,2026-01-12 12:51,General,Medium,Resolved,3.9,115.7,AGT-06,4,Request for product docs
+TKT-0750,2026-01-12 13:15,Technical,High,Resolved,2.2,5.3,AGT-06,3,Dashboard not loading
+TKT-1308,2026-01-12 15:26,General,Medium,Resolved,4.2,4.4,AGT-07,5,Request for product docs
+TKT-0188,2026-01-12 21:36,General,Low,Resolved,5.0,14.0,AGT-10,4,How to change account owner
+TKT-1252,2026-01-13 14:41,Technical,Low,Resolved,4.5,15.9,AGT-06,4,Login failure after update
+TKT-1173,2026-01-13 15:33,Billing,Low,Resolved,1.9,6.2,AGT-09,5,Double payment on subscription
+TKT-1498,2026-01-14 05:53,General,Low,Resolved,2.2,4.2,AGT-11,5,Need onboarding session
+TKT-1293,2026-01-14 09:11,Billing,Critical,Resolved,0.3,3.9,AGT-04,5,Refund not processed
+TKT-1053,2026-01-14 11:16,Technical,Low,Resolved,0.7,6.6,AGT-12,5,Two-factor code not arriving
+TKT-0868,2026-01-14 13:06,Technical,High,Resolved,1.2,6.6,AGT-07,1,Export to CSV fails
+TKT-1870,2026-01-14 15:45,General,Medium,Resolved,1.1,5.0,AGT-12,5,Request for product docs
+TKT-0517,2026-01-15 09:08,General,Low,Resolved,2.4,5.8,AGT-10,4,Need onboarding session
+TKT-1576,2026-01-15 14:21,Billing,Low,Resolved,1.7,59.8,AGT-04,5,Coupon code not applied
+TKT-0882,2026-01-15 15:17,Technical,Critical,Resolved,0.9,4.3,AGT-01,5,Dashboard not loading
+TKT-1021,2026-01-15 20:44,Billing,Low,Resolved,1.5,6.4,AGT-04,4,Double payment on subscription
+TKT-1515,2026-01-16 10:19,General,Critical,Resolved,1.3,1.7,AGT-07,5,Request for product docs
+TKT-0086,2026-01-16 10:44,Technical,High,Resolved,0.9,7.4,AGT-07,5,Export to CSV fails
+TKT-1017,2026-01-16 14:22,General,High,Resolved,2.4,2.6,AGT-07,4,Question about data retention
+TKT-1040,2026-01-16 15:02,Billing,Medium,Resolved,2.7,6.5,AGT-11,4,Coupon code not applied
+TKT-1170,2026-01-17 11:43,General,Low,Resolved,5.9,16.2,AGT-07,4,Request for product docs
+TKT-0958,2026-01-17 12:53,Technical,High,Resolved,1.4,4.9,AGT-10,4,API timeout in production
+TKT-0199,2026-01-17 13:31,General,Low,Resolved,4.8,10.9,AGT-05,5,Request for product docs
+TKT-1571,2026-01-17 14:44,Technical,Low,Resolved,11.7,15.4,AGT-05,4,Two-factor code not arriving
+TKT-1324,2026-01-18 03:19,Technical,Critical,Resolved,0.5,12.3,AGT-06,5,Dashboard not loading
+TKT-0180,2026-01-18 04:25,Technical,Low,Resolved,5.0,5.3,AGT-09,5,API timeout in production
+TKT-0908,2026-01-18 09:16,General,Medium,Resolved,3.6,8.4,AGT-03,4,Question about data retention
+TKT-0062,2026-01-18 09:39,Technical,Low,Resolved,1.5,2.0,AGT-12,5,Two-factor code not arriving
+TKT-1709,2026-01-18 12:09,General,Critical,Resolved,0.7,2.1,AGT-05,5,Request for product docs
+TKT-0019,2026-01-18 13:25,Billing,Medium,Resolved,1.1,3.5,AGT-12,5,Coupon code not applied
+TKT-1279,2026-01-18 13:51,Technical,Medium,Resolved,4.2,4.5,AGT-08,5,Two-factor code not arriving
+TKT-0842,2026-01-19 05:37,Billing,Critical,Resolved,1.7,9.4,AGT-08,3,Invoice missing GST details
+TKT-0151,2026-01-19 05:39,General,Medium,Resolved,0.6,6.8,AGT-03,4,Request for product docs
+TKT-0851,2026-01-19 12:12,Billing,Low,Resolved,2.6,7.5,AGT-05,4,Coupon code not applied
+TKT-0160,2026-01-19 12:41,Billing,Low,Resolved,1.7,4.7,AGT-11,4,Double payment on subscription
+TKT-1448,2026-01-19 20:22,Technical,Medium,Resolved,2.7,10.3,AGT-02,3,Login failure after update
+TKT-0398,2026-01-20 14:56,Technical,High,Resolved,0.7,16.9,AGT-03,3,API timeout in production
+TKT-0642,2026-01-20 15:01,Billing,Medium,Resolved,2.8,3.9,AGT-12,5,Invoice missing GST details
+TKT-1590,2026-01-21 06:39,Billing,High,Resolved,3.1,3.4,AGT-08,1,Invoice missing GST details
+TKT-1159,2026-01-21 15:57,Billing,Medium,Resolved,2.3,3.3,AGT-12,5,Coupon code not applied
+TKT-1125,2026-01-22 15:42,Billing,Medium,Resolved,1.4,6.9,AGT-01,5,Double payment on subscription
+TKT-0563,2026-01-22 15:56,Technical,High,Resolved,1.3,6.4,AGT-08,4,API timeout in production
+TKT-0591,2026-01-23 07:26,Technical,Medium,Resolved,3.7,14.5,AGT-05,4,Webhook events delayed
+TKT-0612,2026-01-23 08:08,Billing,Medium,Resolved,1.4,13.0,AGT-06,4,Incorrect charge on invoice
+TKT-1038,2026-01-23 12:54,Technical,Medium,Resolved,1.4,12.5,AGT-08,4,API timeout in production
+TKT-1523,2026-01-23 13:52,General,Medium,Resolved,1.9,14.5,AGT-10,3,Request for product docs
+TKT-0764,2026-01-23 14:46,Technical,High,Resolved,1.1,16.1,AGT-10,4,Dashboard not loading
+TKT-0051,2026-01-23 16:39,Billing,High,Resolved,1.5,1.7,AGT-03,1,Coupon code not applied
+TKT-1672,2026-01-24 09:17,Technical,Medium,Resolved,1.9,16.4,AGT-01,4,Export to CSV fails
+TKT-0036,2026-01-24 09:20,General,Critical,Resolved,0.6,4.0,AGT-09,4,Need onboarding session
+TKT-1486,2026-01-24 10:32,Technical,Medium,Resolved,1.0,3.7,AGT-07,5,Login failure after update
+TKT-1756,2026-01-24 12:54,General,Critical,Resolved,0.3,1.5,AGT-03,5,Feature request: dark mode
+TKT-0074,2026-01-24 13:23,Technical,Medium,Resolved,0.7,7.6,AGT-10,5,Two-factor code not arriving
+TKT-0167,2026-01-24 15:24,Technical,Medium,Resolved,0.6,6.5,AGT-12,5,Webhook events delayed
+TKT-0789,2026-01-24 15:56,Billing,Medium,Resolved,0.7,7.9,AGT-09,5,Invoice missing GST details
+TKT-1679,2026-01-25 09:40,Billing,Low,Resolved,0.8,12.3,AGT-04,5,Incorrect charge on invoice
+TKT-0526,2026-01-25 12:15,Technical,Medium,Resolved,0.6,2.1,AGT-04,3,Webhook events delayed
+TKT-0803,2026-01-25 13:20,Billing,High,Resolved,0.4,19.0,AGT-07,4,Refund not processed
+TKT-1949,2026-01-25 13:58,Technical,Medium,Resolved,0.7,6.3,AGT-02,4,Two-factor code not arriving
+TKT-0392,2026-01-26 07:41,Billing,Low,Resolved,3.8,10.5,AGT-06,4,Incorrect charge on invoice
+TKT-0687,2026-01-26 10:33,General,Critical,Resolved,0.4,1.8,AGT-02,4,Need onboarding session
+TKT-0233,2026-01-26 11:17,Billing,Medium,Resolved,2.8,6.5,AGT-01,5,Double payment on subscription
+TKT-1303,2026-01-26 13:02,Billing,Critical,Resolved,1.3,2.1,AGT-12,5,Double payment on subscription
+TKT-0025,2026-01-26 15:13,Technical,Medium,Resolved,3.0,18.4,AGT-11,5,Export to CSV fails
+TKT-1274,2026-01-26 15:21,Technical,High,Resolved,1.3,6.4,AGT-11,4,Export to CSV fails
+TKT-1644,2026-01-26 18:22,Technical,Critical,Resolved,1.1,11.8,AGT-01,3,Export to CSV fails
+TKT-1047,2026-01-27 07:50,Technical,Medium,Resolved,1.1,21.1,AGT-08,2,Webhook events delayed
+TKT-1400,2026-01-27 13:08,Technical,High,Resolved,0.5,5.7,AGT-04,5,Export to CSV fails
+TKT-1305,2026-01-27 13:58,Billing,Medium,Resolved,4.2,13.0,AGT-01,4,Coupon code not applied
+TKT-1250,2026-01-27 20:39,Technical,Low,Resolved,2.1,16.5,AGT-05,4,Dashboard not loading
+TKT-1282,2026-01-28 04:40,Billing,Medium,Resolved,1.8,3.2,AGT-05,4,Refund not processed
+TKT-0288,2026-01-28 10:04,Technical,High,Resolved,1.3,5.7,AGT-07,3,Webhook events delayed
+TKT-1403,2026-01-28 15:45,General,Medium,Resolved,3.6,6.4,AGT-06,4,Update company address
+TKT-1789,2026-01-28 19:08,Billing,High,Resolved,1.3,67.3,AGT-03,5,Incorrect charge on invoice
+TKT-0712,2026-01-29 11:07,General,Low,Resolved,3.2,7.9,AGT-07,4,Need onboarding session
+TKT-0056,2026-01-29 11:09,Technical,High,Resolved,1.4,3.5,AGT-03,5,Export to CSV fails
+TKT-1108,2026-01-29 12:39,General,Medium,Resolved,1.9,2.7,AGT-07,5,Feature request: dark mode
+TKT-0835,2026-01-29 12:58,Technical,Critical,Resolved,0.9,2.6,AGT-09,4,Export to CSV fails
+TKT-1589,2026-01-29 14:32,Technical,High,Resolved,0.5,15.0,AGT-06,3,Dashboard not loading
+TKT-0617,2026-01-29 14:35,Technical,High,Resolved,0.7,6.6,AGT-04,3,API timeout in production
+TKT-0259,2026-01-29 14:59,Billing,Medium,Resolved,0.9,2.9,AGT-12,5,Refund not processed
+TKT-0287,2026-01-30 12:35,Technical,High,Resolved,1.9,9.0,AGT-09,4,Dashboard not loading
+TKT-1025,2026-01-30 13:52,Billing,Low,Resolved,1.8,3.8,AGT-01,4,Incorrect charge on invoice
+TKT-0098,2026-01-30 17:36,Technical,Critical,Resolved,0.7,8.5,AGT-05,3,Dashboard not loading
+TKT-0455,2026-01-31 07:16,Technical,High,Resolved,1.0,6.8,AGT-01,3,Login failure after update
+TKT-0798,2026-01-31 08:17,Technical,Critical,Resolved,0.7,3.7,AGT-05,4,Login failure after update
+TKT-0084,2026-01-31 11:24,Billing,Low,Resolved,4.7,8.9,AGT-06,4,Coupon code not applied
+TKT-1624,2026-01-31 12:41,Billing,Medium,Resolved,13.4,13.6,AGT-08,3,Coupon code not applied
+TKT-0213,2026-01-31 16:31,Technical,Medium,Resolved,1.1,3.9,AGT-02,4,Dashboard not loading
+TKT-0138,2026-01-31 16:58,Technical,Low,Resolved,14.8,15.0,AGT-09,5,Dashboard not loading
+TKT-0795,2026-01-31 18:58,Technical,Medium,Resolved,1.8,2.4,AGT-10,4,Export to CSV fails
+TKT-1935,2026-02-01 05:10,Billing,High,Resolved,1.4,2.7,AGT-07,4,Refund not processed
+TKT-0348,2026-02-01 14:01,Billing,Medium,Resolved,2.7,4.7,AGT-07,4,Refund not processed
+TKT-0231,2026-02-01 14:02,Billing,High,Resolved,0.9,1.4,AGT-01,3,Refund not processed
+TKT-0422,2026-02-01 17:08,Technical,High,Resolved,0.5,16.9,AGT-01,4,Webhook events delayed
+TKT-0132,2026-02-01 18:12,General,High,Resolved,1.0,9.5,AGT-10,4,Feature request: dark mode
+TKT-1957,2026-02-02 03:24,Technical,Medium,Resolved,0.8,4.9,AGT-11,5,Export to CSV fails
+TKT-1998,2026-02-02 10:15,Billing,Medium,Resolved,1.1,2.6,AGT-12,1,Card declined at renewal
+TKT-0706,2026-02-02 10:45,Technical,Low,Resolved,5.1,5.5,AGT-04,5,Export to CSV fails
+TKT-1999,2026-02-02 12:33,General,Medium,Resolved,2.6,7.5,AGT-04,5,Need onboarding session
+TKT-1573,2026-02-02 12:37,General,Low,Resolved,3.3,16.7,AGT-06,2,Request for product docs
+TKT-0292,2026-02-02 18:22,Technical,Medium,Resolved,2.1,6.6,AGT-10,3,Webhook events delayed
+TKT-1253,2026-02-03 09:13,Technical,Medium,Resolved,0.9,6.2,AGT-01,5,Login failure after update
+TKT-1669,2026-02-03 11:12,Technical,High,Resolved,1.5,2.9,AGT-09,4,Export to CSV fails
+TKT-0818,2026-02-03 11:51,Technical,High,Resolved,2.6,2.8,AGT-10,4,Dashboard not loading
+TKT-1788,2026-02-04 06:37,Billing,Low,Resolved,2.1,5.1,AGT-09,4,Double payment on subscription
+TKT-1414,2026-02-04 07:11,Technical,High,Resolved,0.5,0.9,AGT-11,4,API timeout in production
+TKT-0962,2026-02-04 08:32,Billing,High,Resolved,0.9,2.4,AGT-03,5,Double payment on subscription
+TKT-1374,2026-02-04 12:52,Technical,High,Resolved,0.6,8.4,AGT-05,3,Dashboard not loading
+TKT-0628,2026-02-04 14:46,Technical,Low,Resolved,3.2,7.6,AGT-11,5,Two-factor code not arriving
+TKT-1699,2026-02-04 14:46,Technical,Medium,Resolved,1.6,10.6,AGT-10,4,Two-factor code not arriving
+TKT-1200,2026-02-04 15:06,Billing,Medium,Resolved,2.4,15.8,AGT-04,5,Incorrect charge on invoice
+TKT-0099,2026-02-04 22:49,Technical,Medium,Resolved,2.4,13.9,AGT-01,5,Export to CSV fails
+TKT-0800,2026-02-05 09:04,Billing,Low,Resolved,1.6,18.3,AGT-06,4,Invoice missing GST details
+TKT-1065,2026-02-05 10:19,Technical,Critical,Resolved,0.3,7.9,AGT-09,5,Two-factor code not arriving
+TKT-1181,2026-02-05 10:23,Billing,Medium,Resolved,6.4,21.7,AGT-06,3,Coupon code not applied
+TKT-1231,2026-02-05 11:28,Technical,Low,Resolved,4.1,27.9,AGT-06,3,Dashboard not loading
+TKT-1197,2026-02-05 13:10,Billing,Low,Resolved,2.9,7.4,AGT-05,4,Card declined at renewal
+TKT-0747,2026-02-05 13:20,Technical,High,Resolved,1.8,2.5,AGT-02,3,API timeout in production
+TKT-1863,2026-02-05 16:50,Technical,Medium,Resolved,1.9,26.7,AGT-09,5,Login failure after update
+TKT-0220,2026-02-05 18:11,General,Critical,Resolved,2.0,2.2,AGT-03,3,Question about data retention
+TKT-0478,2026-02-05 21:02,Billing,Medium,Resolved,8.3,8.5,AGT-02,4,Coupon code not applied
+TKT-0910,2026-02-06 07:32,Billing,High,Resolved,2.6,105.6,AGT-06,5,Refund not processed
+TKT-0960,2026-02-06 10:37,Billing,High,Resolved,3.3,26.8,AGT-05,4,Coupon code not applied
+TKT-1991,2026-02-06 12:53,General,Critical,Resolved,1.0,3.4,AGT-06,3,Feature request: dark mode
+TKT-1106,2026-02-06 16:34,Technical,Medium,Resolved,1.3,1.5,AGT-12,5,Dashboard not loading
+TKT-1691,2026-02-07 10:42,Technical,Medium,Resolved,3.4,8.1,AGT-11,5,Two-factor code not arriving
+TKT-0002,2026-02-07 14:37,General,Low,Resolved,3.1,3.3,AGT-04,1,Feature request: dark mode
+TKT-1693,2026-02-07 18:01,Billing,Medium,Resolved,0.8,12.8,AGT-10,4,Refund not processed
+TKT-0576,2026-02-08 08:11,Technical,Low,Resolved,4.5,30.2,AGT-08,2,Webhook events delayed
+TKT-0545,2026-02-08 12:20,Billing,Low,Resolved,4.8,15.7,AGT-09,4,Coupon code not applied
+TKT-0592,2026-02-09 13:05,Billing,Medium,Resolved,4.3,5.5,AGT-04,4,Refund not processed
+TKT-1044,2026-02-09 13:27,General,Medium,Resolved,2.7,11.4,AGT-08,3,Request for product docs
+TKT-1970,2026-02-09 15:32,Technical,Low,Resolved,2.6,6.7,AGT-04,4,API timeout in production
+TKT-0758,2026-02-10 08:12,Technical,High,Resolved,0.8,14.2,AGT-02,4,API timeout in production
+TKT-1104,2026-02-10 08:57,Technical,Medium,Resolved,1.4,5.2,AGT-12,4,Two-factor code not arriving
+TKT-0896,2026-02-10 09:16,Billing,Low,Resolved,0.9,6.5,AGT-04,5,Invoice missing GST details
+TKT-1961,2026-02-10 10:22,Technical,Medium,Resolved,2.4,6.1,AGT-11,5,API timeout in production
+TKT-1211,2026-02-10 14:55,Billing,Low,Resolved,5.7,13.6,AGT-06,3,Incorrect charge on invoice
+TKT-1561,2026-02-10 15:12,General,Low,Resolved,1.6,17.9,AGT-07,4,Request for product docs
+TKT-1313,2026-02-10 16:59,Technical,High,Resolved,0.9,6.5,AGT-10,5,API timeout in production
+TKT-0649,2026-02-10 18:33,Billing,Critical,Resolved,0.2,3.2,AGT-01,4,Coupon code not applied
+TKT-0075,2026-02-10 21:33,Technical,Medium,Resolved,5.4,7.1,AGT-03,5,Login failure after update
+TKT-1346,2026-02-11 04:39,Technical,Medium,Resolved,2.2,4.8,AGT-11,4,Login failure after update
+TKT-0434,2026-02-11 07:30,General,Medium,Resolved,1.3,5.5,AGT-01,4,Update company address
+TKT-1443,2026-02-11 12:01,General,High,Resolved,2.1,3.3,AGT-06,4,Question about data retention
+TKT-1393,2026-02-11 12:09,Technical,Critical,Resolved,0.5,1.7,AGT-09,5,Login failure after update
+TKT-1172,2026-02-11 12:46,Billing,Medium,Resolved,3.0,21.0,AGT-02,4,Double payment on subscription
+TKT-0634,2026-02-11 12:51,Technical,Low,Resolved,2.2,26.3,AGT-02,3,API timeout in production
+TKT-0106,2026-02-11 13:23,Billing,Low,Resolved,0.8,8.2,AGT-04,4,Incorrect charge on invoice
+TKT-0934,2026-02-11 14:55,Technical,High,Resolved,0.4,3.9,AGT-07,4,Two-factor code not arriving
+TKT-0451,2026-02-11 15:36,General,Low,Resolved,3.8,14.4,AGT-11,4,Need onboarding session
+TKT-0317,2026-02-11 15:57,Technical,Critical,Resolved,0.4,3.7,AGT-01,4,Dashboard not loading
+TKT-0719,2026-02-11 21:18,Technical,Medium,Resolved,1.0,7.1,AGT-11,5,Two-factor code not arriving
+TKT-1087,2026-02-12 12:23,Billing,Low,Resolved,2.2,30.9,AGT-12,5,Invoice missing GST details
+TKT-0016,2026-02-12 12:36,Technical,Critical,Resolved,1.1,2.1,AGT-11,4,Export to CSV fails
+TKT-1986,2026-02-12 13:05,Technical,Low,Resolved,3.0,12.2,AGT-05,4,Export to CSV fails
+TKT-0168,2026-02-12 14:39,Technical,Medium,Resolved,3.4,7.7,AGT-02,5,Login failure after update
+TKT-1148,2026-02-12 20:43,Billing,High,Resolved,1.1,6.7,AGT-02,1,Card declined at renewal
+TKT-1729,2026-02-13 02:59,Billing,Medium,Resolved,0.9,27.2,AGT-06,4,Refund not processed
+TKT-0221,2026-02-13 09:17,Billing,Medium,Resolved,1.3,1.5,AGT-02,5,Invoice missing GST details
+TKT-0575,2026-02-13 11:43,General,Medium,Resolved,3.9,15.0,AGT-03,5,Request for product docs
+TKT-1147,2026-02-13 13:40,Technical,Medium,Resolved,1.1,5.1,AGT-06,5,Webhook events delayed
+TKT-0856,2026-02-13 15:01,Technical,Medium,Resolved,1.0,9.0,AGT-06,3,Dashboard not loading
+TKT-0061,2026-02-13 15:22,General,High,Resolved,0.7,2.3,AGT-04,5,Need onboarding session
+TKT-1731,2026-02-14 12:36,Technical,High,Resolved,0.8,5.5,AGT-12,5,API timeout in production
+TKT-0972,2026-02-14 13:11,Billing,Critical,Resolved,0.8,10.2,AGT-05,5,Refund not processed
+TKT-0216,2026-02-14 19:46,Technical,Medium,Resolved,5.0,10.8,AGT-11,5,Webhook events delayed
+TKT-1958,2026-02-15 06:48,General,High,Resolved,0.4,6.3,AGT-09,5,Request for product docs
+TKT-1187,2026-02-15 17:21,Billing,Low,Resolved,6.1,76.8,AGT-01,4,Coupon code not applied
+TKT-0801,2026-02-15 18:07,Billing,High,Resolved,1.3,16.2,AGT-05,3,Card declined at renewal
+TKT-1637,2026-02-16 10:37,Technical,Medium,Resolved,1.9,8.3,AGT-11,5,Webhook events delayed
+TKT-0319,2026-02-16 10:41,Technical,High,Resolved,0.9,2.7,AGT-11,5,Export to CSV fails
+TKT-1176,2026-02-16 13:47,Billing,Medium,Resolved,2.3,4.2,AGT-06,4,Invoice missing GST details
+TKT-1614,2026-02-16 14:38,Technical,Low,Resolved,2.0,4.5,AGT-10,5,Two-factor code not arriving
+TKT-1266,2026-02-16 14:43,Billing,High,Resolved,1.3,2.7,AGT-09,4,Refund not processed
+TKT-0651,2026-02-16 16:46,Technical,Low,Resolved,2.9,13.6,AGT-04,4,Two-factor code not arriving
+TKT-1516,2026-02-16 16:49,Billing,Medium,Resolved,3.3,4.8,AGT-10,5,Refund not processed
+TKT-1822,2026-02-17 12:05,Technical,High,Resolved,1.0,3.6,AGT-12,5,API timeout in production
+TKT-1861,2026-02-17 13:15,Billing,Medium,Resolved,3.8,5.8,AGT-05,3,Card declined at renewal
+TKT-0963,2026-02-17 13:19,Billing,High,Resolved,0.5,2.4,AGT-09,4,Card declined at renewal
+TKT-1530,2026-02-17 16:10,Technical,Critical,Resolved,1.0,1.4,AGT-04,5,Login failure after update
+TKT-0648,2026-02-18 04:47,Billing,Low,Resolved,1.9,5.7,AGT-07,4,Coupon code not applied
+TKT-0577,2026-02-18 10:48,Technical,Medium,Resolved,1.7,4.9,AGT-12,4,Two-factor code not arriving
+TKT-0929,2026-02-18 13:30,Billing,Medium,Resolved,0.4,2.2,AGT-09,5,Card declined at renewal
+TKT-0678,2026-02-18 14:21,General,High,Resolved,1.3,65.3,AGT-02,4,Question about data retention
+TKT-1111,2026-02-18 14:38,Billing,Critical,Resolved,1.2,8.3,AGT-06,4,Card declined at renewal
+TKT-0876,2026-02-18 14:39,Billing,Medium,Resolved,2.8,3.0,AGT-04,5,Invoice missing GST details
+TKT-1805,2026-02-18 16:43,Billing,Medium,Resolved,4.2,6.7,AGT-09,4,Card declined at renewal
+TKT-0299,2026-02-18 18:40,Technical,High,Resolved,1.8,7.8,AGT-04,4,Dashboard not loading
+TKT-0743,2026-02-19 08:06,Technical,High,Resolved,1.5,5.0,AGT-02,4,Login failure after update
+TKT-0932,2026-02-19 10:16,Billing,Medium,Resolved,5.4,5.6,AGT-09,4,Invoice missing GST details
+TKT-0872,2026-02-19 10:45,Billing,Medium,Resolved,4.1,7.3,AGT-04,4,Refund not processed
+TKT-0245,2026-02-19 15:44,Technical,High,Resolved,2.7,3.1,AGT-04,5,Login failure after update
+TKT-1734,2026-02-20 12:44,General,Medium,Resolved,1.6,12.9,AGT-12,5,Update company address
+TKT-1638,2026-02-20 12:58,Billing,Critical,Resolved,0.2,4.2,AGT-03,5,Refund not processed
+TKT-1281,2026-02-20 14:55,General,Low,Resolved,3.1,35.1,AGT-05,4,Need onboarding session
+TKT-0169,2026-02-21 11:39,Billing,Low,Resolved,1.7,4.3,AGT-12,5,Refund not processed
+TKT-1157,2026-02-21 11:46,General,High,Resolved,0.5,9.8,AGT-07,5,Update company address
+TKT-0466,2026-02-21 12:29,General,Low,Resolved,4.9,9.7,AGT-02,4,Request for product docs
+TKT-0826,2026-02-21 13:19,General,Low,Resolved,3.3,6.8,AGT-07,5,How to change account owner
+TKT-1928,2026-02-21 16:59,Technical,High,Resolved,1.2,7.9,AGT-09,5,Webhook events delayed
+TKT-0470,2026-02-22 11:55,Technical,Low,Resolved,2.3,21.3,AGT-02,5,Webhook events delayed
+TKT-1501,2026-02-22 12:01,Billing,Low,Resolved,2.5,15.8,AGT-02,4,Coupon code not applied
+TKT-1544,2026-02-22 12:15,Technical,Medium,Resolved,1.9,5.9,AGT-08,3,Login failure after update
+TKT-0113,2026-02-22 13:01,General,Critical,Resolved,1.0,4.1,AGT-05,4,Update company address
+TKT-0601,2026-02-22 14:12,General,Low,Resolved,3.4,5.7,AGT-04,5,Question about data retention
+TKT-1849,2026-02-22 19:44,Technical,Low,Resolved,2.9,14.6,AGT-09,5,API timeout in production
+TKT-1556,2026-02-23 12:23,Technical,High,Resolved,0.6,1.7,AGT-10,4,Two-factor code not arriving
+TKT-1024,2026-02-23 14:31,Technical,Low,Resolved,2.1,11.2,AGT-11,5,Webhook events delayed
+TKT-0943,2026-02-23 16:35,Technical,High,Resolved,1.9,2.4,AGT-11,5,Login failure after update
+TKT-1740,2026-02-23 16:38,Billing,High,Resolved,0.6,7.0,AGT-12,4,Invoice missing GST details
+TKT-1481,2026-02-24 06:17,Technical,Low,Resolved,0.7,81.2,AGT-12,5,Webhook events delayed
+TKT-0507,2026-02-24 10:10,General,High,Resolved,0.9,3.2,AGT-02,2,Feature request: dark mode
+TKT-0641,2026-02-24 10:20,Technical,Critical,Resolved,0.5,2.6,AGT-11,4,Export to CSV fails
+TKT-2000,2026-02-24 10:51,Billing,Medium,Resolved,2.7,4.3,AGT-07,5,Coupon code not applied
+TKT-0696,2026-02-24 12:12,Billing,High,Resolved,1.3,3.1,AGT-05,3,Invoice missing GST details
+TKT-0370,2026-02-24 16:12,Billing,Low,Resolved,6.0,8.7,AGT-05,4,Incorrect charge on invoice
+TKT-1164,2026-02-24 22:27,Technical,Medium,Resolved,1.4,15.3,AGT-07,4,Dashboard not loading
+TKT-1620,2026-02-25 06:18,General,Low,Resolved,1.9,11.8,AGT-11,4,How to change account owner
+TKT-1326,2026-02-25 14:17,Technical,Medium,Resolved,0.8,6.1,AGT-10,4,Dashboard not loading
+TKT-0444,2026-02-25 14:22,General,Low,Resolved,2.1,4.7,AGT-11,5,Request for product docs
+TKT-0431,2026-02-25 14:47,Technical,Critical,Resolved,1.1,4.9,AGT-10,5,Webhook events delayed
+TKT-1630,2026-02-25 15:53,Billing,Low,Resolved,2.6,14.0,AGT-06,5,Coupon code not applied
+TKT-0664,2026-02-26 04:33,General,Critical,Resolved,0.7,2.1,AGT-05,4,Need onboarding session
+TKT-0496,2026-02-26 12:19,Technical,Medium,Resolved,2.3,4.0,AGT-09,5,Dashboard not loading
+TKT-0891,2026-02-26 13:49,Billing,High,Resolved,0.3,5.0,AGT-01,5,Incorrect charge on invoice
+TKT-1584,2026-02-26 17:38,Technical,Critical,Resolved,1.0,6.4,AGT-11,5,Export to CSV fails
+TKT-0246,2026-02-27 09:50,Technical,High,Resolved,2.1,2.6,AGT-07,4,Dashboard not loading
+TKT-0674,2026-02-27 14:52,General,Low,Resolved,2.8,10.5,AGT-10,4,Update company address
+TKT-1522,2026-02-27 14:56,Technical,High,Resolved,0.7,3.1,AGT-01,3,Login failure after update
+TKT-1294,2026-02-27 15:12,Technical,Critical,Resolved,0.9,2.4,AGT-08,3,Export to CSV fails
+TKT-1372,2026-02-27 15:16,Technical,Medium,Resolved,1.0,10.5,AGT-10,4,Two-factor code not arriving
+TKT-0524,2026-02-27 17:38,Technical,Medium,Resolved,2.4,16.1,AGT-05,4,Login failure after update
+TKT-0957,2026-02-27 18:36,Billing,Medium,Resolved,6.2,6.4,AGT-09,5,Coupon code not applied
+TKT-0236,2026-02-28 03:43,Billing,Low,Resolved,6.2,6.4,AGT-09,4,Double payment on subscription
+TKT-1094,2026-02-28 06:04,Billing,Low,Resolved,2.2,2.4,AGT-11,3,Double payment on subscription
+TKT-0942,2026-02-28 09:10,General,Low,Resolved,6.1,6.7,AGT-01,5,Question about data retention
+TKT-0961,2026-02-28 10:11,Technical,High,Resolved,0.7,2.2,AGT-11,5,Webhook events delayed
+TKT-1399,2026-02-28 10:33,Technical,Medium,Resolved,2.9,15.0,AGT-01,5,Export to CSV fails
+TKT-0762,2026-02-28 11:38,Technical,Medium,Resolved,1.4,2.0,AGT-12,5,Login failure after update
+TKT-1809,2026-02-28 12:48,Technical,Medium,Resolved,1.4,28.8,AGT-01,5,API timeout in production
+TKT-1132,2026-02-28 14:21,Technical,Low,Resolved,2.3,40.6,AGT-05,4,Login failure after update
+TKT-0218,2026-03-01 08:42,Billing,Medium,Resolved,0.7,6.3,AGT-12,4,Double payment on subscription
+TKT-1834,2026-03-01 11:31,Technical,Medium,Resolved,1.8,28.4,AGT-10,4,API timeout in production
+TKT-1604,2026-03-01 12:41,Billing,High,Resolved,0.8,7.4,AGT-07,4,Refund not processed
+TKT-1391,2026-03-01 15:45,Technical,Medium,Resolved,1.4,1.6,AGT-03,5,Login failure after update
+TKT-1767,2026-03-01 17:03,Billing,Low,Resolved,3.6,9.2,AGT-10,3,Incorrect charge on invoice
+TKT-1137,2026-03-02 12:05,General,High,Resolved,0.2,16.9,AGT-07,3,Feature request: dark mode
+TKT-1736,2026-03-02 12:30,General,High,Resolved,0.6,10.6,AGT-11,3,Feature request: dark mode
+TKT-0242,2026-03-02 12:50,Technical,Medium,Resolved,1.7,14.3,AGT-01,3,Export to CSV fails
+TKT-0400,2026-03-02 14:01,Technical,Medium,Resolved,1.9,11.4,AGT-10,4,Export to CSV fails
+TKT-0653,2026-03-03 10:05,Billing,Low,Resolved,1.8,31.3,AGT-08,2,Incorrect charge on invoice
+TKT-0204,2026-03-03 10:11,Billing,Low,Resolved,7.4,7.6,AGT-07,4,Incorrect charge on invoice
+TKT-0573,2026-03-03 10:27,Billing,Medium,Resolved,1.6,5.3,AGT-12,5,Coupon code not applied
+TKT-0906,2026-03-04 05:58,Billing,Medium,Resolved,4.7,10.3,AGT-09,4,Card declined at renewal
+TKT-1741,2026-03-04 09:11,Technical,High,Resolved,0.9,2.1,AGT-04,5,API timeout in production
+TKT-0511,2026-03-04 13:37,Technical,Low,Resolved,3.4,35.5,AGT-05,4,API timeout in production
+TKT-1603,2026-03-04 16:23,General,Critical,Resolved,0.8,9.8,AGT-04,3,Update company address
+TKT-1320,2026-03-05 11:13,Billing,Medium,Resolved,9.5,9.7,AGT-05,3,Incorrect charge on invoice
+TKT-0105,2026-03-05 13:13,Billing,Low,Resolved,2.8,3.0,AGT-10,5,Refund not processed
+TKT-1607,2026-03-05 16:28,General,Medium,Resolved,2.2,14.6,AGT-03,3,How to change account owner
+TKT-1873,2026-03-05 18:00,Billing,High,Resolved,2.2,5.1,AGT-10,4,Card declined at renewal
+TKT-1735,2026-03-06 09:00,Technical,Low,Resolved,4.1,164.8,AGT-09,4,Dashboard not loading
+TKT-0954,2026-03-06 09:58,General,Medium,Resolved,2.3,3.8,AGT-03,4,Feature request: dark mode
+TKT-1431,2026-03-06 11:07,General,Medium,Resolved,2.4,3.6,AGT-06,3,Need onboarding session
+TKT-0546,2026-03-06 11:30,Billing,Medium,Resolved,1.5,2.3,AGT-01,5,Refund not processed
+TKT-0684,2026-03-06 12:38,Technical,High,Resolved,1.9,3.4,AGT-04,3,Export to CSV fails
+TKT-0898,2026-03-06 15:33,Billing,Low,Resolved,9.7,9.9,AGT-07,4,Refund not processed
+TKT-1704,2026-03-06 16:29,Technical,High,Resolved,0.9,6.2,AGT-05,4,Webhook events delayed
+TKT-0264,2026-03-06 18:53,Technical,Medium,Resolved,0.8,30.8,AGT-04,1,API timeout in production
+TKT-1520,2026-03-07 11:04,Technical,Medium,Resolved,2.6,3.8,AGT-12,5,Two-factor code not arriving
+TKT-0092,2026-03-07 12:18,Technical,High,Resolved,1.4,1.6,AGT-09,4,Dashboard not loading
+TKT-0413,2026-03-07 18:10,General,Low,Resolved,2.1,19.8,AGT-08,3,Request for product docs
+TKT-0956,2026-03-08 08:16,Technical,Low,Resolved,2.3,11.6,AGT-10,3,Export to CSV fails
+TKT-0107,2026-03-08 11:34,Technical,Low,Resolved,1.3,8.1,AGT-10,4,API timeout in production
+TKT-1005,2026-03-08 12:07,Technical,Low,Resolved,1.5,11.4,AGT-07,4,API timeout in production
+TKT-0102,2026-03-08 13:51,Billing,High,Resolved,0.9,7.6,AGT-01,4,Incorrect charge on invoice
+TKT-1165,2026-03-08 14:22,Billing,Medium,Resolved,1.4,15.7,AGT-07,4,Incorrect charge on invoice
+TKT-0055,2026-03-08 14:41,General,Medium,Resolved,0.5,6.4,AGT-10,5,Update company address
+TKT-1648,2026-03-08 17:44,Technical,Medium,Resolved,0.9,5.9,AGT-04,5,API timeout in production
+TKT-0682,2026-03-08 21:21,General,Low,Resolved,3.4,4.5,AGT-03,5,How to change account owner
+TKT-1410,2026-03-09 16:55,Billing,Medium,Resolved,7.7,7.9,AGT-11,4,Card declined at renewal
+TKT-1951,2026-03-10 11:54,Technical,High,Resolved,0.5,5.7,AGT-06,5,Login failure after update
+TKT-1363,2026-03-10 12:20,Billing,High,Resolved,2.3,18.8,AGT-10,4,Refund not processed
+TKT-0110,2026-03-10 15:17,General,Medium,Resolved,4.6,6.4,AGT-01,5,Request for product docs
+TKT-1388,2026-03-10 16:55,General,Medium,Resolved,0.7,8.0,AGT-10,2,Feature request: dark mode
+TKT-1541,2026-03-11 07:00,General,Medium,Resolved,2.2,7.5,AGT-09,5,Update company address
+TKT-0979,2026-03-11 08:47,Technical,Low,Resolved,7.7,7.9,AGT-02,5,Export to CSV fails
+TKT-0134,2026-03-11 08:58,Technical,Low,Resolved,2.7,13.7,AGT-11,4,Export to CSV fails
+TKT-1105,2026-03-11 13:33,Technical,Medium,Resolved,1.0,8.2,AGT-02,4,Dashboard not loading
+TKT-0108,2026-03-12 08:06,Billing,Medium,Resolved,6.8,73.5,AGT-07,4,Card declined at renewal
+TKT-1060,2026-03-12 09:31,General,Medium,Resolved,3.7,14.9,AGT-01,3,Feature request: dark mode
+TKT-1640,2026-03-12 10:18,General,Medium,Resolved,1.0,20.0,AGT-08,3,Request for product docs
+TKT-0432,2026-03-12 11:32,Technical,Low,Resolved,1.6,21.8,AGT-07,1,Webhook events delayed
+TKT-0010,2026-03-12 11:56,Billing,Medium,Resolved,1.1,12.5,AGT-06,3,Incorrect charge on invoice
+TKT-1341,2026-03-12 12:03,Technical,Low,Resolved,2.8,6.9,AGT-06,4,API timeout in production
+TKT-0731,2026-03-12 12:25,General,Low,Resolved,9.0,23.4,AGT-08,2,Update company address
+TKT-1914,2026-03-12 12:40,Technical,Medium,Resolved,2.6,4.0,AGT-09,5,Two-factor code not arriving
+TKT-0306,2026-03-12 13:12,Technical,Critical,Resolved,0.5,2.6,AGT-05,4,Export to CSV fails
+TKT-0089,2026-03-12 14:35,Billing,Low,Resolved,3.7,5.0,AGT-06,4,Coupon code not applied
+TKT-0284,2026-03-12 15:47,Billing,Low,Resolved,3.9,9.7,AGT-07,5,Incorrect charge on invoice
+TKT-1234,2026-03-12 17:31,Technical,Medium,Resolved,0.8,18.7,AGT-06,4,API timeout in production
+TKT-0738,2026-03-13 10:57,General,High,Resolved,1.0,11.3,AGT-11,4,Request for product docs
+TKT-1473,2026-03-13 11:35,Technical,Medium,Resolved,2.3,4.5,AGT-11,4,Two-factor code not arriving
+TKT-0631,2026-03-13 11:39,Billing,Medium,Resolved,4.7,26.7,AGT-06,3,Invoice missing GST details
+TKT-1198,2026-03-13 14:41,General,Critical,Resolved,0.4,5.5,AGT-05,4,Need onboarding session
+TKT-1973,2026-03-13 15:38,General,Critical,Resolved,0.6,2.8,AGT-09,5,Need onboarding session
+TKT-1816,2026-03-13 16:51,Technical,Medium,Resolved,1.2,7.2,AGT-05,4,Two-factor code not arriving
+TKT-1601,2026-03-13 17:48,Technical,Medium,Resolved,2.9,5.7,AGT-01,3,Login failure after update
+TKT-0968,2026-03-14 10:22,Billing,Low,Resolved,2.9,10.9,AGT-05,4,Coupon code not applied
+TKT-0855,2026-03-14 14:27,Technical,High,Resolved,0.7,4.6,AGT-01,5,Dashboard not loading
+TKT-1553,2026-03-14 14:53,General,Low,Resolved,1.7,6.9,AGT-08,2,Update company address
+TKT-1299,2026-03-14 19:36,General,High,Resolved,1.2,6.1,AGT-03,4,Question about data retention
+TKT-0959,2026-03-15 08:55,Billing,High,Resolved,1.4,22.7,AGT-09,3,Refund not processed
+TKT-0307,2026-03-15 13:52,Technical,Critical,Resolved,1.5,2.2,AGT-11,5,API timeout in production
+TKT-0205,2026-03-15 15:12,Technical,High,Resolved,2.2,96.3,AGT-01,4,Login failure after update
+TKT-0005,2026-03-15 15:34,General,Low,Resolved,5.2,9.5,AGT-04,4,Update company address
+TKT-0033,2026-03-15 18:02,Billing,Medium,Resolved,0.9,21.2,AGT-02,3,Double payment on subscription
+TKT-0271,2026-03-16 07:32,Technical,Medium,Resolved,0.8,2.5,AGT-03,5,Webhook events delayed
+TKT-0765,2026-03-16 08:24,Billing,High,Resolved,1.0,6.0,AGT-07,5,Double payment on subscription
+TKT-0783,2026-03-16 10:16,Technical,Medium,Resolved,3.4,29.4,AGT-05,4,Webhook events delayed
+TKT-0893,2026-03-16 11:02,Billing,Medium,Resolved,2.5,2.7,AGT-09,4,Coupon code not applied
+TKT-0281,2026-03-16 11:18,Billing,Medium,Resolved,2.9,9.4,AGT-07,4,Coupon code not applied
+TKT-0515,2026-03-17 09:14,Billing,Low,Resolved,1.6,8.6,AGT-01,4,Double payment on subscription
+TKT-0265,2026-03-17 11:08,Technical,High,Resolved,1.5,6.1,AGT-11,5,Login failure after update
+TKT-1356,2026-03-17 11:16,Technical,Low,Resolved,3.2,12.3,AGT-02,4,Dashboard not loading
+TKT-0853,2026-03-17 13:12,General,Low,Resolved,4.7,6.4,AGT-06,5,Request for product docs
+TKT-1824,2026-03-17 16:03,Technical,Medium,Resolved,1.0,4.3,AGT-02,4,Export to CSV fails
+TKT-0903,2026-03-17 17:58,General,Medium,Resolved,4.1,14.6,AGT-01,4,Request for product docs
+TKT-1235,2026-03-17 19:13,Billing,Low,Resolved,1.2,7.1,AGT-10,5,Invoice missing GST details
+TKT-1116,2026-03-18 13:19,Technical,Critical,Resolved,0.8,2.7,AGT-10,4,Dashboard not loading
+TKT-1898,2026-03-19 08:22,Technical,High,Resolved,1.7,6.5,AGT-06,5,Two-factor code not arriving
+TKT-1612,2026-03-19 10:05,Technical,Medium,Resolved,1.7,2.7,AGT-04,4,Webhook events delayed
+TKT-0582,2026-03-19 11:37,Billing,Medium,Resolved,2.9,3.6,AGT-11,4,Double payment on subscription
+TKT-0537,2026-03-19 13:44,General,Critical,Resolved,0.4,3.4,AGT-01,4,Request for product docs
+TKT-0624,2026-03-19 17:25,Billing,Medium,Resolved,1.0,5.5,AGT-06,5,Incorrect charge on invoice
+TKT-1877,2026-03-19 18:30,Technical,Low,Resolved,4.5,12.3,AGT-08,2,Export to CSV fails
+TKT-0327,2026-03-20 04:19,Technical,High,Resolved,0.3,3.2,AGT-12,4,Login failure after update
+TKT-1311,2026-03-20 07:28,Technical,Medium,Resolved,2.6,5.7,AGT-01,4,Export to CSV fails
+TKT-0723,2026-03-20 11:16,General,High,Resolved,1.1,7.9,AGT-10,4,Feature request: dark mode
+TKT-1934,2026-03-20 12:59,Technical,Low,Resolved,5.2,12.0,AGT-03,4,Two-factor code not arriving
+TKT-1645,2026-03-20 13:44,General,High,Resolved,0.4,3.4,AGT-12,4,Update company address
+TKT-0632,2026-03-20 14:00,Technical,High,Resolved,0.9,5.0,AGT-03,5,Two-factor code not arriving
+TKT-1529,2026-03-20 14:15,Billing,High,Resolved,1.5,11.1,AGT-08,3,Double payment on subscription
+TKT-1701,2026-03-20 14:35,Billing,High,Resolved,1.3,1.8,AGT-11,5,Coupon code not applied
+TKT-1317,2026-03-20 16:14,Billing,Medium,Resolved,2.6,7.6,AGT-08,2,Incorrect charge on invoice
+TKT-1275,2026-03-21 04:39,Billing,Low,Resolved,5.3,5.5,AGT-09,4,Incorrect charge on invoice
+TKT-1123,2026-03-21 06:59,Technical,Medium,Resolved,2.5,8.3,AGT-06,4,Webhook events delayed
+TKT-0483,2026-03-21 10:27,Billing,High,Resolved,0.9,6.2,AGT-03,4,Coupon code not applied
+TKT-1368,2026-03-21 12:22,Technical,Medium,Resolved,2.6,3.5,AGT-05,3,API timeout in production
+TKT-1878,2026-03-21 12:47,Billing,Low,Resolved,1.1,4.1,AGT-12,5,Coupon code not applied
+TKT-1477,2026-03-21 13:18,Technical,Critical,Resolved,0.3,0.9,AGT-12,5,Login failure after update
+TKT-1896,2026-03-21 13:24,Technical,Medium,Resolved,1.8,7.7,AGT-02,3,Dashboard not loading
+TKT-1140,2026-03-21 13:45,Billing,High,Resolved,1.0,7.3,AGT-09,4,Incorrect charge on invoice
+TKT-1967,2026-03-21 13:47,Billing,Critical,Resolved,0.3,3.9,AGT-02,4,Incorrect charge on invoice
+TKT-0971,2026-03-21 20:00,Technical,Critical,Resolved,0.3,2.4,AGT-04,5,Dashboard not loading
+TKT-0973,2026-03-22 13:51,Billing,Critical,Resolved,0.9,2.2,AGT-09,5,Double payment on subscription
+TKT-1933,2026-03-22 19:36,Billing,Critical,Resolved,1.0,18.0,AGT-08,4,Double payment on subscription
+TKT-1835,2026-03-23 11:07,Technical,High,Resolved,2.0,7.5,AGT-09,5,Export to CSV fails
+TKT-1171,2026-03-23 13:26,Technical,Medium,Resolved,1.2,6.2,AGT-05,5,Two-factor code not arriving
+TKT-1050,2026-03-23 13:43,Technical,High,Resolved,3.1,10.0,AGT-05,4,Dashboard not loading
+TKT-1287,2026-03-23 15:45,Billing,Medium,Resolved,3.5,6.2,AGT-07,1,Refund not processed
+TKT-0554,2026-03-23 16:26,Technical,Critical,Resolved,1.3,10.0,AGT-05,4,API timeout in production
+TKT-1641,2026-03-23 18:48,Technical,Medium,Resolved,3.0,14.4,AGT-09,3,Dashboard not loading
+TKT-0869,2026-03-24 09:05,Technical,High,Resolved,0.8,2.4,AGT-03,4,API timeout in production
+TKT-1825,2026-03-24 09:33,Technical,Medium,Resolved,4.2,12.3,AGT-04,3,Export to CSV fails
+TKT-0425,2026-03-24 11:16,Technical,Low,Resolved,4.2,21.3,AGT-06,3,Two-factor code not arriving
+TKT-0655,2026-03-24 12:56,Technical,High,Resolved,0.8,8.6,AGT-01,5,Login failure after update
+TKT-0688,2026-03-24 13:47,Billing,Medium,Resolved,1.6,6.0,AGT-03,4,Coupon code not applied
+TKT-0272,2026-03-24 16:23,Billing,Low,Resolved,6.2,6.4,AGT-01,3,Double payment on subscription
+TKT-1776,2026-03-24 16:46,Technical,Medium,Resolved,2.9,4.1,AGT-03,5,Login failure after update
+TKT-0677,2026-03-25 07:30,General,Critical,Resolved,1.0,3.3,AGT-10,4,Question about data retention
+TKT-0342,2026-03-25 10:20,Billing,Medium,Resolved,2.1,11.9,AGT-03,5,Coupon code not applied
+TKT-0986,2026-03-25 10:25,Billing,Critical,Resolved,0.2,3.5,AGT-05,5,Double payment on subscription
+TKT-1662,2026-03-25 15:03,General,Low,Resolved,3.4,3.6,AGT-12,5,How to change account owner
+TKT-0991,2026-03-25 15:47,General,Medium,Resolved,4.3,4.5,AGT-06,5,Need onboarding session
+TKT-1892,2026-03-26 06:32,General,High,Resolved,0.4,1.6,AGT-01,5,Request for product docs
+TKT-1559,2026-03-26 07:19,Billing,Low,Resolved,1.4,5.9,AGT-05,4,Coupon code not applied
+TKT-0693,2026-03-26 07:24,Billing,High,Resolved,2.8,5.8,AGT-12,4,Incorrect charge on invoice
+TKT-1183,2026-03-26 09:41,Billing,Medium,Resolved,4.9,5.1,AGT-02,5,Card declined at renewal
+TKT-1696,2026-03-26 12:09,Billing,Low,Resolved,6.2,40.4,AGT-08,3,Coupon code not applied
+TKT-0525,2026-03-26 14:09,Technical,High,Resolved,3.1,3.3,AGT-07,4,Webhook events delayed
+TKT-1141,2026-03-26 15:42,Technical,Medium,Resolved,2.6,7.1,AGT-12,5,Login failure after update
+TKT-1436,2026-03-26 16:53,General,Critical,Resolved,0.4,15.2,AGT-09,4,Need onboarding session
+TKT-0779,2026-03-26 20:56,Technical,Low,Resolved,6.1,89.1,AGT-02,3,Webhook events delayed
+TKT-0320,2026-03-27 08:56,Billing,High,Resolved,1.3,9.9,AGT-03,5,Double payment on subscription
+TKT-1272,2026-03-27 09:22,General,Low,Resolved,2.1,57.1,AGT-01,5,Need onboarding session
+TKT-0584,2026-03-27 10:08,Technical,Medium,Resolved,3.6,3.8,AGT-07,5,Two-factor code not arriving
+TKT-1418,2026-03-27 11:27,Billing,Low,Resolved,1.8,5.4,AGT-01,4,Card declined at renewal
+TKT-0976,2026-03-27 13:45,General,High,Resolved,0.4,3.5,AGT-07,4,Feature request: dark mode
+TKT-1656,2026-03-27 16:59,Billing,Medium,Resolved,3.5,14.0,AGT-08,4,Card declined at renewal
+TKT-1217,2026-03-29 06:30,Technical,High,Resolved,0.2,2.7,AGT-12,5,Export to CSV fails
+TKT-0421,2026-03-29 08:03,General,Low,Resolved,2.9,28.6,AGT-05,5,Feature request: dark mode
+TKT-1193,2026-03-29 09:13,General,Low,Resolved,25.5,25.7,AGT-02,4,Question about data retention
+TKT-0916,2026-03-29 12:04,Technical,High,Resolved,0.6,5.5,AGT-12,5,Login failure after update
+TKT-0873,2026-03-29 13:48,General,Low,Resolved,2.0,8.0,AGT-01,4,Update company address
+TKT-1466,2026-03-29 15:52,Billing,Low,Resolved,4.5,4.7,AGT-04,5,Card declined at renewal
+TKT-1027,2026-03-29 16:55,Technical,Medium,Resolved,2.1,23.1,AGT-02,4,Login failure after update
+TKT-1594,2026-03-29 18:09,Technical,Low,Resolved,1.7,2.0,AGT-04,5,API timeout in production
+TKT-0605,2026-03-30 10:32,Billing,Medium,Resolved,3.6,28.8,AGT-08,4,Coupon code not applied
+TKT-0135,2026-03-30 12:09,Billing,High,Resolved,1.1,21.1,AGT-08,3,Incorrect charge on invoice
+TKT-0091,2026-03-30 12:43,Technical,High,Resolved,0.4,4.3,AGT-11,5,Dashboard not loading
+TKT-0396,2026-03-30 12:54,General,Critical,Resolved,0.4,2.2,AGT-11,5,Question about data retention
+TKT-0532,2026-03-30 13:14,General,High,Resolved,1.0,1.4,AGT-04,5,Need onboarding session
+TKT-0852,2026-03-30 15:36,Billing,High,Resolved,1.0,1.4,AGT-05,4,Refund not processed
+TKT-1743,2026-03-30 17:30,Billing,Medium,Resolved,1.5,2.8,AGT-07,5,Card declined at renewal
+TKT-1128,2026-03-30 17:54,Technical,High,Resolved,0.3,4.4,AGT-09,5,Two-factor code not arriving
+TKT-1029,2026-03-31 09:06,Technical,Medium,Resolved,5.0,5.2,AGT-01,5,API timeout in production
+TKT-1713,2026-03-31 09:23,Technical,Medium,Resolved,1.1,9.2,AGT-05,3,Export to CSV fails
+TKT-1067,2026-03-31 09:31,Billing,High,Resolved,1.4,6.0,AGT-07,5,Incorrect charge on invoice
+TKT-0984,2026-03-31 12:03,Technical,Low,Resolved,0.9,8.4,AGT-12,5,Export to CSV fails
+TKT-1355,2026-03-31 12:52,Billing,Medium,Resolved,1.4,12.7,AGT-11,4,Double payment on subscription
+TKT-0643,2026-03-31 13:09,Technical,Low,Resolved,11.0,114.9,AGT-06,4,Login failure after update
+TKT-0382,2026-04-01 11:40,Technical,Medium,Resolved,1.4,7.3,AGT-11,4,Login failure after update
+TKT-0381,2026-04-01 12:06,General,Medium,Resolved,1.9,4.8,AGT-05,3,Update company address
+TKT-0156,2026-04-01 12:25,General,Low,Resolved,3.6,15.0,AGT-04,4,Update company address
+TKT-1138,2026-04-01 13:13,Billing,High,Resolved,0.8,1.7,AGT-09,3,Coupon code not applied
+TKT-0429,2026-04-01 15:16,General,Medium,Resolved,1.7,4.9,AGT-03,3,Feature request: dark mode
+TKT-1987,2026-04-02 07:24,Billing,High,Resolved,1.2,17.1,AGT-08,3,Incorrect charge on invoice
+TKT-0159,2026-04-02 13:07,Billing,Critical,Resolved,0.3,6.2,AGT-11,5,Invoice missing GST details
+TKT-0031,2026-04-02 14:19,Billing,High,Resolved,0.5,2.0,AGT-05,3,Coupon code not applied
+TKT-1332,2026-04-02 15:53,Technical,High,Resolved,1.3,6.7,AGT-04,5,Webhook events delayed
+TKT-0228,2026-04-03 10:30,Technical,Medium,Resolved,4.1,24.2,AGT-07,5,Export to CSV fails
+TKT-0161,2026-04-03 13:00,Billing,Low,Resolved,6.6,6.8,AGT-06,3,Incorrect charge on invoice
+TKT-1329,2026-04-03 13:02,Billing,High,Resolved,2.4,3.7,AGT-04,5,Refund not processed
+TKT-1096,2026-04-03 13:11,Technical,Medium,Resolved,4.1,11.5,AGT-04,5,Webhook events delayed
+TKT-0994,2026-04-03 13:21,Billing,High,Resolved,1.2,5.2,AGT-04,5,Invoice missing GST details
+TKT-1525,2026-04-03 14:41,Technical,Medium,Resolved,2.2,18.3,AGT-11,5,Dashboard not loading
+TKT-1495,2026-04-03 15:02,Technical,Medium,Resolved,1.4,5.9,AGT-01,4,Login failure after update
+TKT-1790,2026-04-03 15:53,Billing,Critical,Resolved,0.9,1.9,AGT-07,5,Invoice missing GST details
+TKT-0179,2026-04-03 18:09,Billing,Low,Resolved,3.2,35.3,AGT-04,4,Refund not processed
+TKT-1894,2026-04-04 09:14,Technical,Medium,Resolved,2.3,55.4,AGT-05,5,Export to CSV fails
+TKT-0211,2026-04-04 12:30,Billing,Low,Resolved,1.9,13.4,AGT-11,4,Invoice missing GST details
+TKT-0694,2026-04-04 13:28,General,High,Resolved,1.0,2.2,AGT-11,5,Question about data retention
+TKT-0260,2026-04-04 15:09,Technical,Low,Resolved,3.5,3.7,AGT-12,5,Export to CSV fails
+TKT-1453,2026-04-04 16:35,Technical,Medium,Resolved,1.7,4.3,AGT-11,5,API timeout in production
+TKT-0539,2026-04-04 17:35,Technical,Medium,Resolved,1.0,4.2,AGT-01,5,Webhook events delayed
+TKT-1468,2026-04-05 11:41,Technical,High,Resolved,0.4,5.7,AGT-07,4,Dashboard not loading
+TKT-1092,2026-04-05 11:48,Technical,Low,Resolved,1.1,15.0,AGT-08,3,API timeout in production
+TKT-1220,2026-04-05 12:14,General,Low,Resolved,2.3,12.4,AGT-02,3,Feature request: dark mode
+TKT-0420,2026-04-05 15:00,Technical,Medium,Resolved,3.9,5.8,AGT-09,4,Two-factor code not arriving
+TKT-0705,2026-04-05 17:17,General,High,Resolved,0.9,2.1,AGT-05,4,Update company address
+TKT-0627,2026-04-05 17:45,General,Critical,Resolved,0.6,5.0,AGT-09,3,Request for product docs
+TKT-1007,2026-04-06 11:59,General,Low,Resolved,4.0,9.9,AGT-09,5,Feature request: dark mode
+TKT-0258,2026-04-06 13:05,Billing,Critical,Resolved,0.3,2.5,AGT-12,5,Invoice missing GST details
+TKT-0252,2026-04-07 11:04,General,Medium,Resolved,3.5,9.5,AGT-05,4,Question about data retention
+TKT-1493,2026-04-07 11:29,Billing,Low,Resolved,3.3,7.9,AGT-02,4,Invoice missing GST details
+TKT-1122,2026-04-07 13:53,General,Critical,Resolved,0.6,8.5,AGT-11,5,Request for product docs
+TKT-1784,2026-04-08 11:07,Technical,Low,Resolved,1.5,13.8,AGT-03,5,API timeout in production
+TKT-1484,2026-04-08 12:27,Technical,High,Resolved,0.8,4.3,AGT-09,4,Dashboard not loading
+TKT-1908,2026-04-08 14:47,General,Medium,Resolved,1.7,4.3,AGT-04,5,Need onboarding session
+TKT-1077,2026-04-08 15:02,Billing,Medium,Resolved,1.2,18.9,AGT-08,4,Refund not processed
+TKT-0620,2026-04-08 18:31,Technical,High,Resolved,1.1,3.3,AGT-04,3,API timeout in production
+TKT-0949,2026-04-09 09:26,Technical,High,Resolved,0.6,2.4,AGT-12,5,API timeout in production
+TKT-0744,2026-04-09 10:40,Billing,Low,Resolved,3.5,13.6,AGT-02,4,Incorrect charge on invoice
+TKT-0598,2026-04-09 13:06,Technical,Medium,Resolved,1.2,9.6,AGT-06,4,Export to CSV fails
+TKT-1775,2026-04-09 13:23,Technical,Low,Resolved,10.0,10.2,AGT-02,3,Export to CSV fails
+TKT-0761,2026-04-09 13:23,General,High,Resolved,0.6,5.6,AGT-12,5,Need onboarding session
+TKT-1178,2026-04-09 14:09,Technical,Medium,Resolved,3.6,8.4,AGT-12,5,Export to CSV fails
+TKT-1771,2026-04-09 15:37,Technical,Critical,Resolved,1.0,1.8,AGT-04,5,Login failure after update
+TKT-0495,2026-04-10 05:05,Billing,Medium,Resolved,1.2,12.5,AGT-08,4,Incorrect charge on invoice
+TKT-0920,2026-04-10 11:25,Technical,High,Resolved,0.5,9.1,AGT-08,4,Login failure after update
+TKT-1396,2026-04-10 11:45,Billing,Low,Resolved,6.2,6.8,AGT-07,5,Incorrect charge on invoice
+TKT-0950,2026-04-10 16:01,Technical,High,Resolved,1.9,3.3,AGT-03,5,Export to CSV fails
+TKT-0052,2026-04-10 17:09,General,Medium,Resolved,3.0,7.3,AGT-10,4,Feature request: dark mode
+TKT-0685,2026-04-10 19:17,Technical,Critical,Resolved,0.7,2.3,AGT-03,4,Webhook events delayed
+TKT-1517,2026-04-10 20:44,Technical,High,Resolved,0.9,2.6,AGT-09,4,Export to CSV fails
+TKT-1765,2026-04-11 06:46,General,Low,Resolved,3.5,9.1,AGT-01,5,Request for product docs
+TKT-0266,2026-04-11 16:39,Billing,Medium,Resolved,2.6,3.9,AGT-06,4,Double payment on subscription
+TKT-0085,2026-04-11 16:57,Billing,Medium,Resolved,3.2,3.4,AGT-09,5,Invoice missing GST details
+TKT-1673,2026-04-12 06:21,Technical,Medium,Resolved,2.1,14.7,AGT-08,3,Dashboard not loading
+TKT-1944,2026-04-12 08:32,Technical,Critical,Resolved,0.8,3.0,AGT-03,5,Webhook events delayed
+TKT-1407,2026-04-12 10:51,Technical,High,Resolved,1.0,5.6,AGT-03,3,Export to CSV fails
+TKT-0100,2026-04-12 10:56,General,Critical,Resolved,0.4,0.6,AGT-03,4,Feature request: dark mode
+TKT-0343,2026-04-12 11:02,Technical,Medium,Resolved,0.9,4.2,AGT-04,5,Webhook events delayed
+TKT-1688,2026-04-12 11:36,Technical,Low,Resolved,3.2,25.1,AGT-02,4,Export to CSV fails
+TKT-1744,2026-04-13 06:55,Billing,High,Resolved,1.1,92.5,AGT-08,3,Double payment on subscription
+TKT-0253,2026-04-13 09:04,Technical,Medium,Resolved,4.0,4.2,AGT-02,4,Dashboard not loading
+TKT-1051,2026-04-13 11:19,General,Low,Resolved,3.3,4.9,AGT-01,3,How to change account owner
+TKT-1778,2026-04-13 15:14,Billing,Low,Resolved,3.1,3.3,AGT-03,5,Invoice missing GST details
+TKT-0450,2026-04-13 15:17,Technical,Low,Resolved,1.2,6.5,AGT-03,4,Login failure after update
+TKT-0030,2026-04-13 15:38,Technical,Medium,Resolved,1.0,9.5,AGT-01,5,Export to CSV fails
+TKT-0686,2026-04-13 17:10,Billing,Low,Resolved,4.9,10.4,AGT-01,4,Double payment on subscription
+TKT-0207,2026-04-14 08:10,General,High,Resolved,0.6,2.8,AGT-01,5,Need onboarding session
+TKT-1930,2026-04-14 08:48,General,High,Resolved,3.6,4.4,AGT-05,4,How to change account owner
+TKT-1224,2026-04-14 13:19,General,Medium,Resolved,1.6,10.1,AGT-06,5,Feature request: dark mode
+TKT-0915,2026-04-15 05:27,Billing,Medium,Resolved,2.3,10.9,AGT-05,4,Coupon code not applied
+TKT-1189,2026-04-15 07:01,General,High,Resolved,1.1,9.5,AGT-08,4,How to change account owner
+TKT-0588,2026-04-15 08:55,General,Low,Resolved,6.8,7.0,AGT-11,4,Question about data retention
+TKT-1496,2026-04-15 09:49,Technical,Low,Resolved,7.4,7.6,AGT-03,4,Two-factor code not arriving
+TKT-0152,2026-04-15 09:52,General,Low,Resolved,3.0,22.9,AGT-04,5,Feature request: dark mode
+TKT-0049,2026-04-15 13:07,Technical,High,Resolved,0.8,7.8,AGT-05,4,API timeout in production
+TKT-1996,2026-04-15 13:25,Billing,Critical,Resolved,0.7,9.3,AGT-09,4,Card declined at renewal
+TKT-0461,2026-04-15 16:55,Billing,Medium,Resolved,2.9,4.4,AGT-06,4,Double payment on subscription
+TKT-0623,2026-04-15 16:57,Technical,High,Resolved,3.4,15.8,AGT-07,5,API timeout in production
+TKT-0881,2026-04-16 08:06,General,Low,Resolved,1.9,5.0,AGT-02,3,How to change account owner
+TKT-0774,2026-04-16 10:42,Technical,High,Resolved,1.0,2.5,AGT-06,4,Dashboard not loading
+TKT-1531,2026-04-16 11:55,Billing,Critical,Resolved,1.0,2.3,AGT-10,3,Incorrect charge on invoice
+TKT-1980,2026-04-16 13:38,Technical,Medium,Resolved,1.7,6.2,AGT-02,4,Export to CSV fails
+TKT-0311,2026-04-16 15:53,Technical,High,Resolved,1.8,2.3,AGT-11,5,Webhook events delayed
+TKT-0892,2026-04-16 16:03,Billing,High,Resolved,2.2,2.4,AGT-11,5,Invoice missing GST details
+TKT-0090,2026-04-16 18:03,General,Low,Resolved,2.9,12.0,AGT-10,5,Question about data retention
+TKT-1434,2026-04-17 07:02,General,High,Resolved,1.5,13.2,AGT-01,4,Need onboarding session
+TKT-0181,2026-04-17 08:02,Technical,Low,Resolved,1.2,3.2,AGT-10,5,Two-factor code not arriving
+TKT-0198,2026-04-17 10:19,Technical,Medium,Resolved,2.4,3.3,AGT-10,4,Login failure after update
+TKT-0513,2026-04-17 12:55,Technical,Medium,Resolved,1.6,7.0,AGT-10,4,API timeout in production
+TKT-1719,2026-04-17 13:30,Technical,Medium,Resolved,1.5,40.6,AGT-01,4,Dashboard not loading
+TKT-0847,2026-04-17 15:21,Technical,High,Resolved,0.6,3.1,AGT-05,4,Export to CSV fails
+TKT-1829,2026-04-18 06:17,Technical,Medium,Resolved,3.7,6.7,AGT-11,5,Two-factor code not arriving
+TKT-0809,2026-04-18 07:25,Technical,Medium,Resolved,3.1,3.3,AGT-02,3,API timeout in production
+TKT-0768,2026-04-18 10:58,Technical,Medium,Resolved,1.8,15.0,AGT-09,3,API timeout in production
+TKT-1542,2026-04-18 12:14,Billing,Low,Resolved,15.4,15.6,AGT-06,4,Invoice missing GST details
+TKT-1779,2026-04-18 14:09,Technical,High,Resolved,1.0,5.5,AGT-01,4,Two-factor code not arriving
+TKT-0482,2026-04-18 16:22,Billing,Medium,Resolved,3.8,4.0,AGT-03,5,Coupon code not applied
+TKT-1344,2026-04-18 16:59,Technical,Medium,Resolved,6.9,7.1,AGT-03,4,Export to CSV fails
+TKT-1895,2026-04-19 06:22,General,Medium,Resolved,3.0,3.9,AGT-05,5,Need onboarding session
+TKT-1866,2026-04-19 10:40,Technical,High,Resolved,2.1,2.3,AGT-11,5,Dashboard not loading
+TKT-0190,2026-04-19 11:33,Technical,Medium,Resolved,1.6,6.1,AGT-02,5,Webhook events delayed
+TKT-1307,2026-04-19 14:16,Technical,Medium,Resolved,3.0,45.8,AGT-12,4,Dashboard not loading
+TKT-0007,2026-04-19 15:12,Technical,Low,Resolved,1.6,2.4,AGT-07,2,Two-factor code not arriving
+TKT-1349,2026-04-19 18:08,General,Low,Resolved,8.8,9.0,AGT-07,4,Feature request: dark mode
+TKT-1033,2026-04-19 19:13,Billing,Low,Resolved,1.6,1.9,AGT-12,4,Coupon code not applied
+TKT-0195,2026-04-20 09:30,Billing,Low,Resolved,5.9,14.4,AGT-02,4,Double payment on subscription
+TKT-1449,2026-04-20 10:58,Technical,Medium,Resolved,1.9,2.1,AGT-09,1,API timeout in production
+TKT-0859,2026-04-20 12:05,General,High,Resolved,1.2,7.7,AGT-05,1,Need onboarding session
+TKT-1619,2026-04-20 14:00,Technical,Medium,Resolved,4.0,6.2,AGT-09,3,Two-factor code not arriving
+TKT-1160,2026-04-20 14:07,Technical,Low,Resolved,7.1,25.9,AGT-01,4,Dashboard not loading
+TKT-1068,2026-04-20 15:18,Technical,Medium,Resolved,3.7,6.2,AGT-02,5,Two-factor code not arriving
+TKT-1295,2026-04-20 16:10,Billing,Medium,Resolved,2.2,4.6,AGT-04,3,Refund not processed
+TKT-0243,2026-04-20 17:31,Technical,Medium,Resolved,1.4,5.1,AGT-03,4,Dashboard not loading
+TKT-0023,2026-04-21 10:26,General,Medium,Resolved,3.0,3.2,AGT-06,3,How to change account owner
+TKT-1239,2026-04-21 12:39,Billing,Critical,Resolved,0.2,1.5,AGT-06,4,Incorrect charge on invoice
+TKT-0845,2026-04-21 15:15,Technical,High,Resolved,0.3,12.6,AGT-12,3,Dashboard not loading
+TKT-0665,2026-04-21 15:16,General,High,Resolved,1.8,16.8,AGT-08,3,Request for product docs
+TKT-0162,2026-04-21 19:00,Technical,Medium,Resolved,2.7,7.3,AGT-04,5,Export to CSV fails
+TKT-0899,2026-04-21 19:19,Billing,High,Resolved,0.7,2.1,AGT-07,5,Card declined at renewal
+TKT-1269,2026-04-22 10:23,General,High,Resolved,1.3,3.0,AGT-07,4,Request for product docs
+TKT-0006,2026-04-22 14:18,Technical,High,Resolved,0.5,5.2,AGT-03,4,Export to CSV fails
+TKT-0911,2026-04-22 14:54,Technical,Medium,Resolved,1.8,3.5,AGT-12,5,Two-factor code not arriving
+TKT-0776,2026-04-22 16:50,Technical,Medium,Resolved,2.4,10.8,AGT-02,3,Login failure after update
+TKT-0261,2026-04-22 18:25,Billing,Medium,Resolved,2.2,6.9,AGT-08,3,Invoice missing GST details
+TKT-0274,2026-04-23 10:12,Technical,High,Resolved,1.9,14.4,AGT-05,3,API timeout in production
+TKT-1394,2026-04-23 12:35,General,High,Resolved,2.2,5.2,AGT-07,5,Need onboarding session
+TKT-0097,2026-04-23 13:47,Technical,High,Resolved,2.5,9.4,AGT-04,5,Export to CSV fails
+TKT-1196,2026-04-23 14:10,Technical,Low,Resolved,1.3,3.3,AGT-01,4,Two-factor code not arriving
+TKT-0116,2026-04-24 10:42,Technical,High,Resolved,1.5,19.5,AGT-08,3,API timeout in production
+TKT-0732,2026-04-24 10:57,Billing,Critical,Resolved,1.2,3.6,AGT-08,3,Card declined at renewal
+TKT-1015,2026-04-24 16:22,Technical,Medium,Resolved,1.4,1.8,AGT-01,4,API timeout in production
+TKT-0058,2026-04-24 16:27,Technical,Low,Resolved,2.1,7.5,AGT-12,5,Export to CSV fails
+TKT-1968,2026-04-24 18:36,Technical,Medium,Resolved,1.2,69.6,AGT-07,5,Webhook events delayed
+TKT-0330,2026-04-25 03:16,Technical,Low,Resolved,4.0,6.4,AGT-08,3,API timeout in production
+TKT-0597,2026-04-25 08:34,General,Low,Resolved,2.2,5.1,AGT-09,4,Feature request: dark mode
+TKT-0411,2026-04-25 09:47,General,Low,Resolved,3.5,7.5,AGT-09,5,Feature request: dark mode
+TKT-0067,2026-04-25 09:59,Technical,Critical,Resolved,1.4,19.6,AGT-05,4,Export to CSV fails
+TKT-1900,2026-04-25 10:05,Technical,High,Resolved,0.5,8.7,AGT-03,4,Dashboard not loading
+TKT-1420,2026-04-25 10:44,General,Critical,Resolved,0.6,4.5,AGT-05,5,Question about data retention
+TKT-1983,2026-04-25 12:54,General,Low,Resolved,2.4,10.2,AGT-07,5,Question about data retention
+TKT-1076,2026-04-25 14:16,General,Low,Resolved,5.5,13.2,AGT-02,5,Question about data retention
+TKT-0131,2026-04-25 15:56,Technical,Medium,Resolved,2.3,14.5,AGT-10,4,Webhook events delayed
+TKT-0383,2026-04-25 16:12,Technical,Medium,Resolved,1.8,11.4,AGT-12,4,API timeout in production
+TKT-0609,2026-04-25 16:17,Technical,High,Resolved,0.9,6.9,AGT-09,1,Login failure after update
+TKT-1129,2026-04-26 09:20,General,Medium,Resolved,2.6,67.3,AGT-05,4,Question about data retention
+TKT-0970,2026-04-26 09:57,Billing,High,Resolved,1.5,7.0,AGT-01,5,Card declined at renewal
+TKT-1472,2026-04-26 11:07,Billing,Critical,Resolved,1.1,3.8,AGT-05,4,Incorrect charge on invoice
+TKT-0214,2026-04-26 12:06,Billing,Low,Resolved,4.4,10.0,AGT-09,5,Double payment on subscription
+TKT-0771,2026-04-26 16:07,General,Medium,Resolved,3.0,20.1,AGT-11,3,Need onboarding session
+TKT-0449,2026-04-26 16:13,General,Medium,Resolved,2.3,4.2,AGT-11,5,Update company address
+TKT-1717,2026-04-26 16:20,Billing,High,Resolved,0.2,4.8,AGT-12,5,Invoice missing GST details
+TKT-0523,2026-04-27 10:48,Billing,Low,Resolved,2.1,4.2,AGT-03,5,Refund not processed
+TKT-0930,2026-04-27 11:21,Technical,Low,Resolved,2.5,18.4,AGT-09,3,Login failure after update
+TKT-1663,2026-04-27 12:41,Billing,High,Resolved,1.1,8.3,AGT-02,4,Card declined at renewal
+TKT-1817,2026-04-28 15:21,Billing,Medium,Resolved,0.8,14.1,AGT-06,4,Double payment on subscription
+TKT-1413,2026-04-28 15:28,Technical,High,Resolved,0.9,1.6,AGT-01,4,Export to CSV fails
+TKT-0476,2026-04-28 18:08,Technical,Medium,Resolved,1.0,13.6,AGT-10,5,Two-factor code not arriving
+TKT-1309,2026-04-28 20:58,Technical,Critical,Resolved,0.4,6.3,AGT-12,5,Export to CSV fails
+TKT-0753,2026-04-29 12:53,Billing,Medium,Resolved,1.0,21.2,AGT-06,5,Double payment on subscription
+TKT-1035,2026-04-29 12:57,Technical,Low,Resolved,1.6,16.6,AGT-12,5,Dashboard not loading
+TKT-1654,2026-04-30 12:48,Technical,Critical,Resolved,0.6,2.9,AGT-02,4,API timeout in production
+TKT-1350,2026-04-30 13:35,Billing,Medium,Resolved,1.7,8.9,AGT-05,3,Coupon code not applied
+TKT-1161,2026-04-30 17:24,Billing,High,Resolved,1.0,5.4,AGT-05,4,Refund not processed
+TKT-0600,2026-05-01 05:15,Billing,Medium,Resolved,1.6,110.1,AGT-04,5,Card declined at renewal
+TKT-0141,2026-05-01 09:32,Billing,Medium,Resolved,1.4,19.8,AGT-04,5,Card declined at renewal
+TKT-0948,2026-05-01 10:57,Billing,Medium,Resolved,2.0,5.5,AGT-06,4,Refund not processed
+TKT-0708,2026-05-01 11:06,Billing,Low,Resolved,2.1,5.0,AGT-04,5,Invoice missing GST details
+TKT-1055,2026-05-01 11:36,Technical,High,Resolved,0.3,1.2,AGT-07,4,Dashboard not loading
+TKT-1201,2026-05-01 11:41,General,Medium,Resolved,1.2,16.9,AGT-12,4,Request for product docs
+TKT-1456,2026-05-01 12:09,Billing,High,Resolved,1.0,6.4,AGT-03,5,Coupon code not applied
+TKT-0905,2026-05-01 13:21,Technical,Low,Resolved,2.0,9.4,AGT-07,2,Two-factor code not arriving
+TKT-0251,2026-05-01 14:58,Billing,Low,Resolved,1.0,2.2,AGT-11,5,Coupon code not applied
+TKT-0440,2026-05-01 16:23,Billing,Medium,Resolved,2.7,7.2,AGT-11,5,Card declined at renewal
+TKT-0401,2026-05-01 18:09,General,Medium,Resolved,1.7,6.4,AGT-12,5,Feature request: dark mode
+TKT-1167,2026-05-02 10:34,Billing,Low,Resolved,2.6,6.4,AGT-12,5,Invoice missing GST details
+TKT-1285,2026-05-02 12:19,Technical,Medium,Resolved,0.6,9.0,AGT-01,5,API timeout in production
+TKT-1461,2026-05-02 12:32,Technical,Medium,Resolved,2.2,6.3,AGT-07,5,Login failure after update
+TKT-1019,2026-05-02 12:40,Technical,Low,Resolved,6.0,26.2,AGT-08,3,Two-factor code not arriving
+TKT-1993,2026-05-02 12:48,Billing,Low,Resolved,2.9,3.6,AGT-10,5,Invoice missing GST details
+TKT-0224,2026-05-02 14:28,Technical,High,Resolved,2.1,10.6,AGT-08,3,API timeout in production
+TKT-1560,2026-05-02 15:09,Billing,Low,Resolved,10.9,11.1,AGT-10,3,Double payment on subscription
+TKT-1611,2026-05-02 15:11,Billing,Medium,Resolved,5.9,6.1,AGT-01,5,Invoice missing GST details
+TKT-0548,2026-05-02 17:11,General,Critical,Resolved,0.5,4.0,AGT-05,4,Update company address
+TKT-0883,2026-05-03 09:12,Technical,Low,Resolved,6.9,7.1,AGT-03,5,API timeout in production
+TKT-1228,2026-05-03 11:24,Technical,Low,Resolved,3.6,10.8,AGT-08,3,Export to CSV fails
+TKT-0472,2026-05-03 11:51,Technical,Medium,Resolved,1.3,12.2,AGT-12,5,Two-factor code not arriving
+TKT-1695,2026-05-03 14:41,Billing,Low,Resolved,2.5,17.1,AGT-06,4,Invoice missing GST details
+TKT-1864,2026-05-03 15:01,Technical,High,Resolved,1.5,1.7,AGT-05,4,Login failure after update
+TKT-0936,2026-05-03 17:09,Technical,High,Resolved,0.4,7.8,AGT-11,4,API timeout in production
+TKT-0349,2026-05-04 07:26,Billing,Medium,Resolved,1.3,1.5,AGT-10,4,Incorrect charge on invoice
+TKT-0938,2026-05-04 10:50,Billing,Low,Resolved,5.5,9.5,AGT-09,4,Incorrect charge on invoice
+TKT-1811,2026-05-04 11:25,Billing,Low,Resolved,5.1,10.8,AGT-08,5,Double payment on subscription
+TKT-0139,2026-05-04 11:44,General,Medium,Resolved,0.8,10.4,AGT-11,4,Feature request: dark mode
+TKT-1738,2026-05-04 13:24,Technical,Medium,Resolved,2.6,9.8,AGT-01,4,Webhook events delayed
+TKT-0041,2026-05-04 15:10,General,Medium,Resolved,1.3,26.8,AGT-01,3,Update company address
+TKT-1471,2026-05-04 15:52,Billing,Medium,Resolved,5.1,10.4,AGT-04,5,Coupon code not applied
+TKT-0120,2026-05-04 16:24,Billing,Low,Resolved,9.0,9.9,AGT-05,5,Coupon code not applied
+TKT-1851,2026-05-04 21:43,General,Critical,Resolved,0.7,1.2,AGT-03,5,Request for product docs
+TKT-1664,2026-05-05 09:36,Technical,Medium,Resolved,2.0,8.5,AGT-04,4,Webhook events delayed
+TKT-0140,2026-05-05 14:13,Billing,Critical,Resolved,0.4,2.4,AGT-03,5,Coupon code not applied
+TKT-0663,2026-05-05 14:45,General,Medium,Resolved,2.0,8.5,AGT-07,5,How to change account owner
+TKT-1107,2026-05-05 15:43,Billing,Low,Resolved,3.6,7.7,AGT-01,4,Card declined at renewal
+TKT-1316,2026-05-05 17:04,Technical,High,Resolved,0.5,10.0,AGT-03,4,Webhook events delayed
+TKT-0918,2026-05-06 07:34,Technical,High,Resolved,0.8,13.0,AGT-11,3,Webhook events delayed
+TKT-1842,2026-05-06 07:36,Billing,High,Resolved,0.8,7.7,AGT-01,5,Incorrect charge on invoice
+TKT-0561,2026-05-06 18:18,Billing,High,Resolved,1.2,2.6,AGT-08,4,Invoice missing GST details
+TKT-0003,2026-05-07 07:38,Billing,Medium,Resolved,1.5,6.7,AGT-12,3,Invoice missing GST details
+TKT-1932,2026-05-07 11:18,General,Critical,Resolved,0.7,1.2,AGT-01,4,Feature request: dark mode
+TKT-1278,2026-05-07 14:09,Billing,High,Resolved,0.8,3.7,AGT-09,4,Invoice missing GST details
+TKT-0933,2026-05-07 14:47,Technical,Medium,Resolved,5.9,27.6,AGT-10,5,Export to CSV fails
+TKT-1823,2026-05-07 16:23,Billing,Medium,Resolved,3.1,7.8,AGT-09,5,Invoice missing GST details
+TKT-0416,2026-05-08 06:27,General,Low,Resolved,4.4,7.2,AGT-06,4,Request for product docs
+TKT-1144,2026-05-08 10:10,Technical,Low,Resolved,6.6,7.0,AGT-04,5,Two-factor code not arriving
+TKT-1979,2026-05-08 13:23,Technical,Low,Resolved,2.0,5.9,AGT-12,5,API timeout in production
+TKT-1642,2026-05-09 10:36,Technical,Medium,Resolved,1.7,6.7,AGT-09,4,Webhook events delayed
+TKT-1296,2026-05-09 13:26,Technical,Medium,Resolved,2.0,3.4,AGT-04,4,Login failure after update
+TKT-1670,2026-05-09 14:01,Technical,High,Resolved,0.9,10.7,AGT-09,5,Webhook events delayed
+TKT-1730,2026-05-09 14:03,Billing,Medium,Resolved,2.6,11.2,AGT-11,4,Coupon code not applied
+TKT-1897,2026-05-10 05:09,General,High,Resolved,2.7,6.3,AGT-06,4,Request for product docs
+TKT-0528,2026-05-10 05:37,General,Critical,Resolved,1.7,19.1,AGT-05,3,Feature request: dark mode
+TKT-1454,2026-05-10 09:26,Technical,Medium,Resolved,1.7,3.7,AGT-06,5,Dashboard not loading
+TKT-1259,2026-05-10 12:41,Technical,High,Resolved,0.8,2.5,AGT-03,5,Login failure after update
+TKT-1070,2026-05-10 13:21,Technical,High,Resolved,0.5,18.9,AGT-10,5,Two-factor code not arriving
+TKT-1988,2026-05-10 17:56,General,Low,Resolved,1.0,4.6,AGT-11,5,How to change account owner
+TKT-1750,2026-05-10 19:26,General,Medium,Resolved,3.5,4.5,AGT-07,4,Request for product docs
+TKT-1328,2026-05-10 19:46,Technical,Medium,Resolved,4.1,10.0,AGT-06,4,Webhook events delayed
+TKT-0785,2026-05-11 09:17,Technical,High,Resolved,0.6,13.4,AGT-09,5,Two-factor code not arriving
+TKT-1149,2026-05-11 11:10,General,Low,Resolved,1.5,14.4,AGT-09,4,Need onboarding session
+TKT-0070,2026-05-12 09:39,Billing,Low,Resolved,2.3,15.4,AGT-03,5,Invoice missing GST details
+TKT-1042,2026-05-12 13:03,Billing,Low,Resolved,3.9,4.1,AGT-12,5,Refund not processed
+TKT-1605,2026-05-12 14:11,Billing,Medium,Resolved,5.3,5.5,AGT-09,5,Refund not processed
+TKT-1361,2026-05-12 15:57,Billing,Low,Resolved,12.2,12.4,AGT-05,4,Card declined at renewal
+TKT-0993,2026-05-13 11:55,General,Low,Resolved,0.7,10.2,AGT-11,4,Question about data retention
+TKT-1857,2026-05-13 12:37,Technical,High,Resolved,1.6,1.8,AGT-07,3,API timeout in production
+TKT-1737,2026-05-13 13:14,General,Medium,Resolved,1.3,14.3,AGT-07,4,Feature request: dark mode
+TKT-1135,2026-05-13 13:41,Technical,High,Resolved,0.6,3.1,AGT-05,4,Export to CSV fails
+TKT-0590,2026-05-13 15:33,General,Low,Resolved,4.5,5.0,AGT-01,5,Update company address
+TKT-1444,2026-05-13 18:25,General,High,Resolved,0.6,1.9,AGT-01,4,Update company address
+TKT-1261,2026-05-14 11:55,Technical,High,Resolved,0.6,5.9,AGT-07,5,API timeout in production
+TKT-0734,2026-05-14 15:14,General,Medium,Resolved,2.9,5.1,AGT-11,5,Feature request: dark mode
+TKT-1569,2026-05-14 20:04,Technical,High,Resolved,1.8,2.4,AGT-05,4,Webhook events delayed
+TKT-0610,2026-05-15 09:33,General,Low,Resolved,4.6,55.0,AGT-07,3,Update company address
+TKT-1694,2026-05-15 11:22,General,Low,Resolved,2.6,8.7,AGT-08,3,Feature request: dark mode
+TKT-0355,2026-05-15 13:56,General,Low,Resolved,6.4,8.0,AGT-09,3,Update company address
+TKT-1921,2026-05-15 15:49,Technical,Medium,Resolved,2.5,3.5,AGT-02,4,Export to CSV fails
+TKT-1748,2026-05-16 09:49,Billing,High,Resolved,1.8,2.5,AGT-10,4,Invoice missing GST details
+TKT-0889,2026-05-16 15:22,Technical,Medium,Resolved,1.0,12.4,AGT-02,4,API timeout in production
+TKT-1724,2026-05-16 15:55,Billing,Medium,Resolved,1.2,4.9,AGT-12,4,Double payment on subscription
+TKT-0746,2026-05-16 16:56,Technical,High,Resolved,1.2,10.0,AGT-03,4,API timeout in production
+TKT-1833,2026-05-17 11:43,Technical,High,Resolved,0.3,6.8,AGT-02,5,Two-factor code not arriving
+TKT-0350,2026-05-17 12:34,Technical,High,Resolved,2.3,19.1,AGT-02,4,API timeout in production
+TKT-0474,2026-05-17 12:37,Billing,Medium,Resolved,1.2,131.5,AGT-11,5,Card declined at renewal
+TKT-1244,2026-05-17 13:18,Billing,Critical,Resolved,0.4,10.1,AGT-12,5,Invoice missing GST details
+TKT-0552,2026-05-17 14:56,Billing,Medium,Resolved,2.1,17.5,AGT-09,5,Card declined at renewal
+TKT-0308,2026-05-18 08:21,Technical,Medium,Resolved,1.0,6.5,AGT-01,4,API timeout in production
+TKT-1020,2026-05-18 11:08,General,Medium,Resolved,1.7,1.9,AGT-11,5,How to change account owner
+TKT-1127,2026-05-18 11:12,Technical,Critical,Resolved,0.7,4.0,AGT-02,5,Webhook events delayed
+TKT-1943,2026-05-18 13:47,General,Low,Resolved,4.4,14.3,AGT-08,4,Question about data retention
+TKT-0044,2026-05-18 14:26,General,Medium,Resolved,2.5,33.0,AGT-08,4,Request for product docs
+TKT-1913,2026-05-18 14:28,Billing,Low,Resolved,0.6,13.6,AGT-01,4,Card declined at renewal
+TKT-1840,2026-05-18 15:38,Technical,Medium,Resolved,1.5,4.7,AGT-02,5,Two-factor code not arriving
+TKT-0885,2026-05-18 16:35,Billing,Low,Resolved,4.6,4.8,AGT-06,4,Incorrect charge on invoice
+TKT-0369,2026-05-19 10:26,General,Critical,Resolved,2.5,6.2,AGT-08,4,Request for product docs
+TKT-1247,2026-05-19 13:49,Technical,High,Resolved,1.4,4.9,AGT-10,3,Two-factor code not arriving
+TKT-0604,2026-05-19 14:55,Technical,Medium,Resolved,1.0,14.0,AGT-01,4,API timeout in production
+TKT-0039,2026-05-20 12:02,Technical,Medium,Resolved,1.6,9.0,AGT-05,3,Webhook events delayed
+TKT-0606,2026-05-20 12:34,Technical,Medium,Resolved,1.6,10.7,AGT-02,4,Dashboard not loading
+TKT-1028,2026-05-20 12:40,Technical,High,Resolved,0.6,9.1,AGT-02,4,Login failure after update
+TKT-0177,2026-05-20 13:23,General,Medium,Resolved,2.6,12.1,AGT-06,4,Request for product docs
+TKT-1114,2026-05-20 13:27,General,Medium,Resolved,1.9,3.1,AGT-12,5,Question about data retention
+TKT-1336,2026-05-20 14:44,General,Low,Resolved,2.1,2.3,AGT-07,5,Need onboarding session
+TKT-0722,2026-05-21 09:03,General,High,Resolved,0.3,11.3,AGT-03,5,Update company address
+TKT-0277,2026-05-21 10:48,General,Low,Resolved,3.8,13.7,AGT-08,3,Feature request: dark mode
+TKT-0029,2026-05-21 11:41,Technical,Low,Resolved,8.1,8.6,AGT-02,3,Login failure after update
+TKT-1749,2026-05-21 12:24,Technical,Low,Resolved,2.4,3.9,AGT-12,5,Two-factor code not arriving
+TKT-0170,2026-05-21 16:33,Billing,Medium,Resolved,1.3,19.1,AGT-06,5,Refund not processed
+TKT-0974,2026-05-22 06:46,Technical,Low,Resolved,0.8,16.0,AGT-12,5,Login failure after update
+TKT-0741,2026-05-22 08:18,Technical,Medium,Resolved,1.7,3.7,AGT-03,4,Webhook events delayed
+TKT-1675,2026-05-22 10:06,Technical,Low,Resolved,1.4,10.6,AGT-10,4,Two-factor code not arriving
+TKT-1548,2026-05-22 12:45,Technical,Low,Resolved,2.0,7.6,AGT-04,5,Webhook events delayed
+TKT-1901,2026-05-22 14:23,Technical,Critical,Resolved,2.4,6.1,AGT-08,4,API timeout in production
+TKT-1903,2026-05-22 16:07,Technical,Critical,Resolved,1.3,1.5,AGT-12,1,Webhook events delayed
+TKT-1661,2026-05-23 10:57,Technical,Low,Resolved,0.5,9.3,AGT-07,4,API timeout in production
+TKT-0497,2026-05-23 12:25,Technical,Medium,Resolved,1.6,1.9,AGT-01,4,Two-factor code not arriving
+TKT-1807,2026-05-24 13:19,General,Medium,Resolved,2.0,3.8,AGT-04,4,Question about data retention
+TKT-0020,2026-05-24 13:27,Technical,Low,Resolved,4.3,25.9,AGT-08,2,Dashboard not loading
+TKT-1339,2026-05-25 14:25,Billing,Low,Resolved,3.2,22.8,AGT-10,3,Invoice missing GST details
+TKT-0955,2026-05-25 17:31,Billing,Low,Resolved,4.0,9.9,AGT-07,4,Invoice missing GST details
+TKT-1288,2026-05-26 15:07,Billing,Medium,Resolved,0.8,11.5,AGT-05,3,Incorrect charge on invoice
+TKT-1733,2026-05-26 15:28,General,Medium,Resolved,2.1,4.4,AGT-10,5,Request for product docs
+TKT-1383,2026-05-27 09:30,General,Medium,Resolved,3.0,3.4,AGT-07,5,Request for product docs
+TKT-1568,2026-05-27 11:54,Billing,Medium,Resolved,1.9,22.7,AGT-02,1,Card declined at renewal
+TKT-0115,2026-05-27 13:37,Technical,Medium,Resolved,4.0,10.1,AGT-12,5,Dashboard not loading
+TKT-0244,2026-05-27 14:26,Technical,High,Resolved,1.0,41.6,AGT-07,4,Dashboard not loading
+TKT-1212,2026-05-27 15:32,General,Critical,Resolved,1.0,2.6,AGT-03,5,Question about data retention
+TKT-1359,2026-05-27 15:55,Technical,Low,Resolved,4.7,5.1,AGT-12,5,Webhook events delayed
+TKT-1348,2026-05-28 05:13,Billing,High,Resolved,0.8,2.4,AGT-01,5,Invoice missing GST details
+TKT-0967,2026-05-28 06:41,Technical,Low,Resolved,3.6,33.8,AGT-03,5,API timeout in production
+TKT-1769,2026-05-28 11:21,Technical,Low,Resolved,4.2,23.4,AGT-10,4,Dashboard not loading
+TKT-1687,2026-05-28 13:24,Technical,Critical,Resolved,0.5,9.2,AGT-06,5,Login failure after update
+TKT-1333,2026-05-28 13:58,Technical,High,Resolved,0.7,3.7,AGT-10,4,Export to CSV fails
+TKT-0173,2026-05-28 16:22,General,Medium,Resolved,3.8,4.0,AGT-06,5,Feature request: dark mode
+TKT-1623,2026-05-28 17:56,Technical,Medium,Resolved,1.7,9.3,AGT-10,3,Webhook events delayed
+TKT-1950,2026-05-29 08:16,Technical,High,Resolved,1.4,7.2,AGT-05,4,Dashboard not loading
+TKT-1306,2026-05-29 14:36,General,Low,Resolved,1.9,8.1,AGT-07,4,Feature request: dark mode
+TKT-1136,2026-05-29 14:42,General,Low,Resolved,4.3,12.8,AGT-04,3,Request for product docs
+TKT-1954,2026-05-29 17:07,General,Medium,Resolved,2.5,12.7,AGT-06,3,Update company address
+TKT-1758,2026-05-30 09:41,Technical,Medium,Resolved,3.5,29.2,AGT-06,3,Dashboard not loading
+TKT-1876,2026-05-30 10:07,Technical,Medium,Resolved,0.9,3.2,AGT-12,1,Two-factor code not arriving
+TKT-0175,2026-05-30 11:02,Technical,Low,Resolved,3.2,12.8,AGT-07,5,Export to CSV fails
+TKT-1747,2026-05-30 11:42,Billing,Medium,Resolved,2.8,6.3,AGT-11,5,Coupon code not applied
+TKT-0603,2026-05-30 12:27,Billing,Medium,Resolved,1.4,8.1,AGT-01,5,Invoice missing GST details
+TKT-1152,2026-05-30 13:20,Billing,Medium,Resolved,2.9,5.8,AGT-06,4,Card declined at renewal
+TKT-1118,2026-05-30 16:02,Billing,Medium,Resolved,1.9,14.0,AGT-01,5,Incorrect charge on invoice
+TKT-0145,2026-05-31 12:10,Technical,High,Resolved,1.7,7.1,AGT-08,3,Dashboard not loading
+TKT-0347,2026-05-31 16:23,General,Medium,Resolved,0.8,16.0,AGT-02,4,Feature request: dark mode
+TKT-0714,2026-06-01 08:09,Billing,High,Resolved,0.5,2.1,AGT-01,4,Invoice missing GST details
+TKT-1753,2026-06-01 08:26,Billing,High,Resolved,1.8,2.3,AGT-01,4,Incorrect charge on invoice
+TKT-1881,2026-06-01 09:53,Billing,Critical,Resolved,0.3,25.7,AGT-06,3,Card declined at renewal
+TKT-1006,2026-06-01 10:14,General,Low,Resolved,7.5,10.4,AGT-09,4,Update company address
+TKT-1487,2026-06-01 10:17,Billing,Low,Resolved,3.1,8.1,AGT-11,5,Incorrect charge on invoice
+TKT-0270,2026-06-01 12:23,Billing,Medium,Resolved,5.2,5.4,AGT-05,3,Invoice missing GST details
+TKT-1045,2026-06-01 12:45,Billing,Medium,Resolved,1.3,4.5,AGT-02,4,Coupon code not applied
+TKT-0463,2026-06-01 14:15,Technical,Medium,Resolved,0.5,8.2,AGT-02,4,API timeout in production
+TKT-1470,2026-06-01 15:41,General,Low,Resolved,10.4,10.6,AGT-03,4,Update company address
+TKT-0053,2026-06-02 13:42,Billing,Medium,Resolved,1.0,20.2,AGT-05,3,Invoice missing GST details
+TKT-1490,2026-06-02 15:19,Billing,Medium,Resolved,1.7,11.0,AGT-05,5,Coupon code not applied
+TKT-1121,2026-06-02 18:24,Technical,High,Resolved,2.9,11.3,AGT-10,3,API timeout in production
+TKT-0230,2026-06-02 20:59,Technical,Low,Resolved,2.8,6.6,AGT-10,4,Dashboard not loading
+TKT-1071,2026-06-03 09:04,Technical,Low,Resolved,5.3,17.0,AGT-05,3,Login failure after update
+TKT-0622,2026-06-03 12:48,Technical,Medium,Resolved,3.2,4.5,AGT-08,4,Webhook events delayed
+TKT-1891,2026-06-03 15:00,Billing,Low,Resolved,5.1,10.9,AGT-07,5,Coupon code not applied
+TKT-1364,2026-06-04 05:48,Technical,Medium,Resolved,3.1,5.9,AGT-08,3,Webhook events delayed
+TKT-0042,2026-06-04 14:11,General,Medium,Resolved,0.9,6.4,AGT-09,4,Feature request: dark mode
+TKT-1225,2026-06-04 15:07,General,Low,Resolved,1.9,17.9,AGT-03,4,Need onboarding session
+TKT-1480,2026-06-05 06:33,Billing,Medium,Resolved,3.3,5.9,AGT-07,5,Incorrect charge on invoice
+TKT-1926,2026-06-05 11:34,Technical,Medium,Resolved,1.9,17.8,AGT-09,3,Webhook events delayed
+TKT-0143,2026-06-05 13:00,Billing,High,Resolved,0.5,5.8,AGT-10,5,Card declined at renewal
+TKT-0297,2026-06-05 13:04,Technical,Low,Resolved,3.1,22.3,AGT-05,4,Webhook events delayed
+TKT-0583,2026-06-05 13:29,General,Low,Resolved,1.7,6.4,AGT-02,4,Need onboarding session
+TKT-0571,2026-06-05 14:23,General,Low,Resolved,4.1,4.4,AGT-07,4,Request for product docs
+TKT-1380,2026-06-05 17:13,Billing,Medium,Resolved,2.9,6.0,AGT-02,4,Refund not processed
+TKT-1503,2026-06-06 09:54,Technical,Low,Resolved,1.1,4.4,AGT-12,1,Login failure after update
+TKT-0379,2026-06-06 11:13,General,High,Resolved,1.1,11.1,AGT-10,4,Update company address
+TKT-1732,2026-06-06 12:49,Technical,Medium,Resolved,3.6,3.8,AGT-11,4,API timeout in production
+TKT-1411,2026-06-06 12:50,General,High,Resolved,0.3,6.2,AGT-12,5,Need onboarding session
+TKT-1415,2026-06-06 14:04,General,Low,Resolved,4.2,94.7,AGT-08,3,Feature request: dark mode
+TKT-1992,2026-06-06 16:35,Billing,High,Resolved,1.7,1.9,AGT-12,5,Double payment on subscription
+TKT-1552,2026-06-06 17:01,Technical,Low,Resolved,2.0,2.2,AGT-12,5,Export to CSV fails
+TKT-0501,2026-06-06 18:58,General,Medium,Resolved,0.6,7.3,AGT-05,4,Question about data retention
+TKT-0530,2026-06-06 19:59,Technical,High,Resolved,1.3,5.9,AGT-08,3,Dashboard not loading
+TKT-0944,2026-06-07 06:16,Billing,Critical,Resolved,0.8,1.9,AGT-01,4,Incorrect charge on invoice
+TKT-0964,2026-06-07 08:42,General,Low,Resolved,2.9,20.9,AGT-02,2,Feature request: dark mode
+TKT-0775,2026-06-07 11:01,Billing,Low,Resolved,5.3,13.1,AGT-12,5,Invoice missing GST details
+TKT-0285,2026-06-07 11:26,Billing,Low,Resolved,8.2,12.2,AGT-06,4,Double payment on subscription
+TKT-0314,2026-06-07 11:37,Technical,Low,Resolved,1.5,11.2,AGT-05,5,Login failure after update
+TKT-0344,2026-06-07 12:55,General,Critical,Resolved,0.3,3.6,AGT-03,5,Need onboarding session
+TKT-1562,2026-06-07 14:40,General,High,Resolved,0.8,1.2,AGT-03,4,Question about data retention
+TKT-1580,2026-06-07 18:01,Billing,Low,Resolved,4.6,8.7,AGT-09,5,Invoice missing GST details
+TKT-1153,2026-06-07 21:10,General,Medium,Resolved,1.6,6.2,AGT-05,4,How to change account owner
+TKT-0725,2026-06-08 04:51,General,Medium,Resolved,5.1,6.9,AGT-04,3,How to change account owner
+TKT-1010,2026-06-08 10:10,Technical,High,Resolved,3.2,19.5,AGT-03,4,Export to CSV fails
+TKT-1438,2026-06-08 10:23,General,Low,Resolved,1.3,4.7,AGT-05,5,Request for product docs
+TKT-0990,2026-06-08 11:29,Technical,Low,Resolved,5.0,5.2,AGT-12,5,Login failure after update
+TKT-0423,2026-06-08 11:51,Technical,Low,Resolved,2.6,5.8,AGT-10,1,Dashboard not loading
+TKT-0724,2026-06-08 13:29,Technical,Low,Resolved,8.6,8.8,AGT-10,1,Dashboard not loading
+TKT-0064,2026-06-08 15:26,Technical,High,Resolved,1.5,3.8,AGT-10,3,API timeout in production
+TKT-1797,2026-06-08 22:13,Technical,Low,Resolved,7.7,12.6,AGT-01,4,Dashboard not loading
+TKT-0309,2026-06-09 12:55,Technical,Medium,Resolved,3.0,3.2,AGT-07,1,Dashboard not loading
+TKT-0502,2026-06-09 14:34,General,Medium,Resolved,0.8,2.3,AGT-08,5,Update company address
+TKT-1036,2026-06-09 18:33,Technical,Low,Resolved,2.6,6.7,AGT-01,3,Login failure after update
+TKT-0376,2026-06-09 19:41,Billing,Critical,Resolved,0.9,12.8,AGT-05,5,Coupon code not applied
+TKT-1755,2026-06-10 11:22,Technical,Medium,Resolved,1.7,10.1,AGT-04,5,Login failure after update
+TKT-1162,2026-06-10 12:40,Technical,Low,Resolved,2.2,8.4,AGT-11,1,Two-factor code not arriving
+TKT-0215,2026-06-10 15:37,Technical,Critical,Resolved,1.6,25.3,AGT-05,4,Webhook events delayed
+TKT-0202,2026-06-11 08:22,General,Medium,Resolved,2.0,6.3,AGT-08,2,Feature request: dark mode
+TKT-1081,2026-06-11 09:10,General,Low,Resolved,5.3,5.5,AGT-04,5,Feature request: dark mode
+TKT-1814,2026-06-11 10:14,Billing,Low,Resolved,4.4,19.1,AGT-09,5,Incorrect charge on invoice
+TKT-0928,2026-06-11 13:06,Billing,High,Resolved,1.1,13.2,AGT-01,3,Coupon code not applied
+TKT-1131,2026-06-11 13:44,General,Medium,Resolved,4.0,23.1,AGT-04,5,Need onboarding session
+TKT-1452,2026-06-12 07:40,Billing,Critical,Resolved,0.6,3.1,AGT-09,4,Invoice missing GST details
+TKT-0112,2026-06-12 10:54,General,Critical,Resolved,0.5,5.2,AGT-04,5,Feature request: dark mode
+TKT-1799,2026-06-12 11:22,Technical,Medium,Resolved,2.9,4.1,AGT-11,5,Two-factor code not arriving
+TKT-1577,2026-06-12 11:40,Technical,Critical,Resolved,0.3,4.6,AGT-04,4,Webhook events delayed
+TKT-0166,2026-06-12 13:03,Billing,Medium,Resolved,7.0,9.5,AGT-08,1,Coupon code not applied
+TKT-0283,2026-06-12 13:20,Billing,High,Resolved,1.7,5.8,AGT-05,4,Refund not processed
+TKT-1997,2026-06-12 14:06,General,Critical,Resolved,0.5,2.3,AGT-03,4,Feature request: dark mode
+TKT-1343,2026-06-12 17:24,General,High,Resolved,2.9,3.8,AGT-06,5,Feature request: dark mode
+TKT-0778,2026-06-12 18:59,Billing,High,Resolved,0.7,5.2,AGT-05,5,Coupon code not applied
+TKT-0239,2026-06-13 05:07,Technical,Medium,Resolved,2.3,5.6,AGT-06,4,Login failure after update
+TKT-0947,2026-06-13 08:49,Billing,Medium,Resolved,3.2,94.6,AGT-01,3,Invoice missing GST details
+TKT-1376,2026-06-13 08:51,Technical,Low,Resolved,3.9,5.0,AGT-09,4,Export to CSV fails
+TKT-0904,2026-06-13 11:24,General,Medium,Resolved,1.6,3.5,AGT-07,4,Question about data retention
+TKT-1379,2026-06-13 14:08,Billing,Medium,Resolved,0.5,5.2,AGT-04,5,Card declined at renewal
+TKT-1292,2026-06-13 14:27,Billing,High,Resolved,0.7,1.8,AGT-03,5,Card declined at renewal
+TKT-0418,2026-06-13 15:06,Technical,High,Resolved,4.9,5.1,AGT-11,3,Two-factor code not arriving
+TKT-0329,2026-06-13 17:18,General,High,Resolved,1.1,4.4,AGT-12,5,How to change account owner
+TKT-0395,2026-06-14 07:22,Technical,High,Resolved,1.2,8.9,AGT-02,3,API timeout in production
+TKT-1838,2026-06-14 07:52,Billing,Medium,Resolved,2.7,14.1,AGT-11,4,Card declined at renewal
+TKT-0614,2026-06-14 12:23,General,Medium,Resolved,2.3,7.9,AGT-05,3,Question about data retention
+TKT-1215,2026-06-14 13:07,General,High,Resolved,0.5,9.8,AGT-03,5,Need onboarding session
+TKT-1883,2026-06-14 15:12,Technical,High,Resolved,0.7,9.9,AGT-03,4,Login failure after update
+TKT-1557,2026-06-14 16:39,Technical,Low,Resolved,4.2,13.1,AGT-06,4,Login failure after update
+TKT-1314,2026-06-14 17:12,Technical,Medium,Resolved,3.9,7.2,AGT-07,5,Login failure after update
+TKT-1427,2026-06-15 07:14,Technical,Low,Resolved,1.3,6.9,AGT-09,5,Login failure after update
+TKT-0772,2026-06-15 10:17,General,High,Resolved,0.7,9.5,AGT-01,4,Question about data retention
+TKT-1622,2026-06-15 11:05,Billing,Medium,Resolved,0.9,9.3,AGT-09,4,Incorrect charge on invoice
+TKT-1796,2026-06-15 11:30,Technical,Medium,Resolved,4.0,4.2,AGT-12,5,Login failure after update
+TKT-0247,2026-06-15 14:50,General,Medium,Resolved,2.0,3.8,AGT-02,5,Request for product docs
+TKT-0130,2026-06-15 17:33,Billing,Medium,Resolved,2.5,13.5,AGT-07,4,Card declined at renewal
+TKT-0318,2026-06-16 07:29,Technical,Medium,Resolved,1.6,5.0,AGT-01,5,Export to CSV fails
+TKT-1537,2026-06-16 10:56,General,Low,Resolved,17.3,17.5,AGT-05,4,Request for product docs
+TKT-1090,2026-06-16 14:51,Technical,Low,Resolved,1.9,3.6,AGT-10,5,Export to CSV fails
+TKT-1206,2026-06-17 06:54,General,Critical,Resolved,1.0,1.7,AGT-03,4,How to change account owner
+TKT-0072,2026-06-17 08:39,Billing,High,Resolved,1.4,6.3,AGT-08,2,Refund not processed
+TKT-0636,2026-06-17 10:37,Billing,Medium,Resolved,2.2,8.7,AGT-03,5,Incorrect charge on invoice
+TKT-0471,2026-06-17 10:55,General,Medium,Resolved,3.0,3.4,AGT-02,5,Need onboarding session
+TKT-0817,2026-06-17 11:51,Technical,Medium,Resolved,3.0,8.1,AGT-08,3,Dashboard not loading
+TKT-0457,2026-06-17 12:42,Technical,Medium,Resolved,2.5,124.2,AGT-05,4,API timeout in production
+TKT-1459,2026-06-17 13:58,Billing,Low,Resolved,3.7,16.5,AGT-08,4,Invoice missing GST details
+TKT-0831,2026-06-17 16:21,Technical,Medium,Resolved,2.3,11.2,AGT-07,4,Login failure after update
+TKT-0426,2026-06-18 10:58,Technical,High,Resolved,1.4,4.3,AGT-10,4,Webhook events delayed
+TKT-1969,2026-06-18 14:28,Technical,Low,Resolved,3.4,25.1,AGT-10,4,Webhook events delayed
+TKT-0790,2026-06-19 09:47,General,Medium,Resolved,2.9,9.5,AGT-02,3,Feature request: dark mode
+TKT-1893,2026-06-19 10:37,Billing,Medium,Resolved,1.3,2.5,AGT-02,5,Coupon code not applied
+TKT-0549,2026-06-19 12:24,General,Medium,Resolved,2.2,2.4,AGT-12,5,How to change account owner
+TKT-0275,2026-06-19 14:03,General,Low,Resolved,1.5,16.5,AGT-12,5,Feature request: dark mode
+TKT-0510,2026-06-19 14:08,Technical,High,Resolved,1.3,2.4,AGT-06,3,Two-factor code not arriving
+TKT-1185,2026-06-19 15:13,General,Low,Resolved,2.1,9.0,AGT-09,3,Feature request: dark mode
+TKT-1386,2026-06-19 21:51,Technical,Medium,Resolved,1.4,6.5,AGT-06,4,Login failure after update
+TKT-1358,2026-06-19 22:41,General,Critical,Resolved,0.9,16.8,AGT-04,4,Need onboarding session
+TKT-1975,2026-06-20 04:11,Technical,Medium,Resolved,1.7,13.7,AGT-10,3,Login failure after update
+TKT-1976,2026-06-20 05:33,Technical,Low,Resolved,2.7,14.3,AGT-06,5,Export to CSV fails
+TKT-0128,2026-06-20 08:15,General,Low,Resolved,3.0,4.6,AGT-09,4,How to change account owner
+TKT-1004,2026-06-20 13:06,Technical,High,Resolved,0.7,2.1,AGT-11,5,Login failure after update
+TKT-0375,2026-06-20 14:14,Technical,Low,Resolved,2.4,7.5,AGT-12,5,Webhook events delayed
+TKT-0290,2026-06-20 15:16,Billing,High,Resolved,0.5,6.1,AGT-06,4,Incorrect charge on invoice
+TKT-1527,2026-06-20 16:13,Billing,High,Resolved,1.4,7.1,AGT-09,4,Double payment on subscription
+TKT-1168,2026-06-21 09:42,Technical,Medium,Resolved,6.7,6.9,AGT-11,5,Login failure after update
+TKT-1770,2026-06-21 12:24,Technical,Low,Resolved,2.7,17.6,AGT-03,4,Webhook events delayed
+TKT-0087,2026-06-21 12:47,General,Medium,Resolved,2.7,3.9,AGT-07,5,Question about data retention
+TKT-0926,2026-06-21 15:10,Billing,Critical,Resolved,0.6,1.7,AGT-07,4,Card declined at renewal
+TKT-0015,2026-06-21 17:36,General,Low,Resolved,2.7,3.5,AGT-04,5,How to change account owner
+TKT-0389,2026-06-21 17:39,Technical,Low,Resolved,7.3,8.7,AGT-09,3,Webhook events delayed
+TKT-1298,2026-06-22 08:31,General,Critical,Resolved,0.3,3.1,AGT-10,4,Request for product docs
+TKT-0257,2026-06-22 10:13,Billing,High,Resolved,1.5,2.2,AGT-11,5,Coupon code not applied
+TKT-0481,2026-06-22 14:15,Technical,High,Resolved,0.9,3.1,AGT-11,5,Webhook events delayed
+TKT-0119,2026-06-22 14:43,Billing,High,Resolved,1.6,1.8,AGT-02,4,Refund not processed
+TKT-1467,2026-06-22 22:06,Technical,Medium,Resolved,0.8,3.6,AGT-05,3,API timeout in production
+TKT-1616,2026-06-23 07:22,Technical,Low,Resolved,4.2,6.0,AGT-03,5,Webhook events delayed
+TKT-0192,2026-06-23 08:58,General,Low,Resolved,0.5,17.2,AGT-11,4,How to change account owner
+TKT-0720,2026-06-24 06:55,Technical,Medium,Resolved,0.9,4.0,AGT-08,4,Login failure after update
+TKT-0755,2026-06-24 07:57,Billing,Medium,Resolved,1.1,6.5,AGT-09,4,Refund not processed
+TKT-0866,2026-06-24 08:24,Technical,Low,Resolved,1.1,14.3,AGT-11,4,Export to CSV fails
+TKT-1099,2026-06-24 13:11,Technical,Medium,Resolved,3.3,15.3,AGT-07,4,Login failure after update
+TKT-0485,2026-06-24 14:36,Billing,Medium,Resolved,4.7,4.9,AGT-03,5,Incorrect charge on invoice
+TKT-0987,2026-06-24 14:41,Technical,High,Resolved,0.5,3.9,AGT-03,4,Dashboard not loading
+TKT-0182,2026-06-25 08:50,Technical,High,Resolved,1.0,2.7,AGT-02,4,Dashboard not loading
+TKT-1405,2026-06-25 11:11,Technical,Low,Resolved,2.1,23.1,AGT-10,3,Login failure after update
+TKT-0268,2026-06-25 11:33,Technical,Low,Resolved,2.2,78.3,AGT-09,4,Export to CSV fails
+TKT-1237,2026-06-25 13:02,Billing,Medium,Resolved,2.5,6.1,AGT-06,4,Incorrect charge on invoice
+TKT-0594,2026-06-25 14:11,General,High,Resolved,0.4,8.2,AGT-07,5,Feature request: dark mode
+TKT-1649,2026-06-25 18:07,Technical,Low,Resolved,8.4,8.6,AGT-11,3,Webhook events delayed
+TKT-0185,2026-06-26 07:43,Billing,Medium,Resolved,6.2,9.1,AGT-05,3,Card declined at renewal
+TKT-1435,2026-06-26 07:57,Billing,High,Resolved,0.9,1.5,AGT-11,4,Refund not processed
+TKT-1677,2026-06-26 10:56,Technical,Medium,Resolved,0.9,5.7,AGT-05,4,Webhook events delayed
+TKT-1597,2026-06-26 14:20,General,Low,Resolved,1.9,3.4,AGT-12,5,Question about data retention
+TKT-1858,2026-06-26 14:56,General,High,Resolved,0.4,17.8,AGT-12,5,Need onboarding session
+TKT-0187,2026-06-27 09:59,Billing,High,Resolved,1.0,13.6,AGT-03,4,Refund not processed
+TKT-1273,2026-06-27 12:42,Technical,Medium,Resolved,2.0,5.9,AGT-09,4,Export to CSV fails
+TKT-0356,2026-06-27 14:26,General,Medium,Resolved,2.0,2.9,AGT-01,4,Update company address
+TKT-1478,2026-06-27 16:29,Technical,Medium,Resolved,2.1,110.1,AGT-11,4,Dashboard not loading
+TKT-1155,2026-06-28 14:08,Technical,Low,Resolved,1.0,10.4,AGT-03,5,Export to CSV fails
+TKT-1780,2026-06-28 15:37,General,Medium,Resolved,2.6,14.7,AGT-03,5,Question about data retention
+TKT-1401,2026-06-29 12:41,Billing,High,Resolved,0.5,6.5,AGT-07,4,Coupon code not applied
+TKT-0322,2026-06-29 13:11,General,Low,Resolved,2.9,12.6,AGT-08,4,Update company address
+TKT-0909,2026-06-29 13:41,General,Low,Resolved,2.3,4.3,AGT-05,4,Request for product docs
+TKT-1636,2026-06-30 06:30,General,Low,Resolved,4.5,15.9,AGT-01,4,Question about data retention
+TKT-0895,2026-06-30 08:49,Technical,High,Resolved,0.2,5.5,AGT-12,5,Login failure after update
+TKT-1283,2026-06-30 10:15,General,Critical,Resolved,0.6,3.2,AGT-01,1,Question about data retention
+TKT-0672,2026-06-30 11:13,Technical,High,Resolved,1.0,3.8,AGT-02,4,Export to CSV fails
+TKT-1794,2026-06-30 12:08,Billing,High,Resolved,0.4,1.7,AGT-04,5,Incorrect charge on invoice
+TKT-1538,2026-06-30 13:02,Technical,Low,Resolved,1.7,9.5,AGT-08,3,Login failure after update
+TKT-1918,2026-06-30 16:25,Technical,Medium,Resolved,1.6,5.0,AGT-10,5,Export to CSV fails
+TKT-1828,2026-06-30 19:02,Billing,Low,Resolved,3.0,3.7,AGT-09,4,Card declined at renewal
+TKT-0459,2026-07-01 02:39,General,Medium,Resolved,1.2,15.2,AGT-07,5,Update company address
+TKT-1389,2026-07-01 11:38,Billing,Medium,Resolved,4.6,9.2,AGT-08,4,Invoice missing GST details
+TKT-0544,2026-07-01 12:10,General,Medium,Resolved,1.0,7.1,AGT-01,4,Request for product docs
+TKT-0593,2026-07-01 12:13,Billing,High,Resolved,1.5,54.9,AGT-09,5,Invoice missing GST details
+TKT-0901,2026-07-02 07:18,Billing,High,Resolved,0.8,3.8,AGT-06,4,Refund not processed
+TKT-0484,2026-07-02 10:00,Technical,Medium,Resolved,0.9,8.0,AGT-05,4,Webhook events delayed
+TKT-1880,2026-07-02 11:48,Technical,Medium,Resolved,2.6,28.3,AGT-08,3,Export to CSV fails
+TKT-1491,2026-07-02 13:03,Technical,High,Resolved,0.9,5.7,AGT-11,5,Webhook events delayed
+TKT-1539,2026-07-02 18:01,General,Critical,Resolved,1.2,2.6,AGT-05,4,Need onboarding session
+TKT-1430,2026-07-03 04:41,General,Low,Resolved,6.5,7.2,AGT-04,4,Question about data retention
+TKT-0965,2026-07-03 05:22,Billing,High,Resolved,0.4,4.1,AGT-10,4,Double payment on subscription
+TKT-0833,2026-07-03 06:05,General,Low,Resolved,2.5,7.9,AGT-05,1,Request for product docs
+TKT-0095,2026-07-03 07:25,Billing,Critical,Resolved,1.9,89.2,AGT-08,4,Invoice missing GST details
+TKT-1882,2026-07-03 07:51,General,Low,Resolved,15.3,15.5,AGT-11,4,Request for product docs
+TKT-1787,2026-07-03 10:34,General,Low,Resolved,2.4,33.9,AGT-01,4,Request for product docs
+TKT-1868,2026-07-03 11:00,Technical,Medium,Resolved,0.4,3.1,AGT-12,5,Export to CSV fails
+TKT-0989,2026-07-03 12:41,General,Medium,Resolved,3.0,3.6,AGT-04,5,Request for product docs
+TKT-0291,2026-07-03 15:04,Technical,Low,Resolved,3.2,7.2,AGT-05,3,Dashboard not loading
+TKT-0807,2026-07-03 17:14,Billing,High,Resolved,1.1,1.9,AGT-04,5,Invoice missing GST details
+TKT-1083,2026-07-03 19:01,Technical,High,Resolved,2.2,3.4,AGT-01,5,API timeout in production
+TKT-1100,2026-07-04 05:27,Technical,Critical,Resolved,0.9,3.1,AGT-05,4,Two-factor code not arriving
+TKT-1685,2026-07-04 07:59,Billing,High,Resolved,1.4,16.1,AGT-06,3,Double payment on subscription
+TKT-1482,2026-07-04 08:35,General,Low,Resolved,3.0,4.2,AGT-03,4,Need onboarding session
+TKT-1762,2026-07-04 10:00,Technical,Low,Resolved,4.4,19.4,AGT-09,4,Login failure after update
+TKT-1227,2026-07-04 11:58,Billing,High,Resolved,0.8,7.7,AGT-11,4,Invoice missing GST details
+TKT-1518,2026-07-04 12:34,General,Medium,Resolved,2.0,3.4,AGT-05,4,Request for product docs
+TKT-1378,2026-07-04 13:31,Billing,Low,Resolved,10.8,11.0,AGT-06,4,Incorrect charge on invoice
+TKT-1241,2026-07-05 07:48,Technical,Critical,Resolved,0.4,7.6,AGT-08,3,Dashboard not loading
+TKT-0569,2026-07-05 10:11,Billing,High,Resolved,1.9,9.3,AGT-04,5,Coupon code not applied
+TKT-1023,2026-07-05 10:40,Technical,Low,Resolved,1.2,24.9,AGT-11,4,Login failure after update
+TKT-0165,2026-07-05 11:05,Technical,Critical,Resolved,0.4,4.0,AGT-06,4,Two-factor code not arriving
+TKT-0073,2026-07-05 12:17,Technical,Medium,Resolved,1.3,17.2,AGT-09,5,Two-factor code not arriving
+TKT-0830,2026-07-05 13:08,Billing,High,Resolved,3.7,3.9,AGT-11,4,Coupon code not applied
+TKT-0808,2026-07-05 16:52,General,Medium,Resolved,2.5,15.6,AGT-06,4,Need onboarding session
+TKT-0360,2026-07-05 22:29,Technical,Low,Resolved,1.3,10.3,AGT-03,5,Dashboard not loading
+TKT-0303,2026-07-06 05:24,Billing,High,Resolved,0.4,6.8,AGT-02,5,Double payment on subscription
+TKT-0542,2026-07-06 08:33,General,Medium,Resolved,1.2,130.5,AGT-04,4,Question about data retention
+TKT-1284,2026-07-06 13:29,Billing,Medium,Resolved,1.1,30.2,AGT-01,4,Coupon code not applied
+TKT-0695,2026-07-06 14:34,Technical,Critical,Resolved,2.0,2.2,AGT-06,3,Export to CSV fails
+TKT-0486,2026-07-06 16:27,Technical,High,Resolved,1.8,8.2,AGT-04,5,API timeout in production
+TKT-1585,2026-07-06 18:53,Billing,Medium,Resolved,2.6,14.8,AGT-05,4,Card declined at renewal
+TKT-0613,2026-07-07 08:03,General,Low,Resolved,1.4,10.1,AGT-11,4,How to change account owner
+TKT-1264,2026-07-07 08:07,Billing,Critical,Resolved,0.4,2.0,AGT-12,5,Incorrect charge on invoice
+TKT-1267,2026-07-07 10:49,Technical,Medium,Resolved,0.6,9.4,AGT-07,4,Two-factor code not arriving
+TKT-1793,2026-07-07 15:01,Technical,Critical,Resolved,1.2,1.9,AGT-02,5,Dashboard not loading
+TKT-0124,2026-07-07 15:05,Technical,High,Resolved,1.2,3.4,AGT-12,5,API timeout in production
+TKT-1853,2026-07-07 16:25,Billing,Medium,Resolved,1.8,4.4,AGT-09,4,Card declined at renewal
+TKT-1362,2026-07-07 18:10,Technical,Low,Resolved,1.4,34.1,AGT-02,1,Two-factor code not arriving
+TKT-1632,2026-07-08 07:09,General,High,Resolved,0.6,2.3,AGT-09,5,Need onboarding session
+TKT-0462,2026-07-08 10:40,General,Low,Resolved,4.0,21.7,AGT-09,5,Feature request: dark mode
+TKT-1455,2026-07-08 13:21,Technical,High,Resolved,0.5,11.1,AGT-06,3,Two-factor code not arriving
+TKT-1088,2026-07-08 16:22,Technical,Critical,Resolved,1.3,3.7,AGT-10,4,Login failure after update
+TKT-0602,2026-07-08 17:09,Billing,Critical,Resolved,1.0,8.5,AGT-02,4,Invoice missing GST details
+TKT-0302,2026-07-08 17:10,Billing,Critical,Resolved,0.5,9.8,AGT-09,4,Incorrect charge on invoice
+TKT-1521,2026-07-08 17:18,Technical,Critical,Resolved,0.6,0.8,AGT-12,4,Export to CSV fails
+TKT-0543,2026-07-09 03:22,Technical,High,Resolved,1.3,6.0,AGT-03,4,Login failure after update
+TKT-0388,2026-07-09 09:03,Technical,High,Resolved,1.3,4.6,AGT-09,3,Webhook events delayed
+TKT-1479,2026-07-09 10:53,Technical,Low,Resolved,2.3,9.3,AGT-09,4,Login failure after update
+TKT-1488,2026-07-09 11:27,Technical,Low,Resolved,2.5,3.2,AGT-03,5,Login failure after update
+TKT-0952,2026-07-10 06:58,Technical,Medium,Resolved,1.2,5.4,AGT-03,5,Dashboard not loading
+TKT-0008,2026-07-10 08:05,Technical,Medium,Resolved,1.3,9.0,AGT-05,3,Export to CSV fails
+TKT-0054,2026-07-10 11:14,General,Low,Resolved,1.7,4.3,AGT-06,4,How to change account owner
+TKT-1815,2026-07-11 11:11,General,Medium,Resolved,4.5,6.9,AGT-05,5,Request for product docs
+TKT-0339,2026-07-11 14:18,General,Low,Resolved,1.6,8.6,AGT-12,5,How to change account owner
+TKT-1233,2026-07-11 16:25,Technical,Low,Resolved,3.0,8.7,AGT-08,4,Login failure after update
+TKT-1331,2026-07-12 13:54,Billing,Medium,Resolved,1.1,6.1,AGT-03,5,Card declined at renewal
+TKT-0940,2026-07-13 11:53,General,Critical,Resolved,0.8,17.9,AGT-05,4,Need onboarding session
+TKT-0879,2026-07-13 16:39,General,High,Resolved,1.0,28.9,AGT-06,5,How to change account owner
+TKT-1558,2026-07-14 09:58,General,High,Resolved,0.8,3.8,AGT-02,4,Feature request: dark mode
+TKT-1371,2026-07-14 15:37,Technical,High,Resolved,0.6,6.0,AGT-01,4,Two-factor code not arriving
+TKT-0118,2026-07-14 18:31,Billing,Medium,Resolved,1.7,6.1,AGT-07,1,Refund not processed
+TKT-1686,2026-07-15 11:31,General,Low,Resolved,1.8,29.6,AGT-11,4,Feature request: dark mode
+TKT-1964,2026-07-15 13:05,Billing,Low,Resolved,3.6,6.5,AGT-08,3,Double payment on subscription
+TKT-1721,2026-07-16 09:58,Technical,Medium,Resolved,3.2,9.0,AGT-02,5,Export to CSV fails
+TKT-1965,2026-07-16 11:58,Technical,High,Resolved,0.5,6.8,AGT-09,4,Webhook events delayed
+TKT-1048,2026-07-16 14:58,Technical,Low,Resolved,1.2,5.0,AGT-01,4,Login failure after update
+TKT-0711,2026-07-16 16:03,Billing,Low,Resolved,1.7,5.6,AGT-03,5,Coupon code not applied
+TKT-1916,2026-07-17 10:40,Billing,Low,Resolved,5.9,7.6,AGT-07,4,Refund not processed
+TKT-1450,2026-07-17 12:56,General,Medium,Resolved,1.0,2.0,AGT-12,1,How to change account owner
+TKT-1848,2026-07-17 19:26,Billing,Critical,Resolved,0.8,1.8,AGT-07,4,Card declined at renewal
+TKT-1716,2026-07-18 17:53,Technical,Medium,Resolved,5.0,11.0,AGT-08,3,Login failure after update
+TKT-0315,2026-07-19 05:32,Technical,Critical,Resolved,0.7,5.1,AGT-08,3,Dashboard not loading
+TKT-0629,2026-07-19 13:41,Technical,Medium,Resolved,4.6,4.9,AGT-05,4,Login failure after update
+TKT-1061,2026-07-19 14:01,Technical,Medium,Resolved,1.9,3.3,AGT-10,5,API timeout in production
+TKT-0640,2026-07-19 14:08,Technical,High,Resolved,0.7,6.9,AGT-11,4,Export to CSV fails
+TKT-0200,2026-07-19 14:16,General,Low,Resolved,2.5,18.2,AGT-09,3,Update company address
+TKT-1772,2026-07-19 14:22,Technical,High,Resolved,0.3,6.5,AGT-08,3,Webhook events delayed
+TKT-0848,2026-07-19 16:00,Technical,Low,Resolved,3.5,5.4,AGT-05,4,Login failure after update
+TKT-1340,2026-07-19 20:49,Technical,Critical,Resolved,0.2,3.2,AGT-10,5,Login failure after update
+TKT-1680,2026-07-20 12:22,Technical,High,Resolved,0.9,2.7,AGT-09,4,API timeout in production
+TKT-0078,2026-07-20 13:31,Technical,Medium,Resolved,3.2,5.3,AGT-04,4,Dashboard not loading
+TKT-0814,2026-07-20 13:57,Technical,High,Resolved,0.8,17.9,AGT-07,3,Dashboard not loading
+TKT-1763,2026-07-20 15:15,Technical,Medium,Resolved,2.4,9.4,AGT-10,4,Export to CSV fails
+TKT-0402,2026-07-20 17:17,Technical,Low,Resolved,6.1,13.0,AGT-08,3,Export to CSV fails
+TKT-0374,2026-07-21 08:28,Technical,High,Resolved,0.7,1.7,AGT-10,4,API timeout in production
+TKT-0519,2026-07-21 08:58,Technical,Low,Resolved,7.3,7.5,AGT-10,4,Login failure after update
+TKT-0969,2026-07-21 09:49,Technical,High,Resolved,0.9,8.2,AGT-09,5,Two-factor code not arriving
+TKT-1746,2026-07-21 10:57,Technical,High,Resolved,1.1,6.5,AGT-05,4,Two-factor code not arriving
+TKT-0028,2026-07-21 15:20,Technical,Medium,Resolved,1.9,4.1,AGT-04,4,Dashboard not loading
+TKT-0499,2026-07-22 07:54,General,High,Resolved,0.7,5.6,AGT-08,4,How to change account owner
+TKT-1091,2026-07-22 12:18,General,Medium,Resolved,5.4,13.0,AGT-03,4,Request for product docs
+TKT-1089,2026-07-22 12:53,General,Low,Resolved,7.6,11.1,AGT-01,5,Feature request: dark mode
+TKT-0864,2026-07-22 16:04,General,Medium,Resolved,4.6,4.8,AGT-07,3,How to change account owner
+TKT-0048,2026-07-23 05:22,Billing,High,Resolved,1.8,9.7,AGT-04,4,Incorrect charge on invoice
+TKT-1627,2026-07-23 09:51,Billing,Low,Resolved,2.1,4.2,AGT-09,4,Double payment on subscription
+TKT-1154,2026-07-23 11:40,Billing,Medium,Resolved,0.4,3.8,AGT-01,4,Refund not processed
+TKT-1499,2026-07-23 13:44,Billing,Medium,Resolved,2.1,14.5,AGT-01,4,Coupon code not applied
+TKT-0229,2026-07-24 09:55,Technical,High,Resolved,0.5,6.2,AGT-06,5,Login failure after update
+TKT-1321,2026-07-24 11:55,Technical,High,Resolved,1.3,3.6,AGT-05,3,Login failure after update
+TKT-1936,2026-07-24 14:15,Technical,Medium,Resolved,2.8,5.1,AGT-10,4,Export to CSV fails
+TKT-1302,2026-07-24 17:19,Billing,High,Resolved,1.1,2.1,AGT-07,4,Incorrect charge on invoice
+TKT-1510,2026-07-24 17:49,Billing,High,Resolved,0.3,2.0,AGT-06,5,Incorrect charge on invoice
+TKT-1774,2026-07-25 07:19,Technical,Medium,Resolved,3.8,4.0,AGT-04,5,Login failure after update
+TKT-1408,2026-07-25 07:22,Billing,Medium,Resolved,4.4,7.5,AGT-11,5,Incorrect charge on invoice
+TKT-1867,2026-07-25 09:20,General,Critical,Resolved,0.4,3.4,AGT-06,5,Request for product docs
+TKT-1639,2026-07-25 16:15,Technical,Critical,Resolved,0.6,2.6,AGT-11,4,Dashboard not loading
+TKT-1082,2026-07-26 07:56,Technical,Medium,Resolved,0.8,6.4,AGT-06,3,API timeout in production
+TKT-0611,2026-07-26 11:24,Billing,High,Resolved,1.6,6.9,AGT-02,5,Coupon code not applied
+TKT-0540,2026-07-26 11:53,General,Medium,Resolved,2.9,11.6,AGT-06,4,How to change account owner
+TKT-0888,2026-07-26 12:16,Technical,Low,Resolved,1.3,11.7,AGT-10,4,Login failure after update
+TKT-1615,2026-07-26 15:29,Billing,High,Resolved,0.3,2.4,AGT-04,5,Invoice missing GST details
+TKT-1905,2026-07-26 16:59,General,High,Resolved,1.3,10.5,AGT-01,4,How to change account owner
+TKT-0445,2026-07-26 17:54,Technical,Medium,Resolved,2.2,9.6,AGT-08,3,Login failure after update
+TKT-0227,2026-07-27 10:38,General,High,Resolved,0.5,4.0,AGT-03,4,Update company address
+TKT-1862,2026-07-27 12:24,Billing,High,Resolved,0.4,3.6,AGT-06,3,Double payment on subscription
+TKT-1678,2026-07-27 13:56,General,Low,Resolved,1.5,21.2,AGT-03,5,Question about data retention
+TKT-0368,2026-07-27 14:08,Technical,Low,Resolved,1.6,4.3,AGT-03,5,Dashboard not loading
+TKT-0325,2026-07-27 15:38,Billing,Medium,Resolved,4.6,4.8,AGT-12,5,Invoice missing GST details
+TKT-0206,2026-07-28 12:57,Billing,High,Resolved,0.8,6.4,AGT-09,4,Card declined at renewal
+TKT-0737,2026-07-28 13:26,General,High,Resolved,0.7,7.8,AGT-02,3,Request for product docs
+TKT-1859,2026-07-28 13:48,Billing,High,Resolved,1.0,6.4,AGT-05,3,Invoice missing GST details
+TKT-1150,2026-07-28 14:28,Billing,Medium,Resolved,4.4,130.7,AGT-02,4,Invoice missing GST details
+TKT-0637,2026-07-28 14:51,Billing,Low,Resolved,9.6,9.8,AGT-11,5,Refund not processed
+TKT-1381,2026-07-28 18:29,Billing,Low,Resolved,2.9,7.1,AGT-01,5,Double payment on subscription
+TKT-0235,2026-07-29 10:30,Billing,Medium,Resolved,1.8,4.5,AGT-05,4,Invoice missing GST details
+TKT-1008,2026-07-29 13:41,Billing,Low,Resolved,2.2,5.1,AGT-04,5,Coupon code not applied
+TKT-0387,2026-07-29 14:19,Technical,Low,Resolved,1.8,53.6,AGT-06,3,Dashboard not loading
+TKT-0520,2026-07-29 15:29,General,Low,Resolved,2.9,46.2,AGT-02,4,Question about data retention
+TKT-0884,2026-07-29 17:56,Technical,Medium,Resolved,1.1,1.9,AGT-12,5,Webhook events delayed
+TKT-1592,2026-07-29 20:57,Billing,Low,Resolved,1.9,16.4,AGT-02,3,Invoice missing GST details
+TKT-0238,2026-07-30 06:39,Technical,High,Resolved,1.4,5.4,AGT-03,5,API timeout in production
+TKT-1409,2026-07-30 15:20,Technical,High,Resolved,0.6,18.2,AGT-08,3,Dashboard not loading
+TKT-0680,2026-07-30 15:37,Technical,Critical,Resolved,0.6,4.3,AGT-01,5,API timeout in production
+TKT-1169,2026-07-30 16:16,Billing,High,Resolved,1.9,31.1,AGT-08,4,Refund not processed
+TKT-0679,2026-07-31 06:50,Billing,Medium,Resolved,2.5,2.7,AGT-06,5,Double payment on subscription
+TKT-0661,2026-07-31 12:17,Technical,Medium,Resolved,0.7,2.1,AGT-05,5,Webhook events delayed
+TKT-0163,2026-08-01 04:52,Technical,Low,Resolved,4.6,11.8,AGT-12,5,Login failure after update
+TKT-1572,2026-08-01 07:07,Billing,High,Resolved,0.9,4.4,AGT-08,3,Refund not processed
+TKT-1917,2026-08-01 08:45,Billing,Medium,Resolved,3.8,13.6,AGT-03,5,Incorrect charge on invoice
+TKT-1826,2026-08-01 10:00,Technical,Low,Resolved,2.5,9.5,AGT-04,4,Dashboard not loading
+TKT-0144,2026-08-01 10:22,Technical,Low,Resolved,4.5,24.0,AGT-05,4,Two-factor code not arriving
+TKT-0326,2026-08-01 12:07,Technical,High,Resolved,1.2,3.8,AGT-10,4,Login failure after update
+TKT-0443,2026-08-01 12:16,Billing,High,Resolved,0.8,2.1,AGT-04,4,Coupon code not applied
+TKT-0017,2026-08-01 14:14,Technical,Medium,Resolved,1.7,7.5,AGT-11,5,Two-factor code not arriving
+TKT-1054,2026-08-01 15:18,Technical,High,Resolved,0.6,3.1,AGT-12,5,Dashboard not loading
+TKT-0508,2026-08-01 16:04,Technical,Medium,Resolved,3.2,3.5,AGT-11,5,Export to CSV fails
+TKT-0599,2026-08-01 16:36,Technical,Low,Resolved,4.0,7.5,AGT-07,5,Login failure after update
+TKT-1613,2026-08-01 20:33,General,Critical,Resolved,0.3,1.0,AGT-10,5,Question about data retention
+TKT-1912,2026-08-02 10:08,Billing,Medium,Resolved,1.8,79.2,AGT-10,4,Refund not processed
+TKT-1532,2026-08-02 10:53,Technical,High,Resolved,1.2,11.2,AGT-07,5,Login failure after update
+TKT-1463,2026-08-02 14:59,Technical,Low,Resolved,2.1,2.9,AGT-01,4,Dashboard not loading
+TKT-1052,2026-08-02 17:34,Billing,Medium,Resolved,3.6,14.6,AGT-01,5,Card declined at renewal
+TKT-1754,2026-08-02 19:02,Billing,Medium,Resolved,4.8,9.7,AGT-03,5,Refund not processed
+TKT-0263,2026-08-03 09:29,General,Low,Resolved,1.7,7.3,AGT-06,4,Request for product docs
+TKT-1884,2026-08-03 10:15,General,Medium,Resolved,1.5,23.0,AGT-07,4,Feature request: dark mode
+TKT-0154,2026-08-03 10:35,General,Low,Resolved,2.0,2.2,AGT-12,4,Update company address
+TKT-0059,2026-08-03 11:02,Technical,Medium,Resolved,0.8,11.6,AGT-05,4,Login failure after update
+TKT-1830,2026-08-03 13:58,Technical,High,Resolved,0.6,1.3,AGT-09,5,Export to CSV fails
+TKT-1671,2026-08-03 21:22,Billing,Medium,Resolved,3.8,16.6,AGT-02,4,Incorrect charge on invoice
+TKT-1923,2026-08-04 08:04,Billing,Medium,Resolved,2.7,5.8,AGT-04,4,Double payment on subscription
+TKT-1631,2026-08-04 08:20,General,Medium,Resolved,3.0,3.2,AGT-02,3,Feature request: dark mode
+TKT-0913,2026-08-04 10:15,Billing,Low,Resolved,4.7,27.7,AGT-08,3,Double payment on subscription
+TKT-0726,2026-08-04 13:49,General,Low,Resolved,1.0,13.5,AGT-09,4,How to change account owner
+TKT-0823,2026-08-04 14:32,Billing,Medium,Resolved,1.6,9.4,AGT-07,4,Invoice missing GST details
+TKT-0937,2026-08-05 02:19,Billing,Medium,Resolved,5.5,5.7,AGT-06,4,Card declined at renewal
+TKT-0509,2026-08-05 08:11,General,Medium,Resolved,1.1,5.4,AGT-12,5,How to change account owner
+TKT-1205,2026-08-05 09:29,Technical,Medium,Resolved,2.7,8.7,AGT-11,5,Login failure after update
+TKT-1513,2026-08-05 10:32,Billing,Medium,Resolved,4.5,71.9,AGT-09,4,Refund not processed
+TKT-0512,2026-08-05 10:50,Technical,Critical,Resolved,0.4,4.1,AGT-07,4,Webhook events delayed
+TKT-0034,2026-08-05 11:14,Technical,Medium,Resolved,0.9,3.7,AGT-10,4,Webhook events delayed
+TKT-1022,2026-08-05 11:25,Technical,Critical,Resolved,0.7,2.6,AGT-11,4,Dashboard not loading
+TKT-0860,2026-08-05 18:10,Technical,Medium,Resolved,1.4,12.0,AGT-06,3,Two-factor code not arriving
+TKT-1382,2026-08-05 18:29,Technical,Medium,Resolved,3.6,5.4,AGT-06,4,API timeout in production
+TKT-0366,2026-08-06 09:23,Billing,High,Resolved,0.4,18.5,AGT-03,4,Coupon code not applied
+TKT-1457,2026-08-06 09:38,Technical,Low,Resolved,2.0,14.6,AGT-06,4,Two-factor code not arriving
+TKT-1989,2026-08-06 10:36,Billing,High,Resolved,1.3,12.6,AGT-11,4,Incorrect charge on invoice
+TKT-1946,2026-08-06 10:37,Technical,High,Resolved,0.9,4.5,AGT-04,5,Two-factor code not arriving
+TKT-0249,2026-08-06 10:58,Technical,Low,Resolved,6.3,6.5,AGT-03,5,Two-factor code not arriving
+TKT-0158,2026-08-06 13:12,Billing,Low,Resolved,3.6,13.6,AGT-06,1,Refund not processed
+TKT-1984,2026-08-06 14:03,Billing,Low,Resolved,3.0,3.2,AGT-03,4,Card declined at renewal
+TKT-0333,2026-08-06 15:48,General,High,Resolved,0.5,2.0,AGT-11,5,Feature request: dark mode
+TKT-0914,2026-08-07 09:01,Technical,Medium,Resolved,1.5,11.2,AGT-09,5,Two-factor code not arriving
+TKT-1653,2026-08-07 09:32,Technical,High,Resolved,0.7,6.1,AGT-12,5,Dashboard not loading
+TKT-1080,2026-08-07 10:53,General,Medium,Resolved,7.5,12.0,AGT-08,2,How to change account owner
+TKT-1551,2026-08-07 11:06,Technical,Medium,Resolved,0.7,6.6,AGT-07,5,Export to CSV fails
+TKT-1500,2026-08-07 15:40,Technical,High,Resolved,0.6,2.7,AGT-05,3,Webhook events delayed
+TKT-1674,2026-08-07 17:30,Billing,Medium,Resolved,2.6,6.1,AGT-05,4,Incorrect charge on invoice
+TKT-0433,2026-08-07 20:48,Technical,Low,Resolved,5.1,14.1,AGT-02,5,Two-factor code not arriving
+TKT-0728,2026-08-08 11:24,Technical,High,Resolved,0.6,3.8,AGT-02,4,Export to CSV fails
+TKT-1911,2026-08-08 11:50,Technical,Critical,Resolved,0.3,1.6,AGT-10,5,Export to CSV fails
+TKT-1583,2026-08-08 13:09,Technical,Low,Resolved,1.8,5.7,AGT-12,5,Export to CSV fails
+TKT-0951,2026-08-08 15:33,Billing,High,Resolved,2.5,2.7,AGT-04,5,Coupon code not applied
+TKT-0498,2026-08-08 20:20,Technical,Critical,Resolved,1.0,1.2,AGT-01,5,API timeout in production
+TKT-0384,2026-08-09 06:56,General,High,Resolved,1.3,7.2,AGT-07,5,Question about data retention
+TKT-1039,2026-08-09 10:41,Technical,Low,Resolved,5.0,47.2,AGT-02,4,API timeout in production
+TKT-0504,2026-08-09 13:24,Technical,Medium,Resolved,7.7,16.4,AGT-06,3,Dashboard not loading
+TKT-1588,2026-08-09 13:42,Technical,Low,Resolved,1.5,4.4,AGT-01,4,Export to CSV fails
+TKT-0810,2026-08-09 14:03,Technical,Medium,Resolved,4.1,7.5,AGT-08,3,Login failure after update
+TKT-0900,2026-08-09 17:59,General,Medium,Resolved,4.8,36.2,AGT-08,2,Update company address
+TKT-1939,2026-08-09 19:24,Billing,Low,Resolved,1.0,5.8,AGT-04,5,Card declined at renewal
+TKT-0596,2026-08-10 07:54,Billing,High,Resolved,2.2,6.0,AGT-05,5,Coupon code not applied
+TKT-1066,2026-08-10 08:10,General,Medium,Resolved,2.6,10.7,AGT-11,4,Feature request: dark mode
+TKT-1163,2026-08-10 11:50,Technical,High,Resolved,1.2,5.0,AGT-06,4,Two-factor code not arriving
+TKT-0094,2026-08-10 12:11,General,Medium,Resolved,1.5,14.4,AGT-04,5,Feature request: dark mode
+TKT-0305,2026-08-10 15:47,Technical,High,Resolved,1.0,11.4,AGT-05,5,Login failure after update
+TKT-0282,2026-08-10 16:29,General,High,Resolved,0.8,4.0,AGT-08,3,Request for product docs
+TKT-0745,2026-08-10 19:43,Billing,Low,Resolved,2.5,13.5,AGT-07,4,Double payment on subscription
+TKT-0217,2026-08-10 19:51,Billing,Low,Resolved,4.3,9.1,AGT-11,4,Coupon code not applied
+TKT-0438,2026-08-10 20:48,Technical,Critical,Resolved,0.7,13.0,AGT-08,3,API timeout in production
+TKT-0658,2026-08-11 06:49,Technical,Critical,Resolved,0.4,4.0,AGT-12,5,Login failure after update
+TKT-0697,2026-08-11 07:20,Technical,Low,Resolved,5.0,102.8,AGT-08,3,Two-factor code not arriving
+TKT-1504,2026-08-11 13:45,Billing,High,Resolved,1.2,2.0,AGT-03,5,Refund not processed
+TKT-1421,2026-08-11 15:03,Billing,High,Resolved,2.1,15.6,AGT-06,4,Refund not processed
+TKT-1812,2026-08-11 18:10,Technical,Low,Resolved,1.8,8.8,AGT-11,5,Login failure after update
+TKT-1795,2026-08-12 12:25,Technical,Medium,Resolved,2.8,5.5,AGT-09,5,Dashboard not loading
+TKT-0799,2026-08-12 13:44,Technical,Low,Resolved,2.0,12.1,AGT-08,3,API timeout in production
+TKT-0580,2026-08-12 15:49,Technical,Low,Resolved,3.9,4.1,AGT-02,4,API timeout in production
+TKT-1334,2026-08-12 17:47,Billing,High,Resolved,0.8,2.8,AGT-01,4,Double payment on subscription
+TKT-1318,2026-08-12 22:00,Technical,Medium,Resolved,2.5,10.0,AGT-06,5,Login failure after update
+TKT-0419,2026-08-13 12:21,Technical,Low,Resolved,4.1,18.2,AGT-11,4,Webhook events delayed
+TKT-0646,2026-08-13 13:40,General,High,Resolved,1.0,6.5,AGT-11,4,Need onboarding session
+TKT-1902,2026-08-13 14:04,Billing,Medium,Resolved,0.9,6.7,AGT-12,5,Card declined at renewal
+TKT-0924,2026-08-13 15:06,Technical,Medium,Resolved,3.4,16.0,AGT-08,3,Webhook events delayed
+TKT-1871,2026-08-13 16:24,Technical,Medium,Resolved,1.0,1.9,AGT-08,4,Export to CSV fails
+TKT-1621,2026-08-13 16:38,Billing,High,Resolved,0.8,4.1,AGT-01,4,Refund not processed
+TKT-0390,2026-08-13 17:21,Billing,Critical,Resolved,0.7,9.9,AGT-10,5,Card declined at renewal
+TKT-1982,2026-08-14 08:33,Billing,Low,Resolved,1.9,2.7,AGT-11,4,Refund not processed
+TKT-1752,2026-08-14 08:54,Technical,Medium,Resolved,3.7,4.5,AGT-11,5,Export to CSV fails
+TKT-0921,2026-08-14 09:14,Billing,High,Resolved,0.3,9.3,AGT-01,4,Invoice missing GST details
+TKT-0050,2026-08-14 12:59,Billing,High,Resolved,0.6,4.6,AGT-07,4,Double payment on subscription
+TKT-0681,2026-08-14 13:27,General,Medium,Resolved,1.6,21.7,AGT-06,4,How to change account owner
+TKT-0410,2026-08-14 14:10,Billing,Low,Resolved,4.4,19.6,AGT-08,3,Coupon code not applied
+TKT-0197,2026-08-15 07:23,Technical,High,Resolved,2.0,5.3,AGT-05,4,Dashboard not loading
+TKT-0981,2026-08-15 10:56,General,Low,Resolved,1.1,7.1,AGT-03,5,Feature request: dark mode
+TKT-0133,2026-08-15 12:02,Billing,Medium,Resolved,2.8,14.0,AGT-08,3,Coupon code not applied
+TKT-0735,2026-08-15 12:36,Billing,High,Resolved,0.3,5.9,AGT-06,4,Double payment on subscription
+TKT-1606,2026-08-15 14:36,Technical,Medium,Resolved,2.4,2.7,AGT-11,5,Two-factor code not arriving
+TKT-1781,2026-08-15 16:03,General,High,Resolved,1.1,10.0,AGT-02,4,Feature request: dark mode
+TKT-1214,2026-08-16 09:30,Billing,Low,Resolved,1.2,42.7,AGT-10,4,Refund not processed
+TKT-0850,2026-08-16 09:56,Billing,Medium,Resolved,1.5,17.6,AGT-06,5,Coupon code not applied
+TKT-0412,2026-08-16 10:38,Technical,High,Resolved,2.2,7.2,AGT-07,3,Dashboard not loading
+TKT-1904,2026-08-16 15:38,Billing,Low,Resolved,10.0,10.2,AGT-07,3,Invoice missing GST details
+TKT-1586,2026-08-16 16:58,Technical,High,Resolved,0.9,6.3,AGT-04,4,Login failure after update
+TKT-1581,2026-08-16 18:12,Billing,High,Resolved,0.6,10.9,AGT-04,4,Invoice missing GST details
+TKT-1852,2026-08-17 09:47,Technical,Medium,Resolved,2.6,4.3,AGT-10,4,Export to CSV fails
+TKT-0760,2026-08-17 10:07,General,Low,Resolved,4.6,20.7,AGT-08,2,How to change account owner
+TKT-0362,2026-08-17 10:12,Technical,Low,Resolved,1.2,6.4,AGT-12,5,Two-factor code not arriving
+TKT-0759,2026-08-17 12:20,Technical,High,Resolved,0.7,3.6,AGT-04,5,Login failure after update
+TKT-1595,2026-08-17 13:38,Billing,Medium,Resolved,1.3,5.2,AGT-02,5,Coupon code not applied
+TKT-0394,2026-08-17 14:25,Billing,High,Resolved,1.7,1.9,AGT-12,5,Incorrect charge on invoice
+TKT-1026,2026-08-18 08:04,Billing,High,Resolved,0.7,3.3,AGT-04,4,Card declined at renewal
+TKT-1319,2026-08-18 10:22,Technical,Low,Resolved,2.2,15.8,AGT-07,5,API timeout in production
+TKT-0700,2026-08-18 10:27,Technical,Critical,Resolved,1.0,2.2,AGT-12,5,API timeout in production
+TKT-1922,2026-08-18 11:02,Technical,High,Resolved,0.7,11.7,AGT-08,4,Export to CSV fails
+TKT-0922,2026-08-18 11:03,General,Medium,Resolved,4.2,8.0,AGT-08,2,Need onboarding session
+TKT-0754,2026-08-18 12:14,Technical,High,Resolved,0.8,6.2,AGT-03,5,Login failure after update
+TKT-0174,2026-08-18 13:57,General,Low,Resolved,3.4,5.5,AGT-09,5,Need onboarding session
+TKT-1133,2026-08-18 14:44,Billing,Medium,Resolved,0.5,6.4,AGT-11,4,Card declined at renewal
+TKT-0473,2026-08-18 14:47,General,Low,Resolved,3.3,6.5,AGT-03,5,Need onboarding session
+TKT-0289,2026-08-18 15:19,General,High,Resolved,1.8,3.6,AGT-01,4,Need onboarding session
+TKT-0839,2026-08-18 16:15,General,Low,Resolved,1.8,18.2,AGT-12,5,Feature request: dark mode
+TKT-0702,2026-08-19 07:44,Billing,Low,Resolved,2.6,18.6,AGT-10,5,Coupon code not applied
+TKT-0996,2026-08-19 08:18,Technical,Medium,Resolved,4.2,14.3,AGT-07,4,Two-factor code not arriving
+TKT-0514,2026-08-19 10:49,General,Low,Resolved,3.9,31.3,AGT-06,3,Question about data retention
+TKT-0341,2026-08-19 17:09,Billing,Critical,Resolved,0.4,5.4,AGT-03,5,Invoice missing GST details
+TKT-1297,2026-08-20 02:16,General,High,Resolved,0.9,10.6,AGT-09,4,How to change account owner
+TKT-0096,2026-08-20 09:48,General,Medium,Resolved,0.9,89.8,AGT-06,4,Need onboarding session
+TKT-1192,2026-08-20 10:01,General,High,Resolved,1.7,5.0,AGT-09,1,Request for product docs
+TKT-0477,2026-08-20 12:36,Technical,Critical,Resolved,1.8,4.1,AGT-12,5,Two-factor code not arriving
+TKT-1555,2026-08-20 13:30,Technical,Low,Resolved,0.9,6.7,AGT-12,5,Export to CSV fails
+TKT-0849,2026-08-20 18:27,Technical,High,Resolved,2.2,10.9,AGT-10,4,Export to CSV fails
+TKT-1442,2026-08-21 06:29,Technical,Low,Resolved,3.0,7.6,AGT-09,4,API timeout in production
+TKT-0784,2026-08-21 10:47,Technical,Medium,Resolved,2.2,11.6,AGT-11,5,Two-factor code not arriving
+TKT-1843,2026-08-21 14:02,Billing,Medium,Resolved,4.1,8.5,AGT-05,4,Coupon code not applied
+TKT-1465,2026-08-21 15:35,Billing,High,Resolved,0.2,24.5,AGT-03,5,Incorrect charge on invoice
+TKT-1514,2026-08-21 15:40,Billing,Low,Resolved,2.0,6.3,AGT-09,3,Invoice missing GST details
+TKT-1792,2026-08-21 16:23,General,High,Resolved,0.7,8.2,AGT-08,3,Feature request: dark mode
+TKT-1460,2026-08-21 16:29,General,Medium,Resolved,2.9,3.1,AGT-03,5,How to change account owner
+TKT-0298,2026-08-22 10:54,General,High,Resolved,0.6,7.8,AGT-11,5,Update company address
+TKT-0286,2026-08-22 12:49,Technical,Medium,Resolved,2.6,12.3,AGT-04,4,Webhook events delayed
+TKT-1248,2026-08-22 13:31,Technical,High,Resolved,0.5,121.5,AGT-12,4,Dashboard not loading
+TKT-1203,2026-08-22 13:49,Billing,Low,Resolved,1.9,15.4,AGT-09,4,Coupon code not applied
+TKT-0456,2026-08-22 13:49,Technical,High,Resolved,0.5,5.4,AGT-05,4,Login failure after update
+TKT-0559,2026-08-23 07:05,Billing,Medium,Resolved,1.2,17.9,AGT-02,5,Invoice missing GST details
+TKT-1706,2026-08-23 07:48,General,Medium,Resolved,3.1,27.7,AGT-08,3,Feature request: dark mode
+TKT-1831,2026-08-23 08:11,Technical,Low,Resolved,1.2,6.8,AGT-06,4,Dashboard not loading
+TKT-0794,2026-08-23 08:27,Technical,Low,Resolved,3.3,15.2,AGT-08,3,Webhook events delayed
+TKT-1803,2026-08-23 10:41,Technical,Medium,Resolved,2.5,5.6,AGT-12,5,Two-factor code not arriving
+TKT-0147,2026-08-23 12:03,Technical,Critical,Resolved,1.2,6.8,AGT-04,3,Login failure after update
+TKT-0492,2026-08-23 13:22,General,Critical,Resolved,0.3,3.3,AGT-08,3,Feature request: dark mode
+TKT-1142,2026-08-23 14:56,Billing,High,Resolved,0.3,136.8,AGT-11,4,Card declined at renewal
+TKT-0436,2026-08-23 17:47,Technical,Critical,Resolved,0.5,5.4,AGT-04,5,Webhook events delayed
+TKT-1412,2026-08-24 06:08,Technical,Low,Resolved,1.0,3.1,AGT-06,3,API timeout in production
+TKT-1426,2026-08-24 09:58,Technical,Low,Resolved,1.1,102.2,AGT-12,5,Two-factor code not arriving
+TKT-0234,2026-08-24 12:20,Billing,Critical,Resolved,0.9,1.3,AGT-06,4,Refund not processed
+TKT-1335,2026-08-24 13:11,Technical,High,Resolved,1.7,6.6,AGT-01,4,Two-factor code not arriving
+TKT-1265,2026-08-24 16:17,General,Low,Resolved,2.6,17.2,AGT-08,2,Request for product docs
+TKT-0556,2026-08-24 20:01,General,Medium,Resolved,2.5,3.4,AGT-12,5,Need onboarding session
+TKT-0867,2026-08-25 05:52,Technical,Medium,Resolved,7.7,15.2,AGT-01,4,Webhook events delayed
+TKT-1764,2026-08-25 10:05,Technical,Medium,Resolved,0.8,4.7,AGT-04,5,API timeout in production
+TKT-1714,2026-08-25 12:46,General,Critical,Resolved,0.8,4.3,AGT-03,5,Request for product docs
+TKT-0564,2026-08-25 13:49,Technical,Medium,Resolved,3.5,3.7,AGT-03,5,Webhook events delayed
+TKT-1856,2026-08-25 14:43,Technical,Medium,Resolved,0.7,6.0,AGT-11,5,Two-factor code not arriving
+TKT-0194,2026-08-26 12:35,General,Medium,Resolved,3.9,4.1,AGT-09,5,Request for product docs
+TKT-1818,2026-08-26 14:57,Billing,Medium,Resolved,1.9,22.6,AGT-04,5,Incorrect charge on invoice
+TKT-0063,2026-08-26 16:24,Billing,Medium,Resolved,2.3,9.2,AGT-10,4,Incorrect charge on invoice
+TKT-0352,2026-08-27 06:25,Billing,High,Resolved,0.7,6.8,AGT-08,2,Card declined at renewal
+TKT-0927,2026-08-27 08:56,Billing,Low,Resolved,3.6,11.6,AGT-04,5,Card declined at renewal
+TKT-0557,2026-08-27 09:38,Billing,Medium,Resolved,3.5,9.3,AGT-05,4,Incorrect charge on invoice
+TKT-0219,2026-08-27 09:45,General,High,Resolved,1.2,1.7,AGT-06,3,How to change account owner
+TKT-0767,2026-08-27 10:17,Technical,High,Resolved,2.2,4.6,AGT-09,3,Dashboard not loading
+TKT-0953,2026-08-27 11:35,Technical,Low,Resolved,2.8,7.8,AGT-02,4,Webhook events delayed
+TKT-0676,2026-08-27 12:10,General,High,Resolved,1.5,10.8,AGT-07,4,Update company address
+TKT-0650,2026-08-27 14:18,Billing,High,Resolved,0.5,8.7,AGT-10,4,Coupon code not applied
+TKT-1666,2026-08-27 18:03,Technical,High,Resolved,0.7,4.8,AGT-01,1,Dashboard not loading
+TKT-0109,2026-08-28 07:35,Billing,Medium,Resolved,1.0,13.6,AGT-11,5,Incorrect charge on invoice
+TKT-0886,2026-08-28 14:00,Technical,Low,Resolved,3.0,5.4,AGT-12,5,Webhook events delayed
+TKT-0009,2026-08-28 14:09,Billing,Medium,Resolved,1.2,66.8,AGT-12,5,Coupon code not applied
+TKT-0335,2026-08-28 14:24,Technical,Low,Resolved,3.2,8.2,AGT-11,4,Webhook events delayed
+TKT-0802,2026-08-28 15:49,Technical,Critical,Resolved,0.3,6.6,AGT-06,5,Webhook events delayed
+TKT-1609,2026-08-28 17:56,Billing,Critical,Resolved,1.6,1.8,AGT-11,5,Double payment on subscription
+TKT-1519,2026-08-29 05:19,Billing,Medium,Resolved,2.1,13.6,AGT-04,5,Invoice missing GST details
+TKT-0671,2026-08-29 10:34,Technical,Low,Resolved,2.4,14.2,AGT-07,4,Export to CSV fails
+TKT-0704,2026-08-29 11:07,Technical,High,Resolved,0.9,5.6,AGT-07,4,Dashboard not loading
+TKT-1507,2026-08-29 12:35,Technical,Medium,Resolved,1.3,9.3,AGT-11,4,Export to CSV fails
+TKT-1907,2026-08-29 14:03,Billing,Medium,Resolved,0.2,2.8,AGT-12,5,Refund not processed
+TKT-1697,2026-08-29 14:16,Billing,Low,Resolved,5.6,7.2,AGT-03,4,Refund not processed
+TKT-1785,2026-08-29 16:06,Technical,Critical,Resolved,0.8,4.4,AGT-09,3,Dashboard not loading
+TKT-0148,2026-08-29 19:11,Technical,Medium,Resolved,3.2,3.4,AGT-12,5,Dashboard not loading
+TKT-0857,2026-08-30 13:18,Technical,Critical,Resolved,0.5,3.2,AGT-06,4,API timeout in production
+TKT-0172,2026-08-30 13:38,Billing,Low,Resolved,4.9,6.7,AGT-04,5,Invoice missing GST details
+TKT-0729,2026-08-30 13:54,Billing,Medium,Resolved,1.1,22.7,AGT-02,4,Refund not processed
+TKT-0222,2026-08-31 08:22,General,Critical,Resolved,0.6,14.9,AGT-02,2,How to change account owner
+TKT-1098,2026-08-31 12:52,Billing,High,Resolved,0.4,11.4,AGT-09,5,Refund not processed
+TKT-0407,2026-08-31 13:19,General,Medium,Resolved,2.2,9.5,AGT-04,5,How to change account owner
+TKT-0654,2026-08-31 13:30,Technical,Low,Resolved,3.2,24.3,AGT-02,4,Export to CSV fails
+TKT-0256,2026-08-31 14:08,Technical,Low,Resolved,3.0,50.1,AGT-02,3,API timeout in production
+TKT-1337,2026-08-31 14:16,General,High,Resolved,0.3,3.0,AGT-03,5,Question about data retention
+TKT-1232,2026-08-31 15:45,Billing,High,Resolved,0.8,3.5,AGT-02,4,Invoice missing GST details
+TKT-1304,2026-08-31 16:52,Technical,High,Resolved,0.7,26.1,AGT-02,4,Login failure after update
+TKT-1827,2026-09-01 13:22,Technical,Medium,Resolved,1.8,6.2,AGT-04,5,Webhook events delayed
+TKT-0415,2026-09-01 14:37,Billing,High,Resolved,1.4,7.1,AGT-04,5,Refund not processed
+TKT-1072,2026-09-01 15:41,General,Low,Resolved,3.0,11.3,AGT-07,3,Request for product docs
+TKT-0193,2026-09-02 06:19,Technical,Medium,Resolved,1.1,1.9,AGT-07,3,Export to CSV fails
+TKT-1003,2026-09-02 11:02,Technical,Medium,Resolved,3.3,10.1,AGT-04,3,API timeout in production
+TKT-1564,2026-09-02 11:52,Technical,Medium,Resolved,2.3,5.3,AGT-12,5,Webhook events delayed
+TKT-0103,2026-09-02 12:28,Technical,Low,Resolved,3.4,46.2,AGT-11,3,API timeout in production
+TKT-1547,2026-09-02 15:23,General,Medium,Resolved,2.6,10.4,AGT-12,4,Feature request: dark mode
+TKT-1887,2026-09-03 08:35,Billing,High,Resolved,1.8,7.9,AGT-04,4,Refund not processed
+TKT-1191,2026-09-03 10:50,Technical,Medium,Resolved,1.8,6.3,AGT-09,5,Login failure after update
+TKT-1229,2026-09-03 14:31,General,High,Resolved,3.1,3.3,AGT-09,5,Question about data retention
+TKT-0045,2026-09-03 15:09,General,Medium,Resolved,7.2,7.4,AGT-10,3,Feature request: dark mode
+TKT-1031,2026-09-03 15:11,Technical,High,Resolved,3.2,4.7,AGT-02,4,Two-factor code not arriving
+TKT-0998,2026-09-04 06:22,Billing,Medium,Resolved,1.0,6.4,AGT-01,4,Invoice missing GST details
+TKT-1810,2026-09-04 10:58,Billing,Low,Resolved,2.1,3.4,AGT-01,4,Card declined at renewal
+TKT-1929,2026-09-04 13:04,Billing,Low,Resolved,2.2,11.7,AGT-02,3,Incorrect charge on invoice
+TKT-0635,2026-09-04 13:16,Technical,Medium,Resolved,0.5,3.7,AGT-12,5,Export to CSV fails
+TKT-0875,2026-09-05 15:21,General,Medium,Resolved,1.1,3.9,AGT-05,4,Question about data retention
+TKT-1011,2026-09-06 08:14,General,Critical,Resolved,0.8,3.0,AGT-08,3,Need onboarding session
+TKT-1338,2026-09-06 11:59,Technical,Low,Resolved,1.5,4.4,AGT-10,4,Webhook events delayed
+TKT-0494,2026-09-06 12:57,General,Medium,Resolved,0.9,16.9,AGT-12,4,Need onboarding session
+TKT-1745,2026-09-06 13:37,General,Medium,Resolved,0.7,6.7,AGT-09,4,Update company address
+TKT-0363,2026-09-06 14:29,Billing,High,Resolved,0.4,1.0,AGT-12,5,Invoice missing GST details
+TKT-0021,2026-09-06 15:52,Technical,Medium,Resolved,2.9,3.1,AGT-04,5,Two-factor code not arriving
+TKT-1432,2026-09-07 09:50,Technical,High,Resolved,1.4,16.6,AGT-08,3,Export to CSV fails
+TKT-0255,2026-09-07 13:18,General,Medium,Resolved,1.4,13.0,AGT-05,5,Need onboarding session
+TKT-0012,2026-09-07 16:02,Technical,Low,Resolved,2.9,3.1,AGT-02,1,Two-factor code not arriving
+TKT-1327,2026-09-08 11:16,Billing,Low,Resolved,2.3,4.9,AGT-09,4,Incorrect charge on invoice
+TKT-0595,2026-09-08 12:57,Billing,Medium,Resolved,6.5,13.3,AGT-01,4,Coupon code not applied
+TKT-1446,2026-09-08 13:21,Billing,High,Resolved,1.0,9.7,AGT-02,4,Double payment on subscription
+TKT-1978,2026-09-08 14:51,Technical,Medium,Resolved,1.7,13.0,AGT-06,1,Login failure after update
+TKT-1865,2026-09-08 15:33,General,High,Resolved,1.1,6.7,AGT-02,4,Need onboarding session
+TKT-1387,2026-09-08 18:10,Technical,Medium,Resolved,4.1,4.3,AGT-08,3,Export to CSV fails
+TKT-0126,2026-09-09 09:09,Technical,Low,Resolved,2.3,5.9,AGT-08,3,Login failure after update
+TKT-1112,2026-09-09 13:40,Technical,High,Resolved,0.8,3.9,AGT-11,5,Webhook events delayed
+TKT-1591,2026-09-09 14:38,Billing,Medium,Resolved,2.8,13.0,AGT-09,4,Double payment on subscription
+TKT-1777,2026-09-10 08:48,Technical,Medium,Resolved,5.9,6.1,AGT-10,4,Dashboard not loading
+TKT-1243,2026-09-10 10:18,Billing,Critical,Resolved,1.1,8.9,AGT-07,5,Coupon code not applied
+TKT-1002,2026-09-10 13:35,General,Medium,Resolved,1.0,7.4,AGT-01,5,How to change account owner
+TKT-0834,2026-09-10 13:57,Technical,High,Resolved,0.8,2.1,AGT-01,4,Two-factor code not arriving
+TKT-0518,2026-09-10 14:07,General,High,Resolved,1.2,2.1,AGT-10,5,Update company address
+TKT-0997,2026-09-10 15:41,Billing,Medium,Escalated,2.5,,AGT-04,,Double payment on subscription
+TKT-1955,2026-09-10 16:41,Billing,Medium,Resolved,0.7,7.0,AGT-09,4,Refund not processed
+TKT-0522,2026-09-11 11:01,General,Low,Resolved,1.2,13.3,AGT-05,3,Need onboarding session
+TKT-0874,2026-09-11 11:57,Technical,High,Escalated,1.3,,AGT-10,,Two-factor code not arriving
+TKT-0863,2026-09-11 13:02,Technical,Low,Resolved,7.0,12.2,AGT-07,3,Login failure after update
+TKT-1959,2026-09-11 17:58,Technical,Low,Open,3.0,,AGT-04,,Two-factor code not arriving
+TKT-0560,2026-09-12 09:44,Billing,Medium,Resolved,2.8,5.8,AGT-04,5,Invoice missing GST details
+TKT-1952,2026-09-12 10:23,Billing,High,Resolved,0.8,5.4,AGT-03,4,Card declined at renewal
+TKT-0675,2026-09-12 11:39,Technical,Critical,Resolved,0.9,2.3,AGT-06,4,Export to CSV fails
+TKT-1429,2026-09-12 11:45,Billing,Medium,Resolved,0.7,3.5,AGT-09,5,Incorrect charge on invoice
+TKT-0824,2026-09-12 11:56,Billing,Low,Open,1.5,,AGT-06,,Coupon code not applied
+TKT-1629,2026-09-12 12:18,Billing,Critical,Resolved,0.6,2.1,AGT-11,4,Card declined at renewal
+TKT-1440,2026-09-12 15:09,Billing,Low,Resolved,1.2,15.7,AGT-12,5,Card declined at renewal
+TKT-1618,2026-09-12 17:19,General,High,Resolved,1.0,3.8,AGT-03,5,Request for product docs
+TKT-0550,2026-09-13 05:31,General,Medium,Resolved,1.7,3.7,AGT-12,5,Request for product docs
+TKT-1246,2026-09-13 09:09,General,Low,Resolved,6.8,15.8,AGT-03,5,Need onboarding session
+TKT-1439,2026-09-13 10:47,Billing,High,Resolved,0.3,2.9,AGT-04,4,Double payment on subscription
+TKT-1494,2026-09-13 14:08,General,Critical,Resolved,0.5,5.8,AGT-09,5,Feature request: dark mode
+TKT-1262,2026-09-13 17:18,Technical,Low,Resolved,1.0,9.0,AGT-12,5,Two-factor code not arriving
+TKT-1502,2026-09-13 19:21,Billing,High,Resolved,0.8,7.5,AGT-04,4,Invoice missing GST details
+TKT-0328,2026-09-14 09:30,Billing,Low,Open,5.5,,AGT-08,,Incorrect charge on invoice
+TKT-1782,2026-09-14 10:34,Technical,Medium,Resolved,1.8,10.4,AGT-08,4,Two-factor code not arriving
+TKT-1086,2026-09-14 11:55,Technical,Medium,Open,0.4,,AGT-11,,Webhook events delayed
+TKT-0787,2026-09-14 12:29,Technical,Low,Resolved,7.9,19.8,AGT-11,5,API timeout in production
+TKT-0373,2026-09-14 14:58,Technical,Medium,Resolved,1.3,4.7,AGT-08,4,Two-factor code not arriving
+TKT-0032,2026-09-15 08:40,Billing,Low,Resolved,2.4,7.3,AGT-05,3,Coupon code not applied
+TKT-0538,2026-09-15 10:29,Technical,Medium,Resolved,1.3,7.2,AGT-12,4,Two-factor code not arriving
+TKT-0226,2026-09-15 10:43,Technical,Medium,Resolved,1.4,2.7,AGT-06,3,Login failure after update
+TKT-0878,2026-09-15 12:24,Technical,High,Open,1.2,,AGT-01,,Export to CSV fails
+TKT-1847,2026-09-15 12:35,Technical,Low,Resolved,7.7,31.9,AGT-06,3,Webhook events delayed
+TKT-0793,2026-09-15 13:15,Technical,Medium,Resolved,2.8,4.5,AGT-09,3,API timeout in production
+TKT-0995,2026-09-15 18:56,General,Critical,Resolved,1.6,11.2,AGT-06,4,Feature request: dark mode
+TKT-1075,2026-09-15 23:00,Technical,Medium,Resolved,1.3,7.6,AGT-01,5,Login failure after update
+TKT-0846,2026-09-16 09:55,General,Low,Resolved,1.4,6.3,AGT-10,3,How to change account owner
+TKT-1216,2026-09-16 13:36,Technical,Medium,Open,3.5,,AGT-10,,Webhook events delayed
+TKT-1428,2026-09-16 14:01,Technical,High,Resolved,1.3,4.2,AGT-04,5,Webhook events delayed
+TKT-0304,2026-09-17 05:57,Billing,High,Resolved,1.2,5.6,AGT-05,5,Double payment on subscription
+TKT-0093,2026-09-17 09:05,Billing,Medium,Resolved,2.0,5.2,AGT-01,5,Refund not processed
+TKT-0820,2026-09-17 11:01,Technical,Low,Resolved,3.0,8.4,AGT-02,4,API timeout in production
+TKT-1422,2026-09-17 11:26,General,Medium,Resolved,1.8,22.6,AGT-07,5,Need onboarding session
+TKT-1566,2026-09-17 12:33,Technical,Critical,Escalated,0.4,,AGT-09,,Login failure after update
+TKT-0946,2026-09-17 12:48,Billing,Medium,Resolved,3.7,8.7,AGT-05,1,Refund not processed
+TKT-1242,2026-09-17 13:19,Billing,High,Resolved,0.8,5.8,AGT-07,4,Incorrect charge on invoice
+TKT-1757,2026-09-17 16:31,Technical,Critical,Open,1.5,,AGT-09,,Webhook events delayed
+TKT-1705,2026-09-17 23:33,Technical,Critical,Escalated,0.1,,AGT-09,,Two-factor code not arriving
+TKT-1885,2026-09-17 23:42,Billing,High,Resolved,1.9,6.5,AGT-10,4,Refund not processed
+TKT-0639,2026-09-18 06:46,General,Low,Resolved,5.0,9.0,AGT-06,3,Need onboarding session
+TKT-1659,2026-09-18 12:15,Technical,Medium,Resolved,1.6,7.7,AGT-01,5,Login failure after update
+TKT-0123,2026-09-18 15:08,Technical,High,Resolved,0.5,2.2,AGT-12,5,Dashboard not loading
+TKT-1657,2026-09-18 21:07,Billing,High,Open,1.0,,AGT-01,,Double payment on subscription
+TKT-1277,2026-09-19 01:35,Technical,High,Escalated,2.1,,AGT-05,,Webhook events delayed
+TKT-1845,2026-09-19 09:23,Billing,Low,Resolved,8.0,8.2,AGT-03,3,Refund not processed
+TKT-1078,2026-09-19 11:15,Technical,Critical,Open,1.3,,AGT-12,,Dashboard not loading
+TKT-0361,2026-09-19 12:15,Billing,High,Open,1.4,,AGT-10,,Double payment on subscription
+TKT-0114,2026-09-19 15:46,Billing,Low,Open,1.8,,AGT-01,,Refund not processed
+TKT-1512,2026-09-19 15:51,General,Medium,Resolved,3.0,3.2,AGT-03,5,Request for product docs
+TKT-0763,2026-09-19 18:10,Billing,Low,Resolved,0.3,3.3,AGT-12,5,Invoice missing GST details
+TKT-1927,2026-09-20 01:47,Technical,Critical,Escalated,2.9,,AGT-02,,Export to CSV fails
+TKT-1920,2026-09-20 09:58,Billing,Medium,Resolved,1.6,3.5,AGT-11,5,Incorrect charge on invoice
+TKT-1469,2026-09-20 11:23,Billing,High,Resolved,0.7,15.8,AGT-11,4,Double payment on subscription
+TKT-0806,2026-09-20 15:24,Technical,Low,Resolved,2.2,9.7,AGT-04,5,API timeout in production
+TKT-1276,2026-09-20 16:37,Billing,Medium,Resolved,2.3,2.5,AGT-06,4,Double payment on subscription
+TKT-1156,2026-09-21 10:12,Technical,Low,Open,5.8,,AGT-12,,Two-factor code not arriving
+TKT-0405,2026-09-21 12:25,Billing,Low,Open,3.5,,AGT-07,,Incorrect charge on invoice
+TKT-0430,2026-09-21 12:58,General,Medium,Resolved,3.0,16.8,AGT-01,4,Question about data retention
+TKT-1375,2026-09-21 13:41,Billing,High,Resolved,0.8,60.8,AGT-07,5,Double payment on subscription
+TKT-1475,2026-09-21 18:17,General,Critical,Escalated,3.6,,AGT-06,,Request for product docs
+TKT-0917,2026-09-22 05:03,Billing,Critical,Escalated,5.3,,AGT-09,,Incorrect charge on invoice
+TKT-0345,2026-09-22 07:31,Billing,Medium,Resolved,2.3,4.3,AGT-06,5,Incorrect charge on invoice
+TKT-1759,2026-09-22 12:10,Technical,Critical,Open,1.5,,AGT-03,,Login failure after update
+TKT-0146,2026-09-22 12:21,Technical,Critical,Resolved,0.7,4.4,AGT-01,4,Dashboard not loading
+TKT-1143,2026-09-22 13:09,Technical,Low,Open,1.1,,AGT-07,,Webhook events delayed
+TKT-0797,2026-09-22 14:02,Technical,Critical,Resolved,1.7,8.7,AGT-05,4,Dashboard not loading
+TKT-1720,2026-09-22 14:22,Billing,High,Resolved,1.8,4.0,AGT-07,4,Coupon code not applied
+TKT-0248,2026-09-22 15:33,General,Critical,Open,0.3,,AGT-09,,Need onboarding session
+TKT-1354,2026-09-22 21:33,Billing,Critical,Open,0.5,,AGT-05,,Card declined at renewal
+TKT-0531,2026-09-23 08:52,Billing,Critical,Escalated,1.1,,AGT-04,,Double payment on subscription
+TKT-0276,2026-09-23 10:27,Technical,Low,Resolved,1.7,11.9,AGT-04,4,Login failure after update
+TKT-0516,2026-09-23 11:45,General,Critical,Resolved,0.8,5.1,AGT-01,3,How to change account owner
+TKT-1505,2026-09-23 12:52,Technical,Low,Resolved,3.2,3.7,AGT-08,3,Two-factor code not arriving
+TKT-0209,2026-09-23 14:16,Technical,Medium,Open,2.6,,AGT-11,,Dashboard not loading
+TKT-1570,2026-09-24 06:55,Technical,Low,Resolved,1.5,10.9,AGT-09,4,Two-factor code not arriving
+TKT-1037,2026-09-24 07:59,General,Critical,Escalated,2.2,,AGT-08,,Feature request: dark mode
+TKT-1628,2026-09-24 09:31,Billing,Medium,Resolved,2.1,10.1,AGT-02,4,Coupon code not applied
+TKT-0454,2026-09-24 09:57,Billing,Low,Resolved,2.4,3.6,AGT-10,5,Coupon code not applied
+TKT-1342,2026-09-24 14:28,Billing,Low,Resolved,1.4,9.9,AGT-06,4,Coupon code not applied
+TKT-0391,2026-09-24 16:21,Technical,Low,Resolved,2.3,2.5,AGT-01,5,Login failure after update
+TKT-1600,2026-09-24 17:25,Technical,Critical,Resolved,1.2,8.7,AGT-03,5,API timeout in production
+TKT-0897,2026-09-24 21:35,General,High,Escalated,3.0,,AGT-09,,Update company address
+TKT-0046,2026-09-25 01:09,Technical,High,Open,0.4,,AGT-03,,Dashboard not loading
+TKT-0907,2026-09-25 02:56,Technical,Critical,Open,1.0,,AGT-07,,API timeout in production
+TKT-0816,2026-09-25 05:35,General,High,Open,1.6,,AGT-09,,How to change account owner
+TKT-0865,2026-09-25 07:45,Technical,Low,Resolved,2.9,10.6,AGT-04,4,Login failure after update
+TKT-1097,2026-09-25 08:29,Billing,High,Resolved,1.8,4.2,AGT-07,4,Double payment on subscription
+TKT-0386,2026-09-25 11:40,Billing,High,Open,0.5,,AGT-04,,Coupon code not applied
+TKT-0815,2026-09-25 11:56,Technical,High,Resolved,1.0,10.7,AGT-07,5,Login failure after update
+TKT-1367,2026-09-25 13:19,General,High,Escalated,3.2,,AGT-02,,Need onboarding session
+TKT-1014,2026-09-25 13:48,Billing,Low,Open,1.7,,AGT-12,,Incorrect charge on invoice
+TKT-1658,2026-09-26 11:50,Billing,Low,Resolved,8.5,8.7,AGT-10,5,Invoice missing GST details
+TKT-0777,2026-09-26 15:12,Technical,Low,Resolved,8.1,8.3,AGT-06,4,Two-factor code not arriving
+TKT-0766,2026-09-26 15:20,Technical,Medium,Open,5.3,,AGT-08,,Two-factor code not arriving
+TKT-1373,2026-09-26 15:29,Billing,Critical,Open,1.2,,AGT-07,,Incorrect charge on invoice
+TKT-1783,2026-09-27 07:20,Billing,Medium,Resolved,1.1,1.3,AGT-12,5,Refund not processed
+TKT-1046,2026-09-27 08:19,Billing,Critical,Resolved,1.6,2.4,AGT-12,5,Coupon code not applied
+TKT-0076,2026-09-27 09:22,Billing,High,Open,1.5,,AGT-09,,Refund not processed
+TKT-0279,2026-09-27 12:51,General,Critical,Resolved,0.3,1.6,AGT-04,4,Update company address
+TKT-1508,2026-09-27 13:22,General,High,Resolved,6.8,7.0,AGT-05,3,Request for product docs
+TKT-1739,2026-09-27 13:34,Technical,High,Resolved,1.0,3.0,AGT-10,4,Dashboard not loading
+TKT-0464,2026-09-27 13:38,General,Critical,Escalated,6.7,,AGT-09,,Feature request: dark mode
+TKT-1151,2026-09-27 16:44,Billing,Critical,Resolved,2.4,2.6,AGT-12,5,Refund not processed
+TKT-0683,2026-09-28 09:08,General,Critical,Resolved,1.9,3.3,AGT-11,4,How to change account owner
+TKT-1166,2026-09-28 10:28,Technical,Low,Open,3.8,,AGT-09,,API timeout in production
+TKT-0441,2026-09-28 13:05,Technical,High,Resolved,0.6,7.5,AGT-09,4,Login failure after update
+TKT-0080,2026-09-28 13:24,Technical,Critical,Resolved,1.1,4.4,AGT-03,5,Webhook events delayed
+TKT-0551,2026-09-28 15:09,Technical,Medium,Resolved,3.3,5.9,AGT-10,5,Login failure after update
+TKT-1255,2026-09-28 18:32,Technical,Low,Resolved,2.6,19.8,AGT-04,5,Dashboard not loading
+TKT-0608,2026-09-29 03:58,Billing,High,Open,0.2,,AGT-12,,Incorrect charge on invoice
+TKT-1254,2026-09-29 06:05,General,Critical,Escalated,2.2,,AGT-07,,How to change account owner
+TKT-1213,2026-09-29 09:44,General,Low,Resolved,7.0,7.2,AGT-03,5,Update company address
+TKT-1598,2026-09-29 10:08,General,Low,Resolved,9.7,9.9,AGT-04,3,Question about data retention
+TKT-0877,2026-09-29 10:34,Technical,Low,Open,2.8,,AGT-11,,Export to CSV fails
+TKT-0749,2026-09-29 11:08,General,Critical,Resolved,0.6,3.1,AGT-09,4,Update company address
+TKT-0821,2026-09-29 11:26,Technical,Low,Resolved,3.1,3.3,AGT-05,4,API timeout in production
+TKT-1715,2026-09-29 11:43,Technical,High,Resolved,1.0,10.3,AGT-05,4,API timeout in production
+TKT-1270,2026-09-29 12:48,General,Medium,Resolved,1.0,6.7,AGT-11,4,Question about data retention
+TKT-0822,2026-09-29 12:51,Technical,High,Resolved,0.3,8.7,AGT-08,2,API timeout in production
+TKT-0232,2026-09-29 16:52,Technical,Critical,Escalated,0.9,,AGT-12,,Two-factor code not arriving
+TKT-1526,2026-09-29 17:15,General,Medium,Escalated,4.8,,AGT-08,,Feature request: dark mode
+TKT-1889,2026-09-29 18:21,Technical,Medium,Resolved,2.6,10.9,AGT-05,4,Two-factor code not arriving
+TKT-0357,2026-09-29 19:30,General,High,Resolved,0.9,1.5,AGT-03,5,How to change account owner
+TKT-1972,2026-09-30 08:54,General,Critical,Resolved,0.3,9.3,AGT-01,5,Question about data retention
+TKT-1458,2026-09-30 09:33,Technical,Critical,Resolved,0.3,2.4,AGT-11,5,Export to CSV fails
+TKT-1464,2026-09-30 09:35,General,Low,Resolved,4.7,7.8,AGT-10,3,Need onboarding session
+TKT-0164,2026-09-30 10:33,General,Critical,Open,1.7,,AGT-06,,How to change account owner
+TKT-1925,2026-09-30 11:07,General,Critical,Resolved,0.2,9.6,AGT-07,4,Question about data retention
+TKT-1385,2026-09-30 14:40,Technical,Critical,Escalated,0.7,,AGT-10,,Login failure after update

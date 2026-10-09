@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Support Ticket System</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #f4f7f6; color: #333; }
+        .container { max-width: 1000px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        h1 { margin-top: 0; color: #2c3e50; }
+        .tabs { display: flex; margin-bottom: 20px; border-bottom: 1px solid #ddd; }
+        .tab { padding: 10px 20px; cursor: pointer; background: none; border: none; font-size: 16px; border-bottom: 2px solid transparent; outline: none; }
+        .tab.active { border-bottom-color: #3498db; color: #3498db; font-weight: bold; }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        
+        /* Chat */
+        .chat-container { border: 1px solid #ddd; border-radius: 4px; padding: 15px; min-height: 200px; max-height: 400px; overflow-y: auto; margin-bottom: 15px; background: #fafafa; }
+        .message { margin-bottom: 10px; padding: 10px; border-radius: 4px; }
+        .message.user { background: #e1f5fe; text-align: right; margin-left: 20%; }
+        .message.bot { background: #fff; border: 1px solid #eee; margin-right: 20%; }
+        .input-group { display: flex; }
+        input[type="text"] { flex: 1; padding: 10px; border: 1px solid #ddd; border-radius: 4px 0 0 4px; outline: none; }
+        button { padding: 10px 20px; background: #3498db; color: #fff; border: none; border-radius: 0 4px 4px 0; cursor: pointer; outline: none; }
+        button:hover { background: #2980b9; }
+        
+        /* Tables */
+        table { width: 100%; border-collapse: collapse; margin-top: 15px; font-size: 14px; }
+        th, td { padding: 10px; border: 1px solid #ddd; text-align: left; }
+        th { background: #f8f9fa; }
+        .anomaly-reason { color: #e74c3c; font-weight: bold; }
+        
+        .results-table { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 12px; }
+        .results-table th, .results-table td { border: 1px solid #dcdcdc; padding: 6px 10px; text-align: left; }
+        .results-table th { background: #f4f4f4; font-weight: 600; }
+        .results-table tbody tr:nth-child(even) { background: #fafafa; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>AI Support Ticket System</h1>
+    
+    <div class="tabs">
+        <button class="tab active" onclick="switchTab('ask-tab', this)">Ask AI</button>
+        <button class="tab" onclick="switchTab('tickets-tab', this); loadTickets();">All Tickets</button>
+        <button class="tab" onclick="switchTab('anomalies-tab', this); loadAnomalies();">Anomalies</button>
+    </div>
+
+    <!-- Chat Tab -->
+    <div id="ask-tab" class="tab-content active">
+        <div class="chat-container" id="chatbox">
+            <div class="message bot">Hello! Ask me a question about the support tickets (e.g. "How many critical tickets are unresolved?").</div>
+        </div>
+        <div class="input-group">
+            <input type="text" id="question-input" placeholder="Type your question..." onkeypress="if(event.key === 'Enter') askQuestion()">
+            <button onclick="askQuestion()">Ask</button>
+        </div>
+    </div>
+
+    <!-- Tickets Tab -->
+    <div id="tickets-tab" class="tab-content">
+        <p>Showing recent tickets (limit 50)</p>
+        <div style="overflow-x: auto;">
+            <table id="tickets-table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Created At</th>
+                        <th>Priority</th>
+                        <th>Status</th>
+                        <th>Agent</th>
+                        <th>Summary</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Anomalies Tab -->
+    <div id="anomalies-tab" class="tab-content">
+        <p>Flagged anomalies detected in the system:</p>
+        <div style="overflow-x: auto;">
+            <table id="anomalies-table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Reason</th>
+                        <th>Priority</th>
+                        <th>Status</th>
+                        <th>Res. Time (hrs)</th>
+                        <th>Rating</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    function switchTab(tabId, element) {
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.getElementById(tabId).classList.add('active');
+        element.classList.add('active');
+    }
+
+    function escapeHtml(s) {
+        if (s === null || s === undefined) return '—';
+        return String(s).replace(/[&<>"']/g, m => ({
+            '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+        }[m]));
+    }
+
+    function renderTable(rows) {
+        if (!rows || rows.length === 0) return '';
+        const cols = Object.keys(rows[0]);
+        let table = '<table class="results-table"><thead><tr>';
+        cols.forEach(c => {
+            table += `<th>${escapeHtml(c)}</th>`;
+        });
+        table += '</tr></thead><tbody>';
+        rows.forEach(row => {
+            table += '<tr>';
+            cols.forEach(c => {
+                const v = row[c];
+                table += `<td>${escapeHtml(v)}</td>`;
+            });
+            table += '</tr>';
+        });
+        table += '</tbody></table>';
+        return table;
+    }
+
+    async function askQuestion() {
+        const input = document.getElementById('question-input');
+        const question = input.value.trim();
+        if(!question) return;
+
+        const chatbox = document.getElementById('chatbox');
+        chatbox.innerHTML += `<div class="message user">${escapeHtml(question)}</div>`;
+        input.value = '';
+        chatbox.scrollTop = chatbox.scrollHeight;
+
+        try {
+            const res = await fetch('/ask', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({question: question})
+            });
+            const data = await res.json();
+            
+            let botMsg = `<div class="message bot"><strong>${escapeHtml(data.answer)}</strong>`;
+            if (data.data && data.data.length > 0) {
+                botMsg += renderTable(data.data);
+            }
+            botMsg += `</div>`;
+            chatbox.innerHTML += botMsg;
+        } catch (err) {
+            chatbox.innerHTML += `<div class="message bot" style="color:red;">Error: ${escapeHtml(err.message)}</div>`;
+        }
+        chatbox.scrollTop = chatbox.scrollHeight;
+    }
+
+    async function loadTickets() {
+        const tbody = document.querySelector('#tickets-table tbody');
+        tbody.innerHTML = '<tr><td colspan="6">Loading...</td></tr>';
+        const res = await fetch('/tickets?limit=50');
+        const data = await res.json();
+        tbody.innerHTML = data.map(t => `
+            <tr>
+                <td>${t.ticket_id}</td>
+                <td>${t.created_at}</td>
+                <td>${t.priority}</td>
+                <td>${t.status}</td>
+                <td>${t.agent_id}</td>
+                <td>${t.issue_summary}</td>
+            </tr>
+        `).join('');
+    }
+
+    async function loadAnomalies() {
+        const tbody = document.querySelector('#anomalies-table tbody');
+        tbody.innerHTML = '<tr><td colspan="6">Loading...</td></tr>';
+        const res = await fetch('/anomalies');
+        const data = await res.json();
+        tbody.innerHTML = data.map(t => `
+            <tr>
+                <td>${t.ticket_id}</td>
+                <td class="anomaly-reason">${t.anomaly_reason}</td>
+                <td>${t.priority}</td>
+                <td>${t.status}</td>
+                <td>${t.resolution_time_hrs || 'N/A'}</td>
+                <td>${t.customer_rating || 'N/A'}</td>
+            </tr>
+        `).join('');
+    }
+</script>
+</body>
+</html>
